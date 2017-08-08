@@ -50,3 +50,17 @@ FAOsearch()
 test<-function_test_FAO("EW", 7222, 6720)
 test<-function_test_FAO("EL", 7208, 6671)
 
+
+# Function visualization
+function_visualize<- function(x){
+  library(rgdal)
+  basemap<-readOGR(dsn="TM_WORLD_BORDERS_SIMPL-0.3", layer="TM_WORLD_BORDERS_SIMPL-0.3")
+  basemap@data<-data.frame(basemap@data, x[match(basemap@data[,"ISO3"], x[,"iso3"]),])
+  library(RColorBrewer) 
+  pal1<-brewer.pal(n=7, name="Reds") #n is the number of cuts we want to use
+  plot<-spplot(basemap, zcol="MEAN__SN.ITK.DEFC.ZS", col.regions=pal1, cuts=6, sub="MEAN__SN.ITK.DEFC.ZS") # Number of cuts must be one minus the number of colors
+  print(plot) #sp explicitly need to be printed within the function
+  }
+
+test2<-function_visualize(test) #uses the test output from previous functions
+
