@@ -1,0 +1,5733 @@
+country,year,consum,iso3c
+Afghanistan,1980,3.0908,AFG
+Afghanistan,1981,3.1542,AFG
+Afghanistan,1982,3.2286,AFG
+Afghanistan,1983,3.219,AFG
+Afghanistan,1984,3.0604,AFG
+Afghanistan,1985,2.9499,AFG
+Afghanistan,1986,2.708,AFG
+Afghanistan,1987,2.7152,AFG
+Afghanistan,1988,2.6168,AFG
+Afghanistan,1989,2.3905,AFG
+Afghanistan,1990,2.2313,AFG
+Afghanistan,1991,2.0571,AFG
+Afghanistan,1992,1.8995,AFG
+Afghanistan,1993,1.7592,AFG
+Afghanistan,1994,1.6935,AFG
+Afghanistan,1995,1.682,AFG
+Afghanistan,1996,1.7622,AFG
+Afghanistan,1997,1.8553,AFG
+Afghanistan,1998,1.9117,AFG
+Afghanistan,1999,1.9769,AFG
+Afghanistan,2000,1.677,AFG
+Afghanistan,2001,1.4843,AFG
+Afghanistan,2002,1.7383,AFG
+Afghanistan,2003,1.7577,AFG
+Afghanistan,2004,1.6145,AFG
+Afghanistan,2005,1.6693,AFG
+Afghanistan,2006,1.5757,AFG
+Afghanistan,2007,1.6188,AFG
+Afghanistan,2008,1.6277,AFG
+Afghanistan,2009,1.8716,AFG
+Afghanistan,2010,1.9609,AFG
+Albania,1980,8.9732,ALB
+Albania,1981,8.8557,ALB
+Albania,1982,8.1695,ALB
+Albania,1983,8.214,ALB
+Albania,1984,8.3599,ALB
+Albania,1985,8.0161,ALB
+Albania,1986,8.1853,ALB
+Albania,1987,8.1245,ALB
+Albania,1988,7.7911,ALB
+Albania,1989,8.2613,ALB
+Albania,1990,7.1737,ALB
+Albania,1991,5.4273,ALB
+Albania,1992,3.5527,ALB
+Albania,1993,3.6096,ALB
+Albania,1994,4.5174,ALB
+Albania,1995,5.6366,ALB
+Albania,1996,4.1712,ALB
+Albania,1997,3.569,ALB
+Albania,1998,3.6172,ALB
+Albania,1999,3.7651,ALB
+Albania,2000,3.8752,ALB
+Albania,2001,3.7463,ALB
+Albania,2002,3.975,ALB
+Albania,2003,5.6887,ALB
+Albania,2004,5.792,ALB
+Albania,2005,6.0485,ALB
+Albania,2006,7.2386,ALB
+Albania,2007,8.0791,ALB
+Albania,2008,8.1922,ALB
+Albania,2009,10.5485,ALB
+Albania,2010,8.2963,ALB
+Algeria,1980,4.4222,DZA
+Algeria,1981,4.8706,DZA
+Algeria,1982,5.3644,DZA
+Algeria,1983,5.6887,DZA
+Algeria,1984,5.6277,DZA
+Algeria,1985,6.2644,DZA
+Algeria,1986,6.0518,DZA
+Algeria,1987,5.716,DZA
+Algeria,1988,5.3508,DZA
+Algeria,1989,5.5379,DZA
+Algeria,1990,4.9523,DZA
+Algeria,1991,4.8067,DZA
+Algeria,1992,4.9339,DZA
+Algeria,1993,4.4463,DZA
+Algeria,1994,4.5523,DZA
+Algeria,1995,4.9593,DZA
+Algeria,1996,4.539,DZA
+Algeria,1997,4.123,DZA
+Algeria,1998,4.5969,DZA
+Algeria,1999,5.182,DZA
+Algeria,2000,4.3576,DZA
+Algeria,2001,4.6099,DZA
+Algeria,2002,5.0564,DZA
+Algeria,2003,5.5715,DZA
+Algeria,2004,5.6814,DZA
+Algeria,2005,5.6012,DZA
+Algeria,2006,6.2446,DZA
+Algeria,2007,6.111,DZA
+Algeria,2008,7.2327,DZA
+Algeria,2009,7.7568,DZA
+Algeria,2010,6.7336,DZA
+Angola,1980,2.9233,AGO
+Angola,1981,2.8838,AGO
+Angola,1982,2.7094,AGO
+Angola,1983,2.5372,AGO
+Angola,1984,2.5641,AGO
+Angola,1985,2.5295,AGO
+Angola,1986,2.2511,AGO
+Angola,1987,2.2205,AGO
+Angola,1988,2.8641,AGO
+Angola,1989,2.8732,AGO
+Angola,1990,2.2545,AGO
+Angola,1991,2.2011,AGO
+Angola,1992,2.2851,AGO
+Angola,1993,1.8345,AGO
+Angola,1994,1.8829,AGO
+Angola,1995,2.5508,AGO
+Angola,1996,2.5263,AGO
+Angola,1997,2.1601,AGO
+Angola,1998,2.6588,AGO
+Angola,1999,2.7685,AGO
+Angola,2000,2.7421,AGO
+Angola,2001,3.2565,AGO
+Angola,2002,3.1943,AGO
+Angola,2003,3.3847,AGO
+Angola,2004,3.4306,AGO
+Angola,2005,3.9062,AGO
+Angola,2006,4.1033,AGO
+Angola,2007,4.4421,AGO
+Angola,2008,4.4737,AGO
+Angola,2009,4.7299,AGO
+Angola,2010,6.4727,AGO
+Antigua and Barbuda,1980,5.5693,ATG
+Antigua and Barbuda,1981,6.9471,ATG
+Antigua and Barbuda,1982,5.8519,ATG
+Antigua and Barbuda,1983,5.9496,ATG
+Antigua and Barbuda,1984,6.1918,ATG
+Antigua and Barbuda,1985,6.6397,ATG
+Antigua and Barbuda,1986,6.9783,ATG
+Antigua and Barbuda,1987,7.438,ATG
+Antigua and Barbuda,1988,7.7248,ATG
+Antigua and Barbuda,1989,7.9096,ATG
+Antigua and Barbuda,1990,8.0081,ATG
+Antigua and Barbuda,1991,8.1603,ATG
+Antigua and Barbuda,1992,8.1469,ATG
+Antigua and Barbuda,1993,8.2125,ATG
+Antigua and Barbuda,1994,8.3259,ATG
+Antigua and Barbuda,1995,7.9606,ATG
+Antigua and Barbuda,1996,8.0558,ATG
+Antigua and Barbuda,1997,13.5038,ATG
+Antigua and Barbuda,1998,13.3891,ATG
+Antigua and Barbuda,1999,13.3519,ATG
+Antigua and Barbuda,2000,13.1975,ATG
+Antigua and Barbuda,2001,12.5811,ATG
+Antigua and Barbuda,2002,12.2593,ATG
+Antigua and Barbuda,2003,12.09,ATG
+Antigua and Barbuda,2004,10.7728,ATG
+Antigua and Barbuda,2005,11.3759,ATG
+Antigua and Barbuda,2006,11.9782,ATG
+Antigua and Barbuda,2007,12.3127,ATG
+Antigua and Barbuda,2008,12.2945,ATG
+Antigua and Barbuda,2009,18.4192,ATG
+Antigua and Barbuda,2010,9.538,ATG
+Argentina,1980,15.6045,ARG
+Argentina,1981,15.0878,ARG
+Argentina,1982,14.4426,ARG
+Argentina,1983,14.0019,ARG
+Argentina,1984,13.954,ARG
+Argentina,1985,13.0355,ARG
+Argentina,1986,13.2407,ARG
+Argentina,1987,13.1928,ARG
+Argentina,1988,13.1405,ARG
+Argentina,1989,12.2567,ARG
+Argentina,1990,11.7608,ARG
+Argentina,1991,12.0854,ARG
+Argentina,1992,12.3972,ARG
+Argentina,1993,12.2695,ARG
+Argentina,1994,12.5445,ARG
+Argentina,1995,12.0996,ARG
+Argentina,1996,12.0257,ARG
+Argentina,1997,12.6346,ARG
+Argentina,1998,13.3722,ARG
+Argentina,1999,13.6281,ARG
+Argentina,2000,12.7898,ARG
+Argentina,2001,12.5246,ARG
+Argentina,2002,12.0581,ARG
+Argentina,2003,13.0654,ARG
+Argentina,2004,13.4833,ARG
+Argentina,2005,13.861,ARG
+Argentina,2006,14.4441,ARG
+Argentina,2007,14.9723,ARG
+Argentina,2008,14.7152,ARG
+Argentina,2009,13.648,ARG
+Argentina,2010,14.051,ARG
+Armenia,1980,0,ARM
+Armenia,1981,0,ARM
+Armenia,1982,0,ARM
+Armenia,1983,0,ARM
+Armenia,1984,0,ARM
+Armenia,1985,0,ARM
+Armenia,1986,0,ARM
+Armenia,1987,0,ARM
+Armenia,1988,0,ARM
+Armenia,1989,0,ARM
+Armenia,1990,0,ARM
+Armenia,1991,0,ARM
+Armenia,1992,3.3866,ARM
+Armenia,1993,2.4973,ARM
+Armenia,1994,2.3265,ARM
+Armenia,1995,3.3353,ARM
+Armenia,1996,3.8728,ARM
+Armenia,1997,3.6447,ARM
+Armenia,1998,4.4124,ARM
+Armenia,1999,4.4066,ARM
+Armenia,2000,4.5058,ARM
+Armenia,2001,4.8476,ARM
+Armenia,2002,5.1247,ARM
+Armenia,2003,5.1504,ARM
+Armenia,2004,5.4719,ARM
+Armenia,2005,5.709,ARM
+Armenia,2006,6.4992,ARM
+Armenia,2007,6.8518,ARM
+Armenia,2008,7.9461,ARM
+Armenia,2009,7.5049,ARM
+Armenia,2010,7.7676,ARM
+Australia,1980,40.2046,AUS
+Australia,1981,40.3969,AUS
+Australia,1982,39.5225,AUS
+Australia,1983,38.4445,AUS
+Australia,1984,38.2988,AUS
+Australia,1985,37.8302,AUS
+Australia,1986,39.1413,AUS
+Australia,1987,40.4785,AUS
+Australia,1988,40.2785,AUS
+Australia,1989,44.1732,AUS
+Australia,1990,45.9262,AUS
+Australia,1991,43.6985,AUS
+Australia,1992,44.3737,AUS
+Australia,1993,44.757,AUS
+Australia,1994,43.3315,AUS
+Australia,1995,45.4026,AUS
+Australia,1996,48.7008,AUS
+Australia,1997,48.2232,AUS
+Australia,1998,50.6284,AUS
+Australia,1999,49.8801,AUS
+Australia,2000,50.8979,AUS
+Australia,2001,51.1993,AUS
+Australia,2002,48.9794,AUS
+Australia,2003,51.0125,AUS
+Australia,2004,49.2047,AUS
+Australia,2005,50.9579,AUS
+Australia,2006,47.6983,AUS
+Australia,2007,48.1442,AUS
+Australia,2008,47.0955,AUS
+Australia,2009,45.2416,AUS
+Australia,2010,44.1283,AUS
+Austria,1980,22.4963,AUT
+Austria,1981,22.0056,AUT
+Austria,1982,21.3734,AUT
+Austria,1983,20.6218,AUT
+Austria,1984,21.6243,AUT
+Austria,1985,21.1051,AUT
+Austria,1986,21.1558,AUT
+Austria,1987,21.2845,AUT
+Austria,1988,21.5859,AUT
+Austria,1989,22.3668,AUT
+Austria,1990,22.6426,AUT
+Austria,1991,22.669,AUT
+Austria,1992,23.5784,AUT
+Austria,1993,22.7613,AUT
+Austria,1994,22.1346,AUT
+Austria,1995,22.4366,AUT
+Austria,1996,22.9009,AUT
+Austria,1997,22.5287,AUT
+Austria,1998,21.6733,AUT
+Austria,1999,21.8642,AUT
+Austria,2000,21.6411,AUT
+Austria,2001,21.0186,AUT
+Austria,2002,22.6094,AUT
+Austria,2003,22.6475,AUT
+Austria,2004,23.1114,AUT
+Austria,2005,23.8149,AUT
+Austria,2006,24.4642,AUT
+Austria,2007,24.7426,AUT
+Austria,2008,22.7851,AUT
+Austria,2009,21.4897,AUT
+Austria,2010,21.5446,AUT
+Azerbaijan,1980,0,AZE
+Azerbaijan,1981,0,AZE
+Azerbaijan,1982,0,AZE
+Azerbaijan,1983,0,AZE
+Azerbaijan,1984,0,AZE
+Azerbaijan,1985,0,AZE
+Azerbaijan,1986,0,AZE
+Azerbaijan,1987,0,AZE
+Azerbaijan,1988,0,AZE
+Azerbaijan,1989,0,AZE
+Azerbaijan,1990,0,AZE
+Azerbaijan,1991,0,AZE
+Azerbaijan,1992,5.0334,AZE
+Azerbaijan,1993,4.429,AZE
+Azerbaijan,1994,3.8059,AZE
+Azerbaijan,1995,3.3337,AZE
+Azerbaijan,1996,3.306,AZE
+Azerbaijan,1997,3.3533,AZE
+Azerbaijan,1998,3.6025,AZE
+Azerbaijan,1999,3.6721,AZE
+Azerbaijan,2000,3.7651,AZE
+Azerbaijan,2001,3.8057,AZE
+Azerbaijan,2002,4.4703,AZE
+Azerbaijan,2003,5.0698,AZE
+Azerbaijan,2004,5.9775,AZE
+Azerbaijan,2005,7.6049,AZE
+Azerbaijan,2006,8.7712,AZE
+Azerbaijan,2007,10.5208,AZE
+Azerbaijan,2008,3.5819,AZE
+Azerbaijan,2009,9.1706,AZE
+Azerbaijan,2010,8.4994,AZE
+Bahamas,1980,122.4178,BHS
+Bahamas,1981,21.4276,BHS
+Bahamas,1982,31.0426,BHS
+Bahamas,1983,11.1782,BHS
+Bahamas,1984,17.0744,BHS
+Bahamas,1985,3.9383,BHS
+Bahamas,1986,-22.6959,BHS
+Bahamas,1987,8.2947,BHS
+Bahamas,1988,-20.9504,BHS
+Bahamas,1989,-4.2546,BHS
+Bahamas,1990,-1.2754,BHS
+Bahamas,1991,1.5015,BHS
+Bahamas,1992,2.4046,BHS
+Bahamas,1993,4.7233,BHS
+Bahamas,1994,6.9877,BHS
+Bahamas,1995,9.3212,BHS
+Bahamas,1996,11.4557,BHS
+Bahamas,1997,13.5999,BHS
+Bahamas,1998,14.3672,BHS
+Bahamas,1999,21.0296,BHS
+Bahamas,2000,16.6755,BHS
+Bahamas,2001,28.7783,BHS
+Bahamas,2002,20.562,BHS
+Bahamas,2003,18.9029,BHS
+Bahamas,2004,16.9272,BHS
+Bahamas,2005,14.9507,BHS
+Bahamas,2006,15.0993,BHS
+Bahamas,2007,3.0836,BHS
+Bahamas,2008,2.212,BHS
+Bahamas,2009,5.5403,BHS
+Bahamas,2010,7.9575,BHS
+Bahrain,1980,44.627,BHR
+Bahrain,1981,45.9135,BHR
+Bahrain,1982,42.7648,BHR
+Bahrain,1983,39.8562,BHR
+Bahrain,1984,42.3346,BHR
+Bahrain,1985,39.5461,BHR
+Bahrain,1986,47.7598,BHR
+Bahrain,1987,40.4746,BHR
+Bahrain,1988,40.5996,BHR
+Bahrain,1989,40.2197,BHR
+Bahrain,1990,40.3793,BHR
+Bahrain,1991,38.1283,BHR
+Bahrain,1992,39.8717,BHR
+Bahrain,1993,41.4463,BHR
+Bahrain,1994,39.2338,BHR
+Bahrain,1995,47.8184,BHR
+Bahrain,1996,37.5948,BHR
+Bahrain,1997,34.46,BHR
+Bahrain,1998,31.0723,BHR
+Bahrain,1999,27.072,BHR
+Bahrain,2000,31.4508,BHR
+Bahrain,2001,26.0414,BHR
+Bahrain,2002,25.812,BHR
+Bahrain,2003,24.7143,BHR
+Bahrain,2004,23.9194,BHR
+Bahrain,2005,33.8165,BHR
+Bahrain,2006,30.3138,BHR
+Bahrain,2007,27.2162,BHR
+Bahrain,2008,26.8471,BHR
+Bahrain,2009,34.2038,BHR
+Bahrain,2010,24.8821,BHR
+Bangladesh,1980,1.6303,BGD
+Bangladesh,1981,1.5677,BGD
+Bangladesh,1982,1.5671,BGD
+Bangladesh,1983,1.5614,BGD
+Bangladesh,1984,1.5453,BGD
+Bangladesh,1985,1.5753,BGD
+Bangladesh,1986,1.5118,BGD
+Bangladesh,1987,1.5008,BGD
+Bangladesh,1988,1.5028,BGD
+Bangladesh,1989,1.4948,BGD
+Bangladesh,1990,1.489,BGD
+Bangladesh,1991,1.4703,BGD
+Bangladesh,1992,1.4677,BGD
+Bangladesh,1993,1.473,BGD
+Bangladesh,1994,1.5087,BGD
+Bangladesh,1995,1.5591,BGD
+Bangladesh,1996,1.5029,BGD
+Bangladesh,1997,1.5475,BGD
+Bangladesh,1998,1.7232,BGD
+Bangladesh,1999,1.7087,BGD
+Bangladesh,2000,1.7253,BGD
+Bangladesh,2001,1.7738,BGD
+Bangladesh,2002,1.7729,BGD
+Bangladesh,2003,1.7361,BGD
+Bangladesh,2004,1.7487,BGD
+Bangladesh,2005,1.9541,BGD
+Bangladesh,2006,2.0203,BGD
+Bangladesh,2007,1.9911,BGD
+Bangladesh,2008,1.9016,BGD
+Bangladesh,2009,2.0456,BGD
+Bangladesh,2010,2.1664,BGD
+Barbados,1980,12.0293,BRB
+Barbados,1981,11.1869,BRB
+Barbados,1982,10.6397,BRB
+Barbados,1983,9.8319,BRB
+Barbados,1984,13.9199,BRB
+Barbados,1985,13.429,BRB
+Barbados,1986,12.4104,BRB
+Barbados,1987,11.7678,BRB
+Barbados,1988,13.1502,BRB
+Barbados,1989,13.2561,BRB
+Barbados,1990,14.7938,BRB
+Barbados,1991,12.3941,BRB
+Barbados,1992,12.8548,BRB
+Barbados,1993,9.6078,BRB
+Barbados,1994,9.7645,BRB
+Barbados,1995,9.4974,BRB
+Barbados,1996,12.4194,BRB
+Barbados,1997,12.1605,BRB
+Barbados,1998,12.9059,BRB
+Barbados,1999,13.2468,BRB
+Barbados,2000,11.0065,BRB
+Barbados,2001,9.7522,BRB
+Barbados,2002,8.9719,BRB
+Barbados,2003,9.2854,BRB
+Barbados,2004,9.0185,BRB
+Barbados,2005,14.8282,BRB
+Barbados,2006,15.1411,BRB
+Barbados,2007,8.3659,BRB
+Barbados,2008,14.3784,BRB
+Barbados,2009,12.4886,BRB
+Barbados,2010,5.9434,BRB
+Belarus,1980,0,BLR
+Belarus,1981,0,BLR
+Belarus,1982,0,BLR
+Belarus,1983,0,BLR
+Belarus,1984,0,BLR
+Belarus,1985,0,BLR
+Belarus,1986,0,BLR
+Belarus,1987,0,BLR
+Belarus,1988,0,BLR
+Belarus,1989,0,BLR
+Belarus,1990,0,BLR
+Belarus,1991,0,BLR
+Belarus,1992,11.1902,BLR
+Belarus,1993,10.0139,BLR
+Belarus,1994,8.697,BLR
+Belarus,1995,9.4633,BLR
+Belarus,1996,9.3512,BLR
+Belarus,1997,10.675,BLR
+Belarus,1998,10.0497,BLR
+Belarus,1999,9.9098,BLR
+Belarus,2000,9.3222,BLR
+Belarus,2001,8.1123,BLR
+Belarus,2002,8.1432,BLR
+Belarus,2003,10.0279,BLR
+Belarus,2004,9.7115,BLR
+Belarus,2005,9.9545,BLR
+Belarus,2006,11.3545,BLR
+Belarus,2007,11.9591,BLR
+Belarus,2008,13.5587,BLR
+Belarus,2009,12.8147,BLR
+Belarus,2010,13.8753,BLR
+Belgium,1980,15.5889,BEL
+Belgium,1981,14.6084,BEL
+Belgium,1982,14.0234,BEL
+Belgium,1983,11.9592,BEL
+Belgium,1984,13.0799,BEL
+Belgium,1985,13.2085,BEL
+Belgium,1986,13.3991,BEL
+Belgium,1987,13.7139,BEL
+Belgium,1988,14.8456,BEL
+Belgium,1989,14.8918,BEL
+Belgium,1990,15.8164,BEL
+Belgium,1991,15.732,BEL
+Belgium,1992,16.0019,BEL
+Belgium,1993,14.8131,BEL
+Belgium,1994,15.801,BEL
+Belgium,1995,15.363,BEL
+Belgium,1996,15.9077,BEL
+Belgium,1997,15.221,BEL
+Belgium,1998,16.018,BEL
+Belgium,1999,16.3697,BEL
+Belgium,2000,15.8048,BEL
+Belgium,2001,15.539,BEL
+Belgium,2002,15.8227,BEL
+Belgium,2003,14.9972,BEL
+Belgium,2004,15.4099,BEL
+Belgium,2005,15.7332,BEL
+Belgium,2006,16.0911,BEL
+Belgium,2007,15.153,BEL
+Belgium,2008,14.8809,BEL
+Belgium,2009,16.7928,BEL
+Belgium,2010,17.0998,BEL
+Belize,1980,16.9655,BLZ
+Belize,1981,17.3562,BLZ
+Belize,1982,17.7794,BLZ
+Belize,1983,18.5372,BLZ
+Belize,1984,17.2098,BLZ
+Belize,1985,16.2295,BLZ
+Belize,1986,13.6026,BLZ
+Belize,1987,13.2068,BLZ
+Belize,1988,12.8871,BLZ
+Belize,1989,14.722,BLZ
+Belize,1990,15.9368,BLZ
+Belize,1991,15.8391,BLZ
+Belize,1992,16.5853,BLZ
+Belize,1993,16.646,BLZ
+Belize,1994,16.5427,BLZ
+Belize,1995,14.8847,BLZ
+Belize,1996,15.8313,BLZ
+Belize,1997,15.026,BLZ
+Belize,1998,15.0245,BLZ
+Belize,1999,15.2066,BLZ
+Belize,2000,15.439,BLZ
+Belize,2001,16.7554,BLZ
+Belize,2002,15.6939,BLZ
+Belize,2003,13.8754,BLZ
+Belize,2004,14.5038,BLZ
+Belize,2005,13.4964,BLZ
+Belize,2006,15.0765,BLZ
+Belize,2007,15.2723,BLZ
+Belize,2008,15.059,BLZ
+Belize,2009,13.8336,BLZ
+Belize,2010,14.7236,BLZ
+Benin,1980,3.5544,BEN
+Benin,1981,3.5776,BEN
+Benin,1982,3.5921,BEN
+Benin,1983,3.4911,BEN
+Benin,1984,3.6161,BEN
+Benin,1985,3.6182,BEN
+Benin,1986,3.4256,BEN
+Benin,1987,3.2314,BEN
+Benin,1988,3.1479,BEN
+Benin,1989,3.1097,BEN
+Benin,1990,3.2436,BEN
+Benin,1991,3.2425,BEN
+Benin,1992,3.5143,BEN
+Benin,1993,3.541,BEN
+Benin,1994,3.4184,BEN
+Benin,1995,3.7298,BEN
+Benin,1996,3.4595,BEN
+Benin,1997,3.6699,BEN
+Benin,1998,3.3569,BEN
+Benin,1999,3.4545,BEN
+Benin,2000,3.648,BEN
+Benin,2001,3.8217,BEN
+Benin,2002,3.561,BEN
+Benin,2003,3.616,BEN
+Benin,2004,3.35,BEN
+Benin,2005,3.3165,BEN
+Benin,2006,4.3707,BEN
+Benin,2007,4.5362,BEN
+Benin,2008,4.4086,BEN
+Benin,2009,4.426,BEN
+Benin,2010,4.2325,BEN
+Bermuda,1980,15.2872,BMU
+Bermuda,1981,18.6278,BMU
+Bermuda,1982,22.4236,BMU
+Bermuda,1983,27.7496,BMU
+Bermuda,1984,31.2896,BMU
+Bermuda,1985,30.6254,BMU
+Bermuda,1986,30.2546,BMU
+Bermuda,1987,29.5553,BMU
+Bermuda,1988,29.2105,BMU
+Bermuda,1989,26.2613,BMU
+Bermuda,1990,23.6104,BMU
+Bermuda,1991,23.063,BMU
+Bermuda,1992,22.3047,BMU
+Bermuda,1993,26.3999,BMU
+Bermuda,1994,24.4496,BMU
+Bermuda,1995,18.3383,BMU
+Bermuda,1996,19.2027,BMU
+Bermuda,1997,19.3187,BMU
+Bermuda,1998,19.4331,BMU
+Bermuda,1999,19.6996,BMU
+Bermuda,2000,19.9589,BMU
+Bermuda,2001,20.2309,BMU
+Bermuda,2002,20.3223,BMU
+Bermuda,2003,20.5849,BMU
+Bermuda,2004,20.8421,BMU
+Bermuda,2005,21.0942,BMU
+Bermuda,2006,15.5936,BMU
+Bermuda,2007,16.3696,BMU
+Bermuda,2008,22.467,BMU
+Bermuda,2009,17.0278,BMU
+Bermuda,2010,16.0529,BMU
+Bhutan,1980,10.2856,BTN
+Bhutan,1981,10.0951,BTN
+Bhutan,1982,10.0923,BTN
+Bhutan,1983,10.0183,BTN
+Bhutan,1984,10.075,BTN
+Bhutan,1985,9.8514,BTN
+Bhutan,1986,9.6144,BTN
+Bhutan,1987,9.6238,BTN
+Bhutan,1988,9.2876,BTN
+Bhutan,1989,9.113,BTN
+Bhutan,1990,8.6381,BTN
+Bhutan,1991,8.9176,BTN
+Bhutan,1992,9.1602,BTN
+Bhutan,1993,8.9308,BTN
+Bhutan,1994,8.8503,BTN
+Bhutan,1995,9.4472,BTN
+Bhutan,1996,9.4234,BTN
+Bhutan,1997,9.3398,BTN
+Bhutan,1998,9.1982,BTN
+Bhutan,1999,9.6227,BTN
+Bhutan,2000,9.2224,BTN
+Bhutan,2001,9.188,BTN
+Bhutan,2002,9.6597,BTN
+Bhutan,2003,9.6312,BTN
+Bhutan,2004,9.5771,BTN
+Bhutan,2005,9.7161,BTN
+Bhutan,2006,10.0502,BTN
+Bhutan,2007,10.9257,BTN
+Bhutan,2008,11.9638,BTN
+Bhutan,2009,9.8853,BTN
+Bhutan,2010,9.8507,BTN
+Bolivia,1980,15.3871,BOL
+Bolivia,1981,15.6609,BOL
+Bolivia,1982,14.4909,BOL
+Bolivia,1983,14.1066,BOL
+Bolivia,1984,12.0081,BOL
+Bolivia,1985,11.6281,BOL
+Bolivia,1986,9.6875,BOL
+Bolivia,1987,9.6435,BOL
+Bolivia,1988,10.2767,BOL
+Bolivia,1989,11.1015,BOL
+Bolivia,1990,11.4776,BOL
+Bolivia,1991,11.2075,BOL
+Bolivia,1992,11.0379,BOL
+Bolivia,1993,11.8708,BOL
+Bolivia,1994,11.7577,BOL
+Bolivia,1995,11.9064,BOL
+Bolivia,1996,11.7089,BOL
+Bolivia,1997,11.4992,BOL
+Bolivia,1998,11.4155,BOL
+Bolivia,1999,11.7188,BOL
+Bolivia,2000,11.562,BOL
+Bolivia,2001,10.8092,BOL
+Bolivia,2002,11.078,BOL
+Bolivia,2003,11.5209,BOL
+Bolivia,2004,11.4542,BOL
+Bolivia,2005,11.7757,BOL
+Bolivia,2006,11.9461,BOL
+Bolivia,2007,11.9405,BOL
+Bolivia,2008,13.7187,BOL
+Bolivia,2009,14.8065,BOL
+Bolivia,2010,14.4538,BOL
+Bosnia and Herzegovina,1980,0,BIH
+Bosnia and Herzegovina,1981,0,BIH
+Bosnia and Herzegovina,1982,0,BIH
+Bosnia and Herzegovina,1983,0,BIH
+Bosnia and Herzegovina,1984,0,BIH
+Bosnia and Herzegovina,1985,0,BIH
+Bosnia and Herzegovina,1986,0,BIH
+Bosnia and Herzegovina,1987,0,BIH
+Bosnia and Herzegovina,1988,0,BIH
+Bosnia and Herzegovina,1989,0,BIH
+Bosnia and Herzegovina,1990,0,BIH
+Bosnia and Herzegovina,1991,0,BIH
+Bosnia and Herzegovina,1992,5.6227,BIH
+Bosnia and Herzegovina,1993,5.1293,BIH
+Bosnia and Herzegovina,1994,2.3702,BIH
+Bosnia and Herzegovina,1995,2.4878,BIH
+Bosnia and Herzegovina,1996,2.468,BIH
+Bosnia and Herzegovina,1997,4.6782,BIH
+Bosnia and Herzegovina,1998,5.7054,BIH
+Bosnia and Herzegovina,1999,5.9579,BIH
+Bosnia and Herzegovina,2000,6.8071,BIH
+Bosnia and Herzegovina,2001,7.5229,BIH
+Bosnia and Herzegovina,2002,8.4293,BIH
+Bosnia and Herzegovina,2003,8.378,BIH
+Bosnia and Herzegovina,2004,8.8548,BIH
+Bosnia and Herzegovina,2005,8.0875,BIH
+Bosnia and Herzegovina,2006,8.9287,BIH
+Bosnia and Herzegovina,2007,8.7306,BIH
+Bosnia and Herzegovina,2008,9.6312,BIH
+Bosnia and Herzegovina,2009,9.7917,BIH
+Bosnia and Herzegovina,2010,9.5347,BIH
+Botswana,1980,21.8723,BWA
+Botswana,1981,22.0979,BWA
+Botswana,1982,25.2164,BWA
+Botswana,1983,28.1591,BWA
+Botswana,1984,29.9684,BWA
+Botswana,1985,28.5951,BWA
+Botswana,1986,28.1502,BWA
+Botswana,1987,27.0922,BWA
+Botswana,1988,30.2943,BWA
+Botswana,1989,30.4089,BWA
+Botswana,1990,34.4103,BWA
+Botswana,1991,32.2319,BWA
+Botswana,1992,30.6379,BWA
+Botswana,1993,28.5675,BWA
+Botswana,1994,29.3251,BWA
+Botswana,1995,31.1086,BWA
+Botswana,1996,30.7815,BWA
+Botswana,1997,32.5799,BWA
+Botswana,1998,32.0624,BWA
+Botswana,1999,34.9058,BWA
+Botswana,2000,34.9886,BWA
+Botswana,2001,36.9984,BWA
+Botswana,2002,36.5046,BWA
+Botswana,2003,36.9945,BWA
+Botswana,2004,37.0331,BWA
+Botswana,2005,38.5077,BWA
+Botswana,2006,37.7224,BWA
+Botswana,2007,37.6657,BWA
+Botswana,2008,37.2974,BWA
+Botswana,2009,26.6283,BWA
+Botswana,2010,30.6983,BWA
+Brazil,1980,10.9429,BRA
+Brazil,1981,10.5211,BRA
+Brazil,1982,10.5027,BRA
+Brazil,1983,10.6106,BRA
+Brazil,1984,10.6696,BRA
+Brazil,1985,11.1799,BRA
+Brazil,1986,11.5555,BRA
+Brazil,1987,11.8745,BRA
+Brazil,1988,11.7003,BRA
+Brazil,1989,11.7242,BRA
+Brazil,1990,11.6544,BRA
+Brazil,1991,11.633,BRA
+Brazil,1992,11.558,BRA
+Brazil,1993,11.1948,BRA
+Brazil,1994,11.7608,BRA
+Brazil,1995,12.1042,BRA
+Brazil,1996,12.1835,BRA
+Brazil,1997,12.464,BRA
+Brazil,1998,12.5659,BRA
+Brazil,1999,12.4249,BRA
+Brazil,2000,12.428,BRA
+Brazil,2001,12.3927,BRA
+Brazil,2002,12.6318,BRA
+Brazil,2003,13.0527,BRA
+Brazil,2004,13.2214,BRA
+Brazil,2005,13.2774,BRA
+Brazil,2006,13.8269,BRA
+Brazil,2007,14.6202,BRA
+Brazil,2008,15.7041,BRA
+Brazil,2009,15.7369,BRA
+Brazil,2010,16.6195,BRA
+Brunei Darussalam,1980,7.0641,BRN
+Brunei Darussalam,1981,3.9713,BRN
+Brunei Darussalam,1982,10.7099,BRN
+Brunei Darussalam,1983,12.0075,BRN
+Brunei Darussalam,1984,9.1308,BRN
+Brunei Darussalam,1985,10.6262,BRN
+Brunei Darussalam,1986,20.1266,BRN
+Brunei Darussalam,1987,9.6016,BRN
+Brunei Darussalam,1988,15.8644,BRN
+Brunei Darussalam,1989,16.7882,BRN
+Brunei Darussalam,1990,18.0322,BRN
+Brunei Darussalam,1991,14.0095,BRN
+Brunei Darussalam,1992,17.3869,BRN
+Brunei Darussalam,1993,19.9343,BRN
+Brunei Darussalam,1994,29.9031,BRN
+Brunei Darussalam,1995,30.2157,BRN
+Brunei Darussalam,1996,35.7935,BRN
+Brunei Darussalam,1997,28.3002,BRN
+Brunei Darussalam,1998,24.8103,BRN
+Brunei Darussalam,1999,25.2885,BRN
+Brunei Darussalam,2000,23.4358,BRN
+Brunei Darussalam,2001,20.4954,BRN
+Brunei Darussalam,2002,20.2572,BRN
+Brunei Darussalam,2003,19.1763,BRN
+Brunei Darussalam,2004,20.1127,BRN
+Brunei Darussalam,2005,21.3805,BRN
+Brunei Darussalam,2006,18.882,BRN
+Brunei Darussalam,2007,19.3138,BRN
+Brunei Darussalam,2008,17.9885,BRN
+Brunei Darussalam,2009,9.24,BRN
+Brunei Darussalam,2010,7.9591,BRN
+Bulgaria,1980,13.7187,BGR
+Bulgaria,1981,13.8597,BGR
+Bulgaria,1982,14.7196,BGR
+Bulgaria,1983,14.2066,BGR
+Bulgaria,1984,14.8931,BGR
+Bulgaria,1985,13.5163,BGR
+Bulgaria,1986,14.9515,BGR
+Bulgaria,1987,15.4815,BGR
+Bulgaria,1988,15.3458,BGR
+Bulgaria,1989,15.446,BGR
+Bulgaria,1990,13.7326,BGR
+Bulgaria,1991,12.3107,BGR
+Bulgaria,1992,11.1081,BGR
+Bulgaria,1993,10.896,BGR
+Bulgaria,1994,11.1332,BGR
+Bulgaria,1995,12.2155,BGR
+Bulgaria,1996,12.0262,BGR
+Bulgaria,1997,11.9207,BGR
+Bulgaria,1998,12.0208,BGR
+Bulgaria,1999,11.9563,BGR
+Bulgaria,2000,12.0601,BGR
+Bulgaria,2001,11.9137,BGR
+Bulgaria,2002,11.8603,BGR
+Bulgaria,2003,12.345,BGR
+Bulgaria,2004,13.7674,BGR
+Bulgaria,2005,14.4005,BGR
+Bulgaria,2006,16.2802,BGR
+Bulgaria,2007,16.8428,BGR
+Bulgaria,2008,20.0616,BGR
+Bulgaria,2009,16.2206,BGR
+Bulgaria,2010,16.2872,BGR
+Burkina Faso,1980,3.4764,BFA
+Burkina Faso,1981,3.5581,BFA
+Burkina Faso,1982,3.5845,BFA
+Burkina Faso,1983,3.5308,BFA
+Burkina Faso,1984,3.5737,BFA
+Burkina Faso,1985,3.9311,BFA
+Burkina Faso,1986,4.0246,BFA
+Burkina Faso,1987,3.9115,BFA
+Burkina Faso,1988,4.0033,BFA
+Burkina Faso,1989,3.9891,BFA
+Burkina Faso,1990,3.8645,BFA
+Burkina Faso,1991,4.1578,BFA
+Burkina Faso,1992,4.0501,BFA
+Burkina Faso,1993,4.0389,BFA
+Burkina Faso,1994,3.9998,BFA
+Burkina Faso,1995,4.0577,BFA
+Burkina Faso,1996,4.0996,BFA
+Burkina Faso,1997,4.0585,BFA
+Burkina Faso,1998,4.2005,BFA
+Burkina Faso,1999,3.9604,BFA
+Burkina Faso,2000,3.466,BFA
+Burkina Faso,2001,3.6126,BFA
+Burkina Faso,2002,3.5334,BFA
+Burkina Faso,2003,4.1275,BFA
+Burkina Faso,2004,4.1218,BFA
+Burkina Faso,2005,4.3461,BFA
+Burkina Faso,2006,4.3217,BFA
+Burkina Faso,2007,4.1865,BFA
+Burkina Faso,2008,4.4318,BFA
+Burkina Faso,2009,4.3896,BFA
+Burkina Faso,2010,4.7001,BFA
+Burundi,1980,2.58,BDI
+Burundi,1981,2.4834,BDI
+Burundi,1982,2.4353,BDI
+Burundi,1983,2.3961,BDI
+Burundi,1984,2.3895,BDI
+Burundi,1985,2.4716,BDI
+Burundi,1986,2.5401,BDI
+Burundi,1987,2.4834,BDI
+Burundi,1988,2.478,BDI
+Burundi,1989,2.4199,BDI
+Burundi,1990,2.4377,BDI
+Burundi,1991,2.4354,BDI
+Burundi,1992,2.4676,BDI
+Burundi,1993,2.409,BDI
+Burundi,1994,2.2991,BDI
+Burundi,1995,2.4702,BDI
+Burundi,1996,2.4106,BDI
+Burundi,1997,2.3424,BDI
+Burundi,1998,2.2484,BDI
+Burundi,1999,2.0175,BDI
+Burundi,2000,1.9986,BDI
+Burundi,2001,2.3123,BDI
+Burundi,2002,2.2956,BDI
+Burundi,2003,2.3577,BDI
+Burundi,2004,2.3182,BDI
+Burundi,2005,2.2953,BDI
+Burundi,2006,2.3067,BDI
+Burundi,2007,2.2326,BDI
+Burundi,2008,2.1845,BDI
+Burundi,2009,2.1568,BDI
+Burundi,2010,2.2214,BDI
+Cambodia,1980,2.7645,KHM
+Cambodia,1981,2.7721,KHM
+Cambodia,1982,2.9848,KHM
+Cambodia,1983,3.0276,KHM
+Cambodia,1984,2.8718,KHM
+Cambodia,1985,2.9594,KHM
+Cambodia,1986,3.0175,KHM
+Cambodia,1987,2.9769,KHM
+Cambodia,1988,3.0684,KHM
+Cambodia,1989,3.0939,KHM
+Cambodia,1990,3.019,KHM
+Cambodia,1991,2.9398,KHM
+Cambodia,1992,2.9376,KHM
+Cambodia,1993,2.8816,KHM
+Cambodia,1994,2.8262,KHM
+Cambodia,1995,2.9336,KHM
+Cambodia,1996,2.8322,KHM
+Cambodia,1997,2.7932,KHM
+Cambodia,1998,2.8371,KHM
+Cambodia,1999,2.8987,KHM
+Cambodia,2000,2.8389,KHM
+Cambodia,2001,2.7603,KHM
+Cambodia,2002,2.7359,KHM
+Cambodia,2003,2.8623,KHM
+Cambodia,2004,2.8745,KHM
+Cambodia,2005,3.1439,KHM
+Cambodia,2006,3.3658,KHM
+Cambodia,2007,3.4656,KHM
+Cambodia,2008,3.6332,KHM
+Cambodia,2009,3.6693,KHM
+Cambodia,2010,5.7835,KHM
+Cameroon,1980,4.0535,CMR
+Cameroon,1981,4.1466,CMR
+Cameroon,1982,3.8698,CMR
+Cameroon,1983,3.9624,CMR
+Cameroon,1984,4.0312,CMR
+Cameroon,1985,4.1876,CMR
+Cameroon,1986,4.0834,CMR
+Cameroon,1987,4.0989,CMR
+Cameroon,1988,3.8245,CMR
+Cameroon,1989,3.5955,CMR
+Cameroon,1990,3.6359,CMR
+Cameroon,1991,3.594,CMR
+Cameroon,1992,3.5862,CMR
+Cameroon,1993,3.4953,CMR
+Cameroon,1994,3.3926,CMR
+Cameroon,1995,3.3543,CMR
+Cameroon,1996,3.1271,CMR
+Cameroon,1997,3.3341,CMR
+Cameroon,1998,3.5345,CMR
+Cameroon,1999,3.605,CMR
+Cameroon,2000,3.6578,CMR
+Cameroon,2001,3.6939,CMR
+Cameroon,2002,3.5584,CMR
+Cameroon,2003,3.5192,CMR
+Cameroon,2004,3.618,CMR
+Cameroon,2005,3.7529,CMR
+Cameroon,2006,3.7295,CMR
+Cameroon,2007,3.6825,CMR
+Cameroon,2008,3.4926,CMR
+Cameroon,2009,3.6088,CMR
+Cameroon,2010,3.6499,CMR
+Canada,1980,37.7285,CAN
+Canada,1981,35.4331,CAN
+Canada,1982,31.0057,CAN
+Canada,1983,32.0277,CAN
+Canada,1984,32.9513,CAN
+Canada,1985,34.412,CAN
+Canada,1986,35.4238,CAN
+Canada,1987,36.3767,CAN
+Canada,1988,36.0142,CAN
+Canada,1989,36.7879,CAN
+Canada,1990,35.044,CAN
+Canada,1991,32.2541,CAN
+Canada,1992,33.2484,CAN
+Canada,1993,32.5926,CAN
+Canada,1994,32.5934,CAN
+Canada,1995,33.347,CAN
+Canada,1996,31.5999,CAN
+Canada,1997,32.3134,CAN
+Canada,1998,33.6694,CAN
+Canada,1999,31.1814,CAN
+Canada,2000,31.5334,CAN
+Canada,2001,30.4213,CAN
+Canada,2002,30.632,CAN
+Canada,2003,29.7937,CAN
+Canada,2004,31.2052,CAN
+Canada,2005,30.0829,CAN
+Canada,2006,31.5203,CAN
+Canada,2007,30.4488,CAN
+Canada,2008,31.1168,CAN
+Canada,2009,28.0245,CAN
+Canada,2010,30.2583,CAN
+Cape Verde,1980,2.2112,CPV
+Cape Verde,1981,2.3436,CPV
+Cape Verde,1982,2.4481,CPV
+Cape Verde,1983,2.5367,CPV
+Cape Verde,1984,2.6487,CPV
+Cape Verde,1985,2.8561,CPV
+Cape Verde,1986,2.9946,CPV
+Cape Verde,1987,3.2866,CPV
+Cape Verde,1988,3.4659,CPV
+Cape Verde,1989,3.5878,CPV
+Cape Verde,1990,3.5622,CPV
+Cape Verde,1991,3.5279,CPV
+Cape Verde,1992,3.5725,CPV
+Cape Verde,1993,3.604,CPV
+Cape Verde,1994,3.4598,CPV
+Cape Verde,1995,3.4481,CPV
+Cape Verde,1996,3.7525,CPV
+Cape Verde,1997,3.155,CPV
+Cape Verde,1998,3.2422,CPV
+Cape Verde,1999,3.6156,CPV
+Cape Verde,2000,3.7225,CPV
+Cape Verde,2001,3.8485,CPV
+Cape Verde,2002,3.9125,CPV
+Cape Verde,2003,4.2239,CPV
+Cape Verde,2004,4.2548,CPV
+Cape Verde,2005,4.2812,CPV
+Cape Verde,2006,4.6323,CPV
+Cape Verde,2007,5.213,CPV
+Cape Verde,2008,5.7869,CPV
+Cape Verde,2009,5.6993,CPV
+Cape Verde,2010,5.5034,CPV
+Central African Republic,1980,4.8545,CAF
+Central African Republic,1981,4.811,CAF
+Central African Republic,1982,4.8223,CAF
+Central African Republic,1983,5.0052,CAF
+Central African Republic,1984,4.873,CAF
+Central African Republic,1985,4.8662,CAF
+Central African Republic,1986,4.9548,CAF
+Central African Republic,1987,4.8225,CAF
+Central African Republic,1988,4.8451,CAF
+Central African Republic,1989,4.9288,CAF
+Central African Republic,1990,4.8866,CAF
+Central African Republic,1991,5.0219,CAF
+Central African Republic,1992,4.9958,CAF
+Central African Republic,1993,4.8772,CAF
+Central African Republic,1994,4.8508,CAF
+Central African Republic,1995,4.8656,CAF
+Central African Republic,1996,4.6862,CAF
+Central African Republic,1997,4.7962,CAF
+Central African Republic,1998,4.8771,CAF
+Central African Republic,1999,4.6142,CAF
+Central African Republic,2000,4.65,CAF
+Central African Republic,2001,4.6478,CAF
+Central African Republic,2002,4.6045,CAF
+Central African Republic,2003,4.4953,CAF
+Central African Republic,2004,4.553,CAF
+Central African Republic,2005,4.4865,CAF
+Central African Republic,2006,4.6561,CAF
+Central African Republic,2007,4.8178,CAF
+Central African Republic,2008,4.7034,CAF
+Central African Republic,2009,4.6559,CAF
+Central African Republic,2010,4.6736,CAF
+Chad,1980,5.629,TCD
+Chad,1981,5.5652,TCD
+Chad,1982,5.5812,TCD
+Chad,1983,5.5317,TCD
+Chad,1984,4.6634,TCD
+Chad,1985,4.8123,TCD
+Chad,1986,4.7361,TCD
+Chad,1987,4.6887,TCD
+Chad,1988,4.7346,TCD
+Chad,1989,4.6373,TCD
+Chad,1990,4.6125,TCD
+Chad,1991,4.618,TCD
+Chad,1992,4.5712,TCD
+Chad,1993,4.4283,TCD
+Chad,1994,4.5139,TCD
+Chad,1995,4.487,TCD
+Chad,1996,4.3838,TCD
+Chad,1997,4.6244,TCD
+Chad,1998,4.6778,TCD
+Chad,1999,4.5706,TCD
+Chad,2000,4.4291,TCD
+Chad,2001,4.5546,TCD
+Chad,2002,4.4857,TCD
+Chad,2003,4.7205,TCD
+Chad,2004,5.3956,TCD
+Chad,2005,5.4611,TCD
+Chad,2006,5.2766,TCD
+Chad,2007,5.2518,TCD
+Chad,2008,5.0828,TCD
+Chad,2009,5.007,TCD
+Chad,2010,5.0045,TCD
+Chile,1980,17.2965,CHL
+Chile,1981,17.7749,CHL
+Chile,1982,17.8171,CHL
+Chile,1983,17.8147,CHL
+Chile,1984,18.2416,CHL
+Chile,1985,18.2987,CHL
+Chile,1986,18.8308,CHL
+Chile,1987,18.7884,CHL
+Chile,1988,19.2453,CHL
+Chile,1989,20.8218,CHL
+Chile,1990,20.9248,CHL
+Chile,1991,22.342,CHL
+Chile,1992,23.5551,CHL
+Chile,1993,24.4817,CHL
+Chile,1994,25.7768,CHL
+Chile,1995,28.0381,CHL
+Chile,1996,32.2186,CHL
+Chile,1997,33.9238,CHL
+Chile,1998,35.9812,CHL
+Chile,1999,40.7038,CHL
+Chile,2000,41.5123,CHL
+Chile,2001,41.8842,CHL
+Chile,2002,40.8455,CHL
+Chile,2003,42.3258,CHL
+Chile,2004,45.4991,CHL
+Chile,2005,44.6224,CHL
+Chile,2006,44.8306,CHL
+Chile,2007,45.9618,CHL
+Chile,2008,44.6618,CHL
+Chile,2009,44.0278,CHL
+Chile,2010,44.0477,CHL
+China,1980,2.97,CHN
+China,1981,3.078,CHN
+China,1982,3.3349,CHN
+China,1983,3.5376,CHN
+China,1984,3.7645,CHN
+China,1985,3.9168,CHN
+China,1986,4.0865,CHN
+China,1987,4.256,CHN
+China,1988,4.4756,CHN
+China,1989,4.5048,CHN
+China,1990,4.509,CHN
+China,1991,4.7261,CHN
+China,1992,5.169,CHN
+China,1993,5.6688,CHN
+China,1994,6.0673,CHN
+China,1995,6.5665,CHN
+China,1996,6.7222,CHN
+China,1997,6.7913,CHN
+China,1998,6.9677,CHN
+China,1999,7.1868,CHN
+China,2000,7.3975,CHN
+China,2001,7.8658,CHN
+China,2002,8.4021,CHN
+China,2003,9.5082,CHN
+China,2004,10.608,CHN
+China,2005,11.417,CHN
+China,2006,12.6432,CHN
+China,2007,13.7308,CHN
+China,2008,14.3048,CHN
+China,2009,16.3246,CHN
+China,2010,17.7265,CHN
+Colombia,1980,8.3502,COL
+Colombia,1981,8.2749,COL
+Colombia,1982,8.2468,COL
+Colombia,1983,8.0391,COL
+Colombia,1984,8.1243,COL
+Colombia,1985,8.2554,COL
+Colombia,1986,8.3588,COL
+Colombia,1987,7.9585,COL
+Colombia,1988,8.2172,COL
+Colombia,1989,8.2224,COL
+Colombia,1990,8.0284,COL
+Colombia,1991,7.833,COL
+Colombia,1992,8.1472,COL
+Colombia,1993,8.337,COL
+Colombia,1994,8.4915,COL
+Colombia,1995,8.4156,COL
+Colombia,1996,8.2361,COL
+Colombia,1997,8.0505,COL
+Colombia,1998,7.8488,COL
+Colombia,1999,7.7017,COL
+Colombia,2000,7.8874,COL
+Colombia,2001,7.0476,COL
+Colombia,2002,6.9603,COL
+Colombia,2003,7.3405,COL
+Colombia,2004,7.3741,COL
+Colombia,2005,7.812,COL
+Colombia,2006,7.5052,COL
+Colombia,2007,7.5235,COL
+Colombia,2008,7.7906,COL
+Colombia,2009,7.7732,COL
+Colombia,2010,7.8027,COL
+Comoros,1980,2.6143,COM
+Comoros,1981,2.4712,COM
+Comoros,1982,2.4531,COM
+Comoros,1983,2.4048,COM
+Comoros,1984,2.3371,COM
+Comoros,1985,2.2797,COM
+Comoros,1986,2.25,COM
+Comoros,1987,2.2135,COM
+Comoros,1988,2.2051,COM
+Comoros,1989,2.1729,COM
+Comoros,1990,2.2075,COM
+Comoros,1991,2.1787,COM
+Comoros,1992,2.1739,COM
+Comoros,1993,2.1437,COM
+Comoros,1994,2.0216,COM
+Comoros,1995,2.3003,COM
+Comoros,1996,2.2973,COM
+Comoros,1997,2.2128,COM
+Comoros,1998,2.2385,COM
+Comoros,1999,2.2492,COM
+Comoros,2000,2.182,COM
+Comoros,2001,2.2055,COM
+Comoros,2002,2.2262,COM
+Comoros,2003,2.1867,COM
+Comoros,2004,2.2555,COM
+Comoros,2005,2.2427,COM
+Comoros,2006,2.197,COM
+Comoros,2007,2.0023,COM
+Comoros,2008,2.0476,COM
+Comoros,2009,1.8742,COM
+Comoros,2010,1.9253,COM
+Cook Islands,1980,8.5765,COK
+Cook Islands,1981,9.0215,COK
+Cook Islands,1982,8.6547,COK
+Cook Islands,1983,7.3073,COK
+Cook Islands,1984,7.5618,COK
+Cook Islands,1985,7.5655,COK
+Cook Islands,1986,7.3505,COK
+Cook Islands,1987,6.8729,COK
+Cook Islands,1988,7.336,COK
+Cook Islands,1989,7.042,COK
+Cook Islands,1990,7.0895,COK
+Cook Islands,1991,7.2632,COK
+Cook Islands,1992,7.3385,COK
+Cook Islands,1993,7.7978,COK
+Cook Islands,1994,7.6649,COK
+Cook Islands,1995,7.4527,COK
+Cook Islands,1996,7.352,COK
+Cook Islands,1997,7.3733,COK
+Cook Islands,1998,7.4529,COK
+Cook Islands,1999,7.4069,COK
+Cook Islands,2000,12.4084,COK
+Cook Islands,2001,12.8223,COK
+Cook Islands,2002,12.5388,COK
+Cook Islands,2003,11.4851,COK
+Cook Islands,2004,10.4234,COK
+Cook Islands,2005,9.7252,COK
+Cook Islands,2006,9.7723,COK
+Cook Islands,2007,9.9462,COK
+Cook Islands,2008,9.6483,COK
+Cook Islands,2009,9.5838,COK
+Cook Islands,2010,9.8897,COK
+Costa Rica,1980,10.4684,CRI
+Costa Rica,1981,9.6454,CRI
+Costa Rica,1982,9.3301,CRI
+Costa Rica,1983,9.2581,CRI
+Costa Rica,1984,9.5984,CRI
+Costa Rica,1985,9.2707,CRI
+Costa Rica,1986,9.2322,CRI
+Costa Rica,1987,9.0447,CRI
+Costa Rica,1988,8.7544,CRI
+Costa Rica,1989,8.6797,CRI
+Costa Rica,1990,8.7595,CRI
+Costa Rica,1991,9.0935,CRI
+Costa Rica,1992,9.0436,CRI
+Costa Rica,1993,9.4061,CRI
+Costa Rica,1994,9.5401,CRI
+Costa Rica,1995,8.8645,CRI
+Costa Rica,1996,8.6806,CRI
+Costa Rica,1997,8.7183,CRI
+Costa Rica,1998,8.9822,CRI
+Costa Rica,1999,8.8749,CRI
+Costa Rica,2000,8.6749,CRI
+Costa Rica,2001,8.4465,CRI
+Costa Rica,2002,8.0612,CRI
+Costa Rica,2003,7.8968,CRI
+Costa Rica,2004,8.6188,CRI
+Costa Rica,2005,9.0908,CRI
+Costa Rica,2006,10.0441,CRI
+Costa Rica,2007,10.5053,CRI
+Costa Rica,2008,10.5442,CRI
+Costa Rica,2009,9.3658,CRI
+Costa Rica,2010,8.6199,CRI
+Cote d'Ivoire,1980,3.4676,CIV
+Cote d'Ivoire,1981,3.9968,CIV
+Cote d'Ivoire,1982,3.7287,CIV
+Cote d'Ivoire,1983,3.4405,CIV
+Cote d'Ivoire,1984,3.2904,CIV
+Cote d'Ivoire,1985,3.1368,CIV
+Cote d'Ivoire,1986,3.6111,CIV
+Cote d'Ivoire,1987,3.4908,CIV
+Cote d'Ivoire,1988,3.1606,CIV
+Cote d'Ivoire,1989,3.0561,CIV
+Cote d'Ivoire,1990,2.9933,CIV
+Cote d'Ivoire,1991,2.9426,CIV
+Cote d'Ivoire,1992,2.8859,CIV
+Cote d'Ivoire,1993,2.8024,CIV
+Cote d'Ivoire,1994,3.1457,CIV
+Cote d'Ivoire,1995,3.1283,CIV
+Cote d'Ivoire,1996,3.1268,CIV
+Cote d'Ivoire,1997,3.3668,CIV
+Cote d'Ivoire,1998,3.2264,CIV
+Cote d'Ivoire,1999,3.2673,CIV
+Cote d'Ivoire,2000,3.037,CIV
+Cote d'Ivoire,2001,2.9167,CIV
+Cote d'Ivoire,2002,2.914,CIV
+Cote d'Ivoire,2003,2.7863,CIV
+Cote d'Ivoire,2004,2.7692,CIV
+Cote d'Ivoire,2005,2.7285,CIV
+Cote d'Ivoire,2006,2.7512,CIV
+Cote d'Ivoire,2007,2.7048,CIV
+Cote d'Ivoire,2008,2.7344,CIV
+Cote d'Ivoire,2009,2.6339,CIV
+Cote d'Ivoire,2010,2.723,CIV
+Croatia,1980,0,HRV
+Croatia,1981,0,HRV
+Croatia,1982,0,HRV
+Croatia,1983,0,HRV
+Croatia,1984,0,HRV
+Croatia,1985,0,HRV
+Croatia,1986,0,HRV
+Croatia,1987,0,HRV
+Croatia,1988,0,HRV
+Croatia,1989,0,HRV
+Croatia,1990,0,HRV
+Croatia,1991,0,HRV
+Croatia,1992,4.9343,HRV
+Croatia,1993,5.388,HRV
+Croatia,1994,5.043,HRV
+Croatia,1995,6.0724,HRV
+Croatia,1996,6.9066,HRV
+Croatia,1997,7.405,HRV
+Croatia,1998,7.3965,HRV
+Croatia,1999,7.3373,HRV
+Croatia,2000,6.9158,HRV
+Croatia,2001,8.9392,HRV
+Croatia,2002,10.3638,HRV
+Croatia,2003,10.919,HRV
+Croatia,2004,11.8524,HRV
+Croatia,2005,11.7347,HRV
+Croatia,2006,12.7313,HRV
+Croatia,2007,13.2767,HRV
+Croatia,2008,14.6052,HRV
+Croatia,2009,11.5221,HRV
+Croatia,2010,9.3432,HRV
+Cuba,1980,17.8955,CUB
+Cuba,1981,19.1891,CUB
+Cuba,1982,19.8559,CUB
+Cuba,1983,19.5232,CUB
+Cuba,1984,20.3392,CUB
+Cuba,1985,18.6626,CUB
+Cuba,1986,18.8035,CUB
+Cuba,1987,19.2159,CUB
+Cuba,1988,19.8305,CUB
+Cuba,1989,20.5288,CUB
+Cuba,1990,19.7632,CUB
+Cuba,1991,17.8843,CUB
+Cuba,1992,15.5669,CUB
+Cuba,1993,12.238,CUB
+Cuba,1994,11.8832,CUB
+Cuba,1995,11.1277,CUB
+Cuba,1996,12.9616,CUB
+Cuba,1997,13.1991,CUB
+Cuba,1998,12.5564,CUB
+Cuba,1999,12.9692,CUB
+Cuba,2000,12.4371,CUB
+Cuba,2001,11.8502,CUB
+Cuba,2002,11.9544,CUB
+Cuba,2003,10.991,CUB
+Cuba,2004,10.9653,CUB
+Cuba,2005,9.4331,CUB
+Cuba,2006,9.1179,CUB
+Cuba,2007,9.9256,CUB
+Cuba,2008,10.0162,CUB
+Cuba,2009,9.8561,CUB
+Cuba,2010,9.4241,CUB
+Cyprus,1980,10.5897,CYP
+Cyprus,1981,10.9444,CYP
+Cyprus,1982,11.378,CYP
+Cyprus,1983,11.8994,CYP
+Cyprus,1984,12.9584,CYP
+Cyprus,1985,13.3622,CYP
+Cyprus,1986,13.4198,CYP
+Cyprus,1987,13.7,CYP
+Cyprus,1988,14.4416,CYP
+Cyprus,1989,13.7768,CYP
+Cyprus,1990,13.9355,CYP
+Cyprus,1991,13.9338,CYP
+Cyprus,1992,14.8426,CYP
+Cyprus,1993,14.9218,CYP
+Cyprus,1994,15.6537,CYP
+Cyprus,1995,16.495,CYP
+Cyprus,1996,15.9752,CYP
+Cyprus,1997,15.7588,CYP
+Cyprus,1998,16.4425,CYP
+Cyprus,1999,17.1568,CYP
+Cyprus,2000,16.8529,CYP
+Cyprus,2001,16.9848,CYP
+Cyprus,2002,18.6114,CYP
+Cyprus,2003,16.9706,CYP
+Cyprus,2004,18.5127,CYP
+Cyprus,2005,18.6364,CYP
+Cyprus,2006,17.9491,CYP
+Cyprus,2007,19.7392,CYP
+Cyprus,2008,24.2043,CYP
+Cyprus,2009,22.7182,CYP
+Cyprus,2010,20.366,CYP
+Czech Republic,1980,0,CZE
+Czech Republic,1981,0,CZE
+Czech Republic,1982,0,CZE
+Czech Republic,1983,0,CZE
+Czech Republic,1984,0,CZE
+Czech Republic,1985,0,CZE
+Czech Republic,1986,0,CZE
+Czech Republic,1987,0,CZE
+Czech Republic,1988,0,CZE
+Czech Republic,1989,0,CZE
+Czech Republic,1990,0,CZE
+Czech Republic,1991,0,CZE
+Czech Republic,1992,0,CZE
+Czech Republic,1993,20.0879,CZE
+Czech Republic,1994,17.8874,CZE
+Czech Republic,1995,18.8528,CZE
+Czech Republic,1996,20.3756,CZE
+Czech Republic,1997,20.4352,CZE
+Czech Republic,1998,19.2907,CZE
+Czech Republic,1999,18.0897,CZE
+Czech Republic,2000,18.8499,CZE
+Czech Republic,2001,19.3933,CZE
+Czech Republic,2002,19.1183,CZE
+Czech Republic,2003,19.244,CZE
+Czech Republic,2004,20.3018,CZE
+Czech Republic,2005,19.3522,CZE
+Czech Republic,2006,20.5149,CZE
+Czech Republic,2007,20.7218,CZE
+Czech Republic,2008,20.5969,CZE
+Czech Republic,2009,17.9363,CZE
+Czech Republic,2010,16.9818,CZE
+Czechoslovakia,1980,20.0274,CSK
+Czechoslovakia,1981,19.8796,CSK
+Czechoslovakia,1982,21.0189,CSK
+Czechoslovakia,1983,20.9365,CSK
+Czechoslovakia,1984,22.0016,CSK
+Czechoslovakia,1985,21.9325,CSK
+Czechoslovakia,1986,21.7621,CSK
+Czechoslovakia,1987,22.2309,CSK
+Czechoslovakia,1988,22.2334,CSK
+Czechoslovakia,1989,20.543,CSK
+Czechoslovakia,1990,20.0289,CSK
+Czechoslovakia,1991,18.3535,CSK
+Czechoslovakia,1992,16.1668,CSK
+Czechoslovakia,1993,0,CSK
+Czechoslovakia,1994,0,CSK
+Czechoslovakia,1995,0,CSK
+Czechoslovakia,1996,0,CSK
+Czechoslovakia,1997,0,CSK
+Czechoslovakia,1998,0,CSK
+Czechoslovakia,1999,0,CSK
+Czechoslovakia,2000,0,CSK
+Czechoslovakia,2001,0,CSK
+Czechoslovakia,2002,0,CSK
+Czechoslovakia,2003,0,CSK
+Czechoslovakia,2004,0,CSK
+Czechoslovakia,2005,0,CSK
+Czechoslovakia,2006,0,CSK
+Czechoslovakia,2007,0,CSK
+Czechoslovakia,2008,0,CSK
+Czechoslovakia,2009,0,CSK
+Czechoslovakia,2010,0,CSK
+Denmark,1980,22.4935,DNK
+Denmark,1981,21.0795,DNK
+Denmark,1982,21.7805,DNK
+Denmark,1983,20.2795,DNK
+Denmark,1984,22.1584,DNK
+Denmark,1985,23.7482,DNK
+Denmark,1986,25.1186,DNK
+Denmark,1987,24.7198,DNK
+Denmark,1988,23.0498,DNK
+Denmark,1989,23.8749,DNK
+Denmark,1990,22.5172,DNK
+Denmark,1991,22.6351,DNK
+Denmark,1992,21.7419,DNK
+Denmark,1993,19.3889,DNK
+Denmark,1994,20.3364,DNK
+Denmark,1995,21.2945,DNK
+Denmark,1996,22.4202,DNK
+Denmark,1997,24.6976,DNK
+Denmark,1998,22.7926,DNK
+Denmark,1999,25.6219,DNK
+Denmark,2000,24.0557,DNK
+Denmark,2001,23.5814,DNK
+Denmark,2002,23.2813,DNK
+Denmark,2003,23.227,DNK
+Denmark,2004,24.7694,DNK
+Denmark,2005,26.9666,DNK
+Denmark,2006,26.3685,DNK
+Denmark,2007,25.258,DNK
+Denmark,2008,23.9976,DNK
+Denmark,2009,19.0243,DNK
+Denmark,2010,19.073,DNK
+Djibouti,1980,4.3416,DJI
+Djibouti,1981,4.1636,DJI
+Djibouti,1982,4.1278,DJI
+Djibouti,1983,4.3075,DJI
+Djibouti,1984,4.3674,DJI
+Djibouti,1985,4.3388,DJI
+Djibouti,1986,4.0838,DJI
+Djibouti,1987,3.9469,DJI
+Djibouti,1988,3.9243,DJI
+Djibouti,1989,3.6859,DJI
+Djibouti,1990,3.7574,DJI
+Djibouti,1991,3.6227,DJI
+Djibouti,1992,3.5952,DJI
+Djibouti,1993,3.1919,DJI
+Djibouti,1994,3.2127,DJI
+Djibouti,1995,3.3756,DJI
+Djibouti,1996,3.3717,DJI
+Djibouti,1997,3.3721,DJI
+Djibouti,1998,3.4735,DJI
+Djibouti,1999,3.5615,DJI
+Djibouti,2000,3.5733,DJI
+Djibouti,2001,3.5936,DJI
+Djibouti,2002,3.5261,DJI
+Djibouti,2003,3.4716,DJI
+Djibouti,2004,3.3314,DJI
+Djibouti,2005,3.2877,DJI
+Djibouti,2006,3.3216,DJI
+Djibouti,2007,3.3566,DJI
+Djibouti,2008,3.2893,DJI
+Djibouti,2009,3.4818,DJI
+Djibouti,2010,3.4133,DJI
+Dominica,1980,6.344,DMA
+Dominica,1981,6.906,DMA
+Dominica,1982,6.9975,DMA
+Dominica,1983,7.013,DMA
+Dominica,1984,7.3436,DMA
+Dominica,1985,7.5096,DMA
+Dominica,1986,7.9597,DMA
+Dominica,1987,8.3286,DMA
+Dominica,1988,9.1328,DMA
+Dominica,1989,9.3052,DMA
+Dominica,1990,10.0662,DMA
+Dominica,1991,10.3817,DMA
+Dominica,1992,9.9861,DMA
+Dominica,1993,9.9072,DMA
+Dominica,1994,8.533,DMA
+Dominica,1995,7.946,DMA
+Dominica,1996,7.9397,DMA
+Dominica,1997,7.602,DMA
+Dominica,1998,6.5276,DMA
+Dominica,1999,5.6645,DMA
+Dominica,2000,5.4413,DMA
+Dominica,2001,6.3343,DMA
+Dominica,2002,6.4209,DMA
+Dominica,2003,8.8948,DMA
+Dominica,2004,7.4583,DMA
+Dominica,2005,4.9061,DMA
+Dominica,2006,7.9712,DMA
+Dominica,2007,7.0696,DMA
+Dominica,2008,6.2218,DMA
+Dominica,2009,7.0605,DMA
+Dominica,2010,7.8306,DMA
+Dominican Republic,1980,7.1775,DOM
+Dominican Republic,1981,7.0462,DOM
+Dominican Republic,1982,7.3883,DOM
+Dominican Republic,1983,7.7151,DOM
+Dominican Republic,1984,7.3388,DOM
+Dominican Republic,1985,6.5367,DOM
+Dominican Republic,1986,6.3887,DOM
+Dominican Republic,1987,6.5464,DOM
+Dominican Republic,1988,6.9834,DOM
+Dominican Republic,1989,7.0339,DOM
+Dominican Republic,1990,5.9021,DOM
+Dominican Republic,1991,6.2188,DOM
+Dominican Republic,1992,6.2747,DOM
+Dominican Republic,1993,6.0926,DOM
+Dominican Republic,1994,5.9893,DOM
+Dominican Republic,1995,6.21,DOM
+Dominican Republic,1996,7.0336,DOM
+Dominican Republic,1997,7.0148,DOM
+Dominican Republic,1998,6.7282,DOM
+Dominican Republic,1999,7.0703,DOM
+Dominican Republic,2000,7.7874,DOM
+Dominican Republic,2001,8.0892,DOM
+Dominican Republic,2002,8.0053,DOM
+Dominican Republic,2003,7.3652,DOM
+Dominican Republic,2004,7.4022,DOM
+Dominican Republic,2005,6.8141,DOM
+Dominican Republic,2006,7.3014,DOM
+Dominican Republic,2007,7.0524,DOM
+Dominican Republic,2008,6.7046,DOM
+Dominican Republic,2009,5.8699,DOM
+Dominican Republic,2010,6.7613,DOM
+Ecuador,1980,7.6596,ECU
+Ecuador,1981,6.8971,ECU
+Ecuador,1982,6.5644,ECU
+Ecuador,1983,6.2074,ECU
+Ecuador,1984,6.7628,ECU
+Ecuador,1985,6.8787,ECU
+Ecuador,1986,7.2581,ECU
+Ecuador,1987,6.8727,ECU
+Ecuador,1988,7.2383,ECU
+Ecuador,1989,7.2728,ECU
+Ecuador,1990,7.2538,ECU
+Ecuador,1991,7.5419,ECU
+Ecuador,1992,7.4352,ECU
+Ecuador,1993,7.1362,ECU
+Ecuador,1994,7.5192,ECU
+Ecuador,1995,7.8291,ECU
+Ecuador,1996,7.8864,ECU
+Ecuador,1997,7.8127,ECU
+Ecuador,1998,7.5257,ECU
+Ecuador,1999,6.5242,ECU
+Ecuador,2000,6.6379,ECU
+Ecuador,2001,6.9454,ECU
+Ecuador,2002,6.9327,ECU
+Ecuador,2003,7.0595,ECU
+Ecuador,2004,7.3687,ECU
+Ecuador,2005,7.2866,ECU
+Ecuador,2006,7.6396,ECU
+Ecuador,2007,7.9387,ECU
+Ecuador,2008,8.6874,ECU
+Ecuador,2009,8.7923,ECU
+Ecuador,2010,8.8189,ECU
+Egypt,1980,3.5714,EGY
+Egypt,1981,4.0216,EGY
+Egypt,1982,4.3622,EGY
+Egypt,1983,4.7554,EGY
+Egypt,1984,5.1472,EGY
+Egypt,1985,5.2588,EGY
+Egypt,1986,5.1739,EGY
+Egypt,1987,4.7206,EGY
+Egypt,1988,4.6037,EGY
+Egypt,1989,4.7112,EGY
+Egypt,1990,5.0303,EGY
+Egypt,1991,5.039,EGY
+Egypt,1992,5.172,EGY
+Egypt,1993,4.9651,EGY
+Egypt,1994,5.0861,EGY
+Egypt,1995,5.4521,EGY
+Egypt,1996,5.6416,EGY
+Egypt,1997,5.7135,EGY
+Egypt,1998,6.1986,EGY
+Egypt,1999,6.7151,EGY
+Egypt,2000,6.1631,EGY
+Egypt,2001,6.0594,EGY
+Egypt,2002,6.1614,EGY
+Egypt,2003,5.4301,EGY
+Egypt,2004,5.3309,EGY
+Egypt,2005,6.0587,EGY
+Egypt,2006,6.4674,EGY
+Egypt,2007,7.1379,EGY
+Egypt,2008,7.0525,EGY
+Egypt,2009,7.7417,EGY
+Egypt,2010,7.654,EGY
+El Salvador,1980,4.0746,SLV
+El Salvador,1981,3.8324,SLV
+El Salvador,1982,3.6222,SLV
+El Salvador,1983,3.8035,SLV
+El Salvador,1984,4.0845,SLV
+El Salvador,1985,3.9414,SLV
+El Salvador,1986,4.0785,SLV
+El Salvador,1987,4.2122,SLV
+El Salvador,1988,4.0777,SLV
+El Salvador,1989,4.0163,SLV
+El Salvador,1990,4.1933,SLV
+El Salvador,1991,4.6327,SLV
+El Salvador,1992,4.3455,SLV
+El Salvador,1993,4.7066,SLV
+El Salvador,1994,4.7582,SLV
+El Salvador,1995,4.7894,SLV
+El Salvador,1996,5.2027,SLV
+El Salvador,1997,5.3281,SLV
+El Salvador,1998,5.3446,SLV
+El Salvador,1999,5.523,SLV
+El Salvador,2000,5.3637,SLV
+El Salvador,2001,5.6143,SLV
+El Salvador,2002,5.7026,SLV
+El Salvador,2003,5.7762,SLV
+El Salvador,2004,5.6713,SLV
+El Salvador,2005,5.3773,SLV
+El Salvador,2006,5.7371,SLV
+El Salvador,2007,5.7854,SLV
+El Salvador,2008,5.7616,SLV
+El Salvador,2009,5.7883,SLV
+El Salvador,2010,5.8007,SLV
+Eritrea,1980,0,ERI
+Eritrea,1981,0,ERI
+Eritrea,1982,0,ERI
+Eritrea,1983,0,ERI
+Eritrea,1984,0,ERI
+Eritrea,1985,0,ERI
+Eritrea,1986,0,ERI
+Eritrea,1987,0,ERI
+Eritrea,1988,0,ERI
+Eritrea,1989,0,ERI
+Eritrea,1990,0,ERI
+Eritrea,1991,0,ERI
+Eritrea,1992,0,ERI
+Eritrea,1993,3.0852,ERI
+Eritrea,1994,3.4063,ERI
+Eritrea,1995,3.3401,ERI
+Eritrea,1996,3.5483,ERI
+Eritrea,1997,3.8618,ERI
+Eritrea,1998,4.0149,ERI
+Eritrea,1999,3.8435,ERI
+Eritrea,2000,3.9697,ERI
+Eritrea,2001,3.9199,ERI
+Eritrea,2002,3.4681,ERI
+Eritrea,2003,3.2674,ERI
+Eritrea,2004,2.937,ERI
+Eritrea,2005,2.98,ERI
+Eritrea,2006,2.8702,ERI
+Eritrea,2007,2.8941,ERI
+Eritrea,2008,2.6666,ERI
+Eritrea,2009,2.5205,ERI
+Eritrea,2010,2.4764,ERI
+Estonia,1980,0,EST
+Estonia,1981,0,EST
+Estonia,1982,0,EST
+Estonia,1983,0,EST
+Estonia,1984,0,EST
+Estonia,1985,0,EST
+Estonia,1986,0,EST
+Estonia,1987,0,EST
+Estonia,1988,0,EST
+Estonia,1989,0,EST
+Estonia,1990,0,EST
+Estonia,1991,0,EST
+Estonia,1992,19.1844,EST
+Estonia,1993,16.551,EST
+Estonia,1994,16.5371,EST
+Estonia,1995,16.3574,EST
+Estonia,1996,18.0785,EST
+Estonia,1997,18.5016,EST
+Estonia,1998,17.5498,EST
+Estonia,1999,16.2372,EST
+Estonia,2000,16.3747,EST
+Estonia,2001,16.5857,EST
+Estonia,2002,18.5301,EST
+Estonia,2003,26.111,EST
+Estonia,2004,26.7306,EST
+Estonia,2005,25.9936,EST
+Estonia,2006,28.5341,EST
+Estonia,2007,33.3484,EST
+Estonia,2008,27.7321,EST
+Estonia,2009,26.8629,EST
+Estonia,2010,26.3739,EST
+Ethiopia,1980,4.7964,ETH
+Ethiopia,1981,4.7192,ETH
+Ethiopia,1982,4.6523,ETH
+Ethiopia,1983,4.7419,ETH
+Ethiopia,1984,4.5161,ETH
+Ethiopia,1985,4.5092,ETH
+Ethiopia,1986,4.5612,ETH
+Ethiopia,1987,4.3064,ETH
+Ethiopia,1988,4.2382,ETH
+Ethiopia,1989,4.2439,ETH
+Ethiopia,1990,4.201,ETH
+Ethiopia,1991,4.1173,ETH
+Ethiopia,1992,4.06,ETH
+Ethiopia,1993,3.587,ETH
+Ethiopia,1994,3.5071,ETH
+Ethiopia,1995,3.5012,ETH
+Ethiopia,1996,3.5867,ETH
+Ethiopia,1997,3.5721,ETH
+Ethiopia,1998,3.6013,ETH
+Ethiopia,1999,3.5089,ETH
+Ethiopia,2000,3.345,ETH
+Ethiopia,2001,3.4733,ETH
+Ethiopia,2002,3.6434,ETH
+Ethiopia,2003,3.5915,ETH
+Ethiopia,2004,3.5739,ETH
+Ethiopia,2005,3.6897,ETH
+Ethiopia,2006,3.7728,ETH
+Ethiopia,2007,3.9702,ETH
+Ethiopia,2008,4.0281,ETH
+Ethiopia,2009,4.1155,ETH
+Ethiopia,2010,4.0879,ETH
+Faroe Islands,1980,11.2178,FRO
+Faroe Islands,1981,10.5767,FRO
+Faroe Islands,1982,11.503,FRO
+Faroe Islands,1983,12.1971,FRO
+Faroe Islands,1984,12.1902,FRO
+Faroe Islands,1985,13.4121,FRO
+Faroe Islands,1986,13.6647,FRO
+Faroe Islands,1987,13.6409,FRO
+Faroe Islands,1988,12.417,FRO
+Faroe Islands,1989,12.2316,FRO
+Faroe Islands,1990,11.3861,FRO
+Faroe Islands,1991,10.229,FRO
+Faroe Islands,1992,11.384,FRO
+Faroe Islands,1993,10.1797,FRO
+Faroe Islands,1994,10.6593,FRO
+Faroe Islands,1995,11.5481,FRO
+Faroe Islands,1996,12.2701,FRO
+Faroe Islands,1997,12.2504,FRO
+Faroe Islands,1998,13.6258,FRO
+Faroe Islands,1999,14.8237,FRO
+Faroe Islands,2000,16.6214,FRO
+Faroe Islands,2001,19.0075,FRO
+Faroe Islands,2002,18.3965,FRO
+Faroe Islands,2003,19.7077,FRO
+Faroe Islands,2004,18.4956,FRO
+Faroe Islands,2005,18.568,FRO
+Faroe Islands,2006,20.8227,FRO
+Faroe Islands,2007,18.6625,FRO
+Faroe Islands,2008,17.6944,FRO
+Faroe Islands,2009,13.6092,FRO
+Faroe Islands,2010,14.8939,FRO
+Fiji Islands,1980,13.9658,FJI
+Fiji Islands,1981,15.0825,FJI
+Fiji Islands,1982,15.2023,FJI
+Fiji Islands,1983,11.1944,FJI
+Fiji Islands,1984,15.3142,FJI
+Fiji Islands,1985,12.3369,FJI
+Fiji Islands,1986,15.1446,FJI
+Fiji Islands,1987,11.9357,FJI
+Fiji Islands,1988,12.4776,FJI
+Fiji Islands,1989,14.9951,FJI
+Fiji Islands,1990,15.0121,FJI
+Fiji Islands,1991,12.5283,FJI
+Fiji Islands,1992,13.8203,FJI
+Fiji Islands,1993,14.5302,FJI
+Fiji Islands,1994,15.036,FJI
+Fiji Islands,1995,15.1843,FJI
+Fiji Islands,1996,14.6372,FJI
+Fiji Islands,1997,13.989,FJI
+Fiji Islands,1998,11.1918,FJI
+Fiji Islands,1999,13.9316,FJI
+Fiji Islands,2000,13.5903,FJI
+Fiji Islands,2001,12.8129,FJI
+Fiji Islands,2002,12.1581,FJI
+Fiji Islands,2003,12.2798,FJI
+Fiji Islands,2004,13.2471,FJI
+Fiji Islands,2005,12.6397,FJI
+Fiji Islands,2006,13.3043,FJI
+Fiji Islands,2007,11.3198,FJI
+Fiji Islands,2008,11.71,FJI
+Fiji Islands,2009,10.3432,FJI
+Fiji Islands,2010,10.6114,FJI
+Finland,1980,35.4775,FIN
+Finland,1981,34.0514,FIN
+Finland,1982,36.2801,FIN
+Finland,1983,36.4084,FIN
+Finland,1984,34.8433,FIN
+Finland,1985,34.9371,FIN
+Finland,1986,37.8397,FIN
+Finland,1987,36.5719,FIN
+Finland,1988,37.8487,FIN
+Finland,1989,41.8348,FIN
+Finland,1990,41.3234,FIN
+Finland,1991,35.2163,FIN
+Finland,1992,32.9439,FIN
+Finland,1993,29.5557,FIN
+Finland,1994,33.4458,FIN
+Finland,1995,32.0032,FIN
+Finland,1996,31.6299,FIN
+Finland,1997,33.5337,FIN
+Finland,1998,33.0809,FIN
+Finland,1999,35.8842,FIN
+Finland,2000,35.6597,FIN
+Finland,2001,36.1333,FIN
+Finland,2002,36.8633,FIN
+Finland,2003,38.4815,FIN
+Finland,2004,38.4317,FIN
+Finland,2005,39.0556,FIN
+Finland,2006,41.3149,FIN
+Finland,2007,40.9843,FIN
+Finland,2008,38.8257,FIN
+Finland,2009,30.1975,FIN
+Finland,2010,30.7765,FIN
+France,1980,18.1257,FRA
+France,1981,17.0526,FRA
+France,1982,16.6968,FRA
+France,1983,15.7251,FRA
+France,1984,15.4687,FRA
+France,1985,15.82,FRA
+France,1986,15.5664,FRA
+France,1987,15.9704,FRA
+France,1988,16.8773,FRA
+France,1989,17.1189,FRA
+France,1990,16.7118,FRA
+France,1991,16.712,FRA
+France,1992,16.1694,FRA
+France,1993,14.7151,FRA
+France,1994,15.5594,FRA
+France,1995,15.5292,FRA
+France,1996,15.1947,FRA
+France,1997,15.4187,FRA
+France,1998,15.6865,FRA
+France,1999,15.7934,FRA
+France,2000,15.9057,FRA
+France,2001,15.646,FRA
+France,2002,15.5884,FRA
+France,2003,15.01,FRA
+France,2004,15.9482,FRA
+France,2005,15.4814,FRA
+France,2006,15.7838,FRA
+France,2007,16.2105,FRA
+France,2008,15.8967,FRA
+France,2009,14.1454,FRA
+France,2010,13.808,FRA
+French Polynesia,1980,13.6119,PYF
+French Polynesia,1981,13.3191,PYF
+French Polynesia,1982,13.634,PYF
+French Polynesia,1983,12.9811,PYF
+French Polynesia,1984,12.7893,PYF
+French Polynesia,1985,13.357,PYF
+French Polynesia,1986,13.6048,PYF
+French Polynesia,1987,13.6979,PYF
+French Polynesia,1988,13.2648,PYF
+French Polynesia,1989,13.2362,PYF
+French Polynesia,1990,13.2781,PYF
+French Polynesia,1991,13.1253,PYF
+French Polynesia,1992,13.0065,PYF
+French Polynesia,1993,12.943,PYF
+French Polynesia,1994,12.8011,PYF
+French Polynesia,1995,12.7784,PYF
+French Polynesia,1996,12.8824,PYF
+French Polynesia,1997,12.7632,PYF
+French Polynesia,1998,12.669,PYF
+French Polynesia,1999,12.8126,PYF
+French Polynesia,2000,13.3076,PYF
+French Polynesia,2001,13.2791,PYF
+French Polynesia,2002,13.3926,PYF
+French Polynesia,2003,13.5899,PYF
+French Polynesia,2004,13.2897,PYF
+French Polynesia,2005,13.5952,PYF
+French Polynesia,2006,13.4651,PYF
+French Polynesia,2007,13.6621,PYF
+French Polynesia,2008,13.4836,PYF
+French Polynesia,2009,12.9117,PYF
+French Polynesia,2010,13.1271,PYF
+Gabon,1980,7.0188,GAB
+Gabon,1981,8.466,GAB
+Gabon,1982,7.9872,GAB
+Gabon,1983,7.8976,GAB
+Gabon,1984,6.8325,GAB
+Gabon,1985,6.6935,GAB
+Gabon,1986,6.6161,GAB
+Gabon,1987,5.7287,GAB
+Gabon,1988,5.2847,GAB
+Gabon,1989,6.3367,GAB
+Gabon,1990,6.174,GAB
+Gabon,1991,4.3402,GAB
+Gabon,1992,4.2853,GAB
+Gabon,1993,4.2209,GAB
+Gabon,1994,4.0682,GAB
+Gabon,1995,4.6185,GAB
+Gabon,1996,3.7307,GAB
+Gabon,1997,7.4533,GAB
+Gabon,1998,4.2514,GAB
+Gabon,1999,4.7744,GAB
+Gabon,2000,4.5899,GAB
+Gabon,2001,5.0474,GAB
+Gabon,2002,4.8402,GAB
+Gabon,2003,9.1674,GAB
+Gabon,2004,11.0968,GAB
+Gabon,2005,7.9313,GAB
+Gabon,2006,10.3402,GAB
+Gabon,2007,8.7421,GAB
+Gabon,2008,8.9319,GAB
+Gabon,2009,5.6436,GAB
+Gabon,2010,6.6564,GAB
+Gambia,1980,4.1508,GMB
+Gambia,1981,4.2191,GMB
+Gambia,1982,4.1851,GMB
+Gambia,1983,3.9764,GMB
+Gambia,1984,3.8638,GMB
+Gambia,1985,3.8343,GMB
+Gambia,1986,3.72,GMB
+Gambia,1987,3.6356,GMB
+Gambia,1988,3.5446,GMB
+Gambia,1989,3.4998,GMB
+Gambia,1990,3.3224,GMB
+Gambia,1991,3.356,GMB
+Gambia,1992,3.2653,GMB
+Gambia,1993,3.2491,GMB
+Gambia,1994,3.2104,GMB
+Gambia,1995,3.1367,GMB
+Gambia,1996,3.1727,GMB
+Gambia,1997,2.8606,GMB
+Gambia,1998,2.7887,GMB
+Gambia,1999,2.6957,GMB
+Gambia,2000,2.7545,GMB
+Gambia,2001,2.6416,GMB
+Gambia,2002,3.5963,GMB
+Gambia,2003,3.8258,GMB
+Gambia,2004,3.6287,GMB
+Gambia,2005,3.4623,GMB
+Gambia,2006,3.3579,GMB
+Gambia,2007,3.0292,GMB
+Gambia,2008,3.2874,GMB
+Gambia,2009,3.3645,GMB
+Gambia,2010,3.3385,GMB
+Georgia,1980,0,GEO
+Georgia,1981,0,GEO
+Georgia,1982,0,GEO
+Georgia,1983,0,GEO
+Georgia,1984,0,GEO
+Georgia,1985,0,GEO
+Georgia,1986,0,GEO
+Georgia,1987,0,GEO
+Georgia,1988,0,GEO
+Georgia,1989,0,GEO
+Georgia,1990,0,GEO
+Georgia,1991,0,GEO
+Georgia,1992,2.9194,GEO
+Georgia,1993,2.3557,GEO
+Georgia,1994,1.8447,GEO
+Georgia,1995,1.7699,GEO
+Georgia,1996,1.8649,GEO
+Georgia,1997,2.0946,GEO
+Georgia,1998,2.2188,GEO
+Georgia,1999,2.3297,GEO
+Georgia,2000,2.2348,GEO
+Georgia,2001,2.4384,GEO
+Georgia,2002,2.6616,GEO
+Georgia,2003,2.9211,GEO
+Georgia,2004,3.2463,GEO
+Georgia,2005,3.4094,GEO
+Georgia,2006,3.0528,GEO
+Georgia,2007,3.4538,GEO
+Georgia,2008,3.9156,GEO
+Georgia,2009,4.4238,GEO
+Georgia,2010,4.8437,GEO
+Germany,1980,21.6148,DEU
+Germany,1981,20.458,DEU
+Germany,1982,19.5188,DEU
+Germany,1983,19.3614,DEU
+Germany,1984,20.0024,DEU
+Germany,1985,19.9168,DEU
+Germany,1986,20.1393,DEU
+Germany,1987,19.872,DEU
+Germany,1988,20.3033,DEU
+Germany,1989,20.4789,DEU
+Germany,1990,19.9373,DEU
+Germany,1991,19.2276,DEU
+Germany,1992,19.516,DEU
+Germany,1993,18.6888,DEU
+Germany,1994,19.7059,DEU
+Germany,1995,19.1437,DEU
+Germany,1996,18.5549,DEU
+Germany,1997,18.2854,DEU
+Germany,1998,17.9652,DEU
+Germany,1999,18.1736,DEU
+Germany,2000,17.7334,DEU
+Germany,2001,16.7455,DEU
+Germany,2002,16.3424,DEU
+Germany,2003,16.0057,DEU
+Germany,2004,16.2606,DEU
+Germany,2005,15.7325,DEU
+Germany,2006,16.2113,DEU
+Germany,2007,16.089,DEU
+Germany,2008,15.9703,DEU
+Germany,2009,15.2381,DEU
+Germany,2010,15.4467,DEU
+Ghana,1980,2.9249,GHA
+Ghana,1981,2.9318,GHA
+Ghana,1982,2.8884,GHA
+Ghana,1983,2.5878,GHA
+Ghana,1984,2.7223,GHA
+Ghana,1985,2.8632,GHA
+Ghana,1986,2.612,GHA
+Ghana,1987,2.6579,GHA
+Ghana,1988,2.8374,GHA
+Ghana,1989,3.063,GHA
+Ghana,1990,2.9183,GHA
+Ghana,1991,3.4523,GHA
+Ghana,1992,3.8658,GHA
+Ghana,1993,4.3018,GHA
+Ghana,1994,4.4518,GHA
+Ghana,1995,4.4731,GHA
+Ghana,1996,4.819,GHA
+Ghana,1997,5.0688,GHA
+Ghana,1998,5.2606,GHA
+Ghana,1999,5.3171,GHA
+Ghana,2000,5.4598,GHA
+Ghana,2001,5.2893,GHA
+Ghana,2002,5.2883,GHA
+Ghana,2003,5.8263,GHA
+Ghana,2004,5.4445,GHA
+Ghana,2005,5.8057,GHA
+Ghana,2006,6.0288,GHA
+Ghana,2007,5.7801,GHA
+Ghana,2008,5.6945,GHA
+Ghana,2009,5.9494,GHA
+Ghana,2010,5.9532,GHA
+Greece,1980,8.9162,GRC
+Greece,1981,9.4808,GRC
+Greece,1982,9.8636,GRC
+Greece,1983,9.7525,GRC
+Greece,1984,9.6044,GRC
+Greece,1985,10.4218,GRC
+Greece,1986,10.5566,GRC
+Greece,1987,11.2735,GRC
+Greece,1988,11.3622,GRC
+Greece,1989,11.9695,GRC
+Greece,1990,11.9311,GRC
+Greece,1991,13.0643,GRC
+Greece,1992,13.0359,GRC
+Greece,1993,13.2303,GRC
+Greece,1994,13.1076,GRC
+Greece,1995,15.2499,GRC
+Greece,1996,16.0944,GRC
+Greece,1997,15.3605,GRC
+Greece,1998,16.6317,GRC
+Greece,1999,16.8722,GRC
+Greece,2000,18.3772,GRC
+Greece,2001,19.1881,GRC
+Greece,2002,19.3979,GRC
+Greece,2003,21.6639,GRC
+Greece,2004,21.7196,GRC
+Greece,2005,21.381,GRC
+Greece,2006,20.8275,GRC
+Greece,2007,23.4872,GRC
+Greece,2008,22.2941,GRC
+Greece,2009,19.2636,GRC
+Greece,2010,17.5859,GRC
+Grenada,1980,4.0859,GRD
+Grenada,1981,4.2198,GRD
+Grenada,1982,4.3812,GRD
+Grenada,1983,4.4525,GRD
+Grenada,1984,4.6367,GRD
+Grenada,1985,4.2598,GRD
+Grenada,1986,4.7694,GRD
+Grenada,1987,4.9838,GRD
+Grenada,1988,5.2393,GRD
+Grenada,1989,5.9396,GRD
+Grenada,1990,5.9792,GRD
+Grenada,1991,5.934,GRD
+Grenada,1992,6.1992,GRD
+Grenada,1993,6.3685,GRD
+Grenada,1994,5.8291,GRD
+Grenada,1995,5.9656,GRD
+Grenada,1996,6.3896,GRD
+Grenada,1997,6.9125,GRD
+Grenada,1998,6.679,GRD
+Grenada,1999,7.2341,GRD
+Grenada,2000,6.8075,GRD
+Grenada,2001,6.6625,GRD
+Grenada,2002,6.8649,GRD
+Grenada,2003,7.1451,GRD
+Grenada,2004,7.1545,GRD
+Grenada,2005,7.6406,GRD
+Grenada,2006,7.6586,GRD
+Grenada,2007,8.1525,GRD
+Grenada,2008,8.3565,GRD
+Grenada,2009,8.4884,GRD
+Grenada,2010,8.219,GRD
+Guatemala,1980,4.6841,GTM
+Guatemala,1981,4.6299,GTM
+Guatemala,1982,4.6956,GTM
+Guatemala,1983,4.3689,GTM
+Guatemala,1984,4.4019,GTM
+Guatemala,1985,4.4262,GTM
+Guatemala,1986,4.3652,GTM
+Guatemala,1987,4.919,GTM
+Guatemala,1988,4.4485,GTM
+Guatemala,1989,4.6536,GTM
+Guatemala,1990,5.5631,GTM
+Guatemala,1991,5.5421,GTM
+Guatemala,1992,5.6059,GTM
+Guatemala,1993,5.5228,GTM
+Guatemala,1994,5.5955,GTM
+Guatemala,1995,6.0747,GTM
+Guatemala,1996,5.8976,GTM
+Guatemala,1997,6.2444,GTM
+Guatemala,1998,6.2407,GTM
+Guatemala,1999,6.5169,GTM
+Guatemala,2000,6.2062,GTM
+Guatemala,2001,6.6442,GTM
+Guatemala,2002,6.5409,GTM
+Guatemala,2003,6.5243,GTM
+Guatemala,2004,6.7856,GTM
+Guatemala,2005,6.4947,GTM
+Guatemala,2006,6.6366,GTM
+Guatemala,2007,7.184,GTM
+Guatemala,2008,6.9811,GTM
+Guatemala,2009,6.5054,GTM
+Guatemala,2010,7.2149,GTM
+Guinea,1980,5.006,GIN
+Guinea,1981,4.7117,GIN
+Guinea,1982,4.3909,GIN
+Guinea,1983,4.0217,GIN
+Guinea,1984,4.1294,GIN
+Guinea,1985,3.7392,GIN
+Guinea,1986,4.0639,GIN
+Guinea,1987,4.166,GIN
+Guinea,1988,4.2934,GIN
+Guinea,1989,4.2493,GIN
+Guinea,1990,4.0937,GIN
+Guinea,1991,4.0874,GIN
+Guinea,1992,3.504,GIN
+Guinea,1993,3.5576,GIN
+Guinea,1994,3.7597,GIN
+Guinea,1995,4.505,GIN
+Guinea,1996,4.4796,GIN
+Guinea,1997,4.0123,GIN
+Guinea,1998,4.0323,GIN
+Guinea,1999,4.2984,GIN
+Guinea,2000,5.4935,GIN
+Guinea,2001,5.3867,GIN
+Guinea,2002,5.5337,GIN
+Guinea,2003,5.9326,GIN
+Guinea,2004,5.8542,GIN
+Guinea,2005,6.1666,GIN
+Guinea,2006,5.6743,GIN
+Guinea,2007,6.0384,GIN
+Guinea,2008,6.3534,GIN
+Guinea,2009,5.4661,GIN
+Guinea,2010,5.7288,GIN
+Guinea-Bissau,1980,3.8522,GNB
+Guinea-Bissau,1981,3.8506,GNB
+Guinea-Bissau,1982,3.9043,GNB
+Guinea-Bissau,1983,3.7934,GNB
+Guinea-Bissau,1984,3.861,GNB
+Guinea-Bissau,1985,3.7798,GNB
+Guinea-Bissau,1986,3.8709,GNB
+Guinea-Bissau,1987,3.835,GNB
+Guinea-Bissau,1988,3.8889,GNB
+Guinea-Bissau,1989,3.9449,GNB
+Guinea-Bissau,1990,3.8928,GNB
+Guinea-Bissau,1991,3.8464,GNB
+Guinea-Bissau,1992,3.8145,GNB
+Guinea-Bissau,1993,3.8131,GNB
+Guinea-Bissau,1994,3.8037,GNB
+Guinea-Bissau,1995,3.8164,GNB
+Guinea-Bissau,1996,3.8101,GNB
+Guinea-Bissau,1997,3.8189,GNB
+Guinea-Bissau,1998,3.7025,GNB
+Guinea-Bissau,1999,3.7492,GNB
+Guinea-Bissau,2000,3.7993,GNB
+Guinea-Bissau,2001,3.7534,GNB
+Guinea-Bissau,2002,3.6881,GNB
+Guinea-Bissau,2003,3.6304,GNB
+Guinea-Bissau,2004,3.6272,GNB
+Guinea-Bissau,2005,3.8207,GNB
+Guinea-Bissau,2006,3.7436,GNB
+Guinea-Bissau,2007,3.718,GNB
+Guinea-Bissau,2008,3.7832,GNB
+Guinea-Bissau,2009,3.7751,GNB
+Guinea-Bissau,2010,3.824,GNB
+Guyana,1980,14.0538,GUY
+Guyana,1981,13.7845,GUY
+Guyana,1982,14.7711,GUY
+Guyana,1983,12.5676,GUY
+Guyana,1984,12.5615,GUY
+Guyana,1985,11.5528,GUY
+Guyana,1986,12.2253,GUY
+Guyana,1987,11.8736,GUY
+Guyana,1988,11.26,GUY
+Guyana,1989,9.3013,GUY
+Guyana,1990,10.224,GUY
+Guyana,1991,11.8747,GUY
+Guyana,1992,13.2538,GUY
+Guyana,1993,20.5824,GUY
+Guyana,1994,23.1705,GUY
+Guyana,1995,20.6052,GUY
+Guyana,1996,24.5114,GUY
+Guyana,1997,25.7223,GUY
+Guyana,1998,25.2488,GUY
+Guyana,1999,24.9983,GUY
+Guyana,2000,23.9743,GUY
+Guyana,2001,23.4099,GUY
+Guyana,2002,26.5586,GUY
+Guyana,2003,25.296,GUY
+Guyana,2004,25.7528,GUY
+Guyana,2005,18.2857,GUY
+Guyana,2006,18.8694,GUY
+Guyana,2007,20.4491,GUY
+Guyana,2008,19.7107,GUY
+Guyana,2009,21.0375,GUY
+Guyana,2010,20.7834,GUY
+Haiti,1980,3.5917,HTI
+Haiti,1981,3.5874,HTI
+Haiti,1982,3.5675,HTI
+Haiti,1983,3.4476,HTI
+Haiti,1984,3.3331,HTI
+Haiti,1985,3.2216,HTI
+Haiti,1986,3.0487,HTI
+Haiti,1987,2.8904,HTI
+Haiti,1988,2.8023,HTI
+Haiti,1989,2.6981,HTI
+Haiti,1990,2.5428,HTI
+Haiti,1991,2.5476,HTI
+Haiti,1992,2.5699,HTI
+Haiti,1993,2.4342,HTI
+Haiti,1994,2.3619,HTI
+Haiti,1995,2.3295,HTI
+Haiti,1996,2.3121,HTI
+Haiti,1997,2.2875,HTI
+Haiti,1998,2.27,HTI
+Haiti,1999,2.2635,HTI
+Haiti,2000,2.2836,HTI
+Haiti,2001,2.248,HTI
+Haiti,2002,2.1536,HTI
+Haiti,2003,2.1314,HTI
+Haiti,2004,2.1549,HTI
+Haiti,2005,2.1576,HTI
+Haiti,2006,2.127,HTI
+Haiti,2007,2.148,HTI
+Haiti,2008,2.0889,HTI
+Haiti,2009,2.1294,HTI
+Haiti,2010,2.1101,HTI
+Honduras,1980,7.3787,HND
+Honduras,1981,6.8999,HND
+Honduras,1982,7.1245,HND
+Honduras,1983,7.5755,HND
+Honduras,1984,7.6521,HND
+Honduras,1985,7.1769,HND
+Honduras,1986,6.6542,HND
+Honduras,1987,6.3997,HND
+Honduras,1988,6.319,HND
+Honduras,1989,6.2412,HND
+Honduras,1990,6.3298,HND
+Honduras,1991,6.2894,HND
+Honduras,1992,5.9851,HND
+Honduras,1993,5.8387,HND
+Honduras,1994,5.8188,HND
+Honduras,1995,5.8177,HND
+Honduras,1996,6.209,HND
+Honduras,1997,6.1637,HND
+Honduras,1998,5.8745,HND
+Honduras,1999,5.7672,HND
+Honduras,2000,5.8543,HND
+Honduras,2001,6.1567,HND
+Honduras,2002,6.3654,HND
+Honduras,2003,6.8615,HND
+Honduras,2004,6.9809,HND
+Honduras,2005,7.1349,HND
+Honduras,2006,7.4924,HND
+Honduras,2007,7.5365,HND
+Honduras,2008,7.3832,HND
+Honduras,2009,7.4414,HND
+Honduras,2010,7.1283,HND
+Hungary,1980,13.2252,HUN
+Hungary,1981,12.9722,HUN
+Hungary,1982,13.8905,HUN
+Hungary,1983,13.4428,HUN
+Hungary,1984,14.1063,HUN
+Hungary,1985,13.679,HUN
+Hungary,1986,13.8003,HUN
+Hungary,1987,13.9894,HUN
+Hungary,1988,13.9121,HUN
+Hungary,1989,13.9502,HUN
+Hungary,1990,12.9839,HUN
+Hungary,1991,13.9316,HUN
+Hungary,1992,11.7468,HUN
+Hungary,1993,11.6798,HUN
+Hungary,1994,12.3433,HUN
+Hungary,1995,11.982,HUN
+Hungary,1996,12.579,HUN
+Hungary,1997,12.7406,HUN
+Hungary,1998,12.2946,HUN
+Hungary,1999,12.4487,HUN
+Hungary,2000,11.7052,HUN
+Hungary,2001,13.1497,HUN
+Hungary,2002,13.2723,HUN
+Hungary,2003,13.1313,HUN
+Hungary,2004,15.8722,HUN
+Hungary,2005,17.9692,HUN
+Hungary,2006,14.709,HUN
+Hungary,2007,12.2384,HUN
+Hungary,2008,13.1485,HUN
+Hungary,2009,10.8993,HUN
+Hungary,2010,10.3589,HUN
+Iceland,1980,20.3089,ISL
+Iceland,1981,20.3875,ISL
+Iceland,1982,17.2978,ISL
+Iceland,1983,16.8335,ISL
+Iceland,1984,19.3753,ISL
+Iceland,1985,19.8357,ISL
+Iceland,1986,19.3683,ISL
+Iceland,1987,19.8851,ISL
+Iceland,1988,19.5471,ISL
+Iceland,1989,18.5285,ISL
+Iceland,1990,19.1028,ISL
+Iceland,1991,16.9439,ISL
+Iceland,1992,18.2375,ISL
+Iceland,1993,17.9591,ISL
+Iceland,1994,16.4584,ISL
+Iceland,1995,16.8894,ISL
+Iceland,1996,19.2547,ISL
+Iceland,1997,19.3215,ISL
+Iceland,1998,21.1398,ISL
+Iceland,1999,21.2694,ISL
+Iceland,2000,24.4847,ISL
+Iceland,2001,22.4122,ISL
+Iceland,2002,20.7382,ISL
+Iceland,2003,21.7825,ISL
+Iceland,2004,23.1489,ISL
+Iceland,2005,25.609,ISL
+Iceland,2006,28.358,ISL
+Iceland,2007,25.4717,ISL
+Iceland,2008,23.7628,ISL
+Iceland,2009,19.1255,ISL
+Iceland,2010,18.2844,ISL
+India,1980,2.4482,IND
+India,1981,2.5504,IND
+India,1982,2.6164,IND
+India,1983,2.6301,IND
+India,1984,2.6344,IND
+India,1985,2.6616,IND
+India,1986,2.6982,IND
+India,1987,2.6961,IND
+India,1988,2.7488,IND
+India,1989,2.8087,IND
+India,1990,2.8627,IND
+India,1991,2.8995,IND
+India,1992,2.9145,IND
+India,1993,2.8629,IND
+India,1994,2.8897,IND
+India,1995,2.9957,IND
+India,1996,3.0869,IND
+India,1997,3.1011,IND
+India,1998,3.1175,IND
+India,1999,3.1938,IND
+India,2000,3.1627,IND
+India,2001,3.1922,IND
+India,2002,3.2337,IND
+India,2003,3.2641,IND
+India,2004,3.2356,IND
+India,2005,3.3922,IND
+India,2006,3.5962,IND
+India,2007,3.8408,IND
+India,2008,3.9847,IND
+India,2009,4.0238,IND
+India,2010,4.1472,IND
+Indonesia,1980,4.0475,IDN
+Indonesia,1981,4.2408,IDN
+Indonesia,1982,3.9903,IDN
+Indonesia,1983,3.7649,IDN
+Indonesia,1984,3.7456,IDN
+Indonesia,1985,3.7365,IDN
+Indonesia,1986,3.7732,IDN
+Indonesia,1987,3.6524,IDN
+Indonesia,1988,3.949,IDN
+Indonesia,1989,4.1381,IDN
+Indonesia,1990,4.2299,IDN
+Indonesia,1991,4.5404,IDN
+Indonesia,1992,4.4251,IDN
+Indonesia,1993,4.3237,IDN
+Indonesia,1994,4.449,IDN
+Indonesia,1995,4.8497,IDN
+Indonesia,1996,5.3697,IDN
+Indonesia,1997,5.2897,IDN
+Indonesia,1998,5.1385,IDN
+Indonesia,1999,5.0007,IDN
+Indonesia,2000,5.3233,IDN
+Indonesia,2001,5.2123,IDN
+Indonesia,2002,6.3107,IDN
+Indonesia,2003,6.4658,IDN
+Indonesia,2004,6.8503,IDN
+Indonesia,2005,7.0204,IDN
+Indonesia,2006,6.8919,IDN
+Indonesia,2007,7.5157,IDN
+Indonesia,2008,7.3217,IDN
+Indonesia,2009,7.3146,IDN
+Indonesia,2010,7.5445,IDN
+Iran,1980,5.4441,IRN
+Iran,1981,5.2074,IRN
+Iran,1982,5.7482,IRN
+Iran,1983,5.7023,IRN
+Iran,1984,6.0123,IRN
+Iran,1985,6.0672,IRN
+Iran,1986,5.8992,IRN
+Iran,1987,5.6979,IRN
+Iran,1988,5.4514,IRN
+Iran,1989,5.7719,IRN
+Iran,1990,6.0246,IRN
+Iran,1991,6.4037,IRN
+Iran,1992,6.8,IRN
+Iran,1993,7.2949,IRN
+Iran,1994,7.5186,IRN
+Iran,1995,7.5571,IRN
+Iran,1996,7.7627,IRN
+Iran,1997,7.9135,IRN
+Iran,1998,7.8349,IRN
+Iran,1999,8.0615,IRN
+Iran,2000,7.9949,IRN
+Iran,2001,8.5215,IRN
+Iran,2002,8.8314,IRN
+Iran,2003,9.3496,IRN
+Iran,2004,9.6278,IRN
+Iran,2005,10.196,IRN
+Iran,2006,10.7149,IRN
+Iran,2007,11.6701,IRN
+Iran,2008,11.3495,IRN
+Iran,2009,12.1705,IRN
+Iran,2010,12.2817,IRN
+Iraq,1980,5.8707,IRQ
+Iraq,1981,5.6737,IRQ
+Iraq,1982,5.5595,IRQ
+Iraq,1983,5.8248,IRQ
+Iraq,1984,7.0706,IRQ
+Iraq,1985,7.268,IRQ
+Iraq,1986,7.0794,IRQ
+Iraq,1987,7.9626,IRQ
+Iraq,1988,8.6424,IRQ
+Iraq,1989,9.1122,IRQ
+Iraq,1990,7.9328,IRQ
+Iraq,1991,4.2758,IRQ
+Iraq,1992,3.7108,IRQ
+Iraq,1993,4.3702,IRQ
+Iraq,1994,4.4352,IRQ
+Iraq,1995,4.1869,IRQ
+Iraq,1996,3.8247,IRQ
+Iraq,1997,3.9388,IRQ
+Iraq,1998,3.4983,IRQ
+Iraq,1999,4.259,IRQ
+Iraq,2000,4.5816,IRQ
+Iraq,2001,5.0202,IRQ
+Iraq,2002,5.3278,IRQ
+Iraq,2003,3.3727,IRQ
+Iraq,2004,3.064,IRQ
+Iraq,2005,3.5985,IRQ
+Iraq,2006,3.501,IRQ
+Iraq,2007,3.63,IRQ
+Iraq,2008,5.5968,IRQ
+Iraq,2009,4.7125,IRQ
+Iraq,2010,4.6865,IRQ
+Ireland,1980,41.8097,IRL
+Ireland,1981,37.7362,IRL
+Ireland,1982,41.6525,IRL
+Ireland,1983,46.4878,IRL
+Ireland,1984,47.6687,IRL
+Ireland,1985,38.4874,IRL
+Ireland,1986,38.7944,IRL
+Ireland,1987,38.2429,IRL
+Ireland,1988,38.1873,IRL
+Ireland,1989,41.3247,IRL
+Ireland,1990,43.4703,IRL
+Ireland,1991,41.4923,IRL
+Ireland,1992,41.8123,IRL
+Ireland,1993,42.2705,IRL
+Ireland,1994,34.161,IRL
+Ireland,1995,34.7783,IRL
+Ireland,1996,39.2744,IRL
+Ireland,1997,40.6139,IRL
+Ireland,1998,44.2368,IRL
+Ireland,1999,47.1244,IRL
+Ireland,2000,50.1106,IRL
+Ireland,2001,51.3074,IRL
+Ireland,2002,49.3844,IRL
+Ireland,2003,47.0224,IRL
+Ireland,2004,48.7568,IRL
+Ireland,2005,55.6421,IRL
+Ireland,2006,57.7585,IRL
+Ireland,2007,56.2905,IRL
+Ireland,2008,45.4534,IRL
+Ireland,2009,37.7,IRL
+Ireland,2010,33.2758,IRL
+Israel,1980,10.3447,ISR
+Israel,1981,10.7119,ISR
+Israel,1982,10.177,ISR
+Israel,1983,9.2655,ISR
+Israel,1984,8.8173,ISR
+Israel,1985,9.1727,ISR
+Israel,1986,9.0791,ISR
+Israel,1987,9.6931,ISR
+Israel,1988,9.6652,ISR
+Israel,1989,9.0206,ISR
+Israel,1990,10.0348,ISR
+Israel,1991,13.2834,ISR
+Israel,1992,14.5013,ISR
+Israel,1993,15.6013,ISR
+Israel,1994,16.5101,ISR
+Israel,1995,19.1645,ISR
+Israel,1996,16.3949,ISR
+Israel,1997,15.7999,ISR
+Israel,1998,17.7951,ISR
+Israel,1999,18.2825,ISR
+Israel,2000,17.1761,ISR
+Israel,2001,15.844,ISR
+Israel,2002,14.4069,ISR
+Israel,2003,13.8054,ISR
+Israel,2004,13.2879,ISR
+Israel,2005,14.8108,ISR
+Israel,2006,13.0069,ISR
+Israel,2007,13.6463,ISR
+Israel,2008,15.4976,ISR
+Israel,2009,12.1339,ISR
+Israel,2010,13.9011,ISR
+Italy,1980,16.4355,ITA
+Italy,1981,16.1595,ITA
+Italy,1982,16.4888,ITA
+Italy,1983,16.7876,ITA
+Italy,1984,15.9222,ITA
+Italy,1985,16.3838,ITA
+Italy,1986,15.9019,ITA
+Italy,1987,15.9378,ITA
+Italy,1988,15.7935,ITA
+Italy,1989,17.0063,ITA
+Italy,1990,15.376,ITA
+Italy,1991,15.3606,ITA
+Italy,1992,14.9476,ITA
+Italy,1993,13.5494,ITA
+Italy,1994,13.5629,ITA
+Italy,1995,13.644,ITA
+Italy,1996,14.0227,ITA
+Italy,1997,13.8796,ITA
+Italy,1998,15.4707,ITA
+Italy,1999,17.417,ITA
+Italy,2000,17.1337,ITA
+Italy,2001,16.5759,ITA
+Italy,2002,14.8035,ITA
+Italy,2003,13.3555,ITA
+Italy,2004,14.0413,ITA
+Italy,2005,14.3672,ITA
+Italy,2006,14.4087,ITA
+Italy,2007,13.8131,ITA
+Italy,2008,13.2701,ITA
+Italy,2009,12.8285,ITA
+Italy,2010,12.0307,ITA
+Jamaica,1980,8.8336,JAM
+Jamaica,1981,8.6292,JAM
+Jamaica,1982,7.8804,JAM
+Jamaica,1983,7.3758,JAM
+Jamaica,1984,7.5694,JAM
+Jamaica,1985,7.4277,JAM
+Jamaica,1986,8.194,JAM
+Jamaica,1987,8.0099,JAM
+Jamaica,1988,8.0263,JAM
+Jamaica,1989,9.0676,JAM
+Jamaica,1990,10.1126,JAM
+Jamaica,1991,10.2499,JAM
+Jamaica,1992,9.3803,JAM
+Jamaica,1993,8.5677,JAM
+Jamaica,1994,9.6789,JAM
+Jamaica,1995,9.7842,JAM
+Jamaica,1996,8.7705,JAM
+Jamaica,1997,8.9515,JAM
+Jamaica,1998,10.1668,JAM
+Jamaica,1999,9.4185,JAM
+Jamaica,2000,9.5714,JAM
+Jamaica,2001,10.2709,JAM
+Jamaica,2002,10.0376,JAM
+Jamaica,2003,10.1535,JAM
+Jamaica,2004,11.1484,JAM
+Jamaica,2005,10.7901,JAM
+Jamaica,2006,9.6502,JAM
+Jamaica,2007,9.5594,JAM
+Jamaica,2008,9.8356,JAM
+Jamaica,2009,8.6353,JAM
+Jamaica,2010,7.9313,JAM
+Japan,1980,12.233,JPN
+Japan,1981,11.4239,JPN
+Japan,1982,10.9598,JPN
+Japan,1983,10.6339,JPN
+Japan,1984,11.1908,JPN
+Japan,1985,10.7383,JPN
+Japan,1986,11.0989,JPN
+Japan,1987,11.1584,JPN
+Japan,1988,11.9969,JPN
+Japan,1989,12.2055,JPN
+Japan,1990,12.685,JPN
+Japan,1991,12.8518,JPN
+Japan,1992,12.3186,JPN
+Japan,1993,12.0005,JPN
+Japan,1994,12.2745,JPN
+Japan,1995,12.3258,JPN
+Japan,1996,12.6081,JPN
+Japan,1997,12.5375,JPN
+Japan,1998,11.6393,JPN
+Japan,1999,11.6759,JPN
+Japan,2000,12.0902,JPN
+Japan,2001,11.5097,JPN
+Japan,2002,10.944,JPN
+Japan,2003,10.8802,JPN
+Japan,2004,10.8484,JPN
+Japan,2005,10.8091,JPN
+Japan,2006,10.899,JPN
+Japan,2007,10.7368,JPN
+Japan,2008,10.2671,JPN
+Japan,2009,8.7703,JPN
+Japan,2010,9.0592,JPN
+Jordan,1980,7.6579,JOR
+Jordan,1981,8.8599,JOR
+Jordan,1982,9.3215,JOR
+Jordan,1983,9.5599,JOR
+Jordan,1984,9.1481,JOR
+Jordan,1985,8.6993,JOR
+Jordan,1986,8.0221,JOR
+Jordan,1987,8.1776,JOR
+Jordan,1988,7.712,JOR
+Jordan,1989,6.6448,JOR
+Jordan,1990,4.6889,JOR
+Jordan,1991,4.3611,JOR
+Jordan,1992,8.1874,JOR
+Jordan,1993,9.0037,JOR
+Jordan,1994,9.2441,JOR
+Jordan,1995,8.1744,JOR
+Jordan,1996,8.8836,JOR
+Jordan,1997,6.6698,JOR
+Jordan,1998,6.8306,JOR
+Jordan,1999,6.2962,JOR
+Jordan,2000,7.4349,JOR
+Jordan,2001,7.2273,JOR
+Jordan,2002,7.3182,JOR
+Jordan,2003,7.5893,JOR
+Jordan,2004,8.7398,JOR
+Jordan,2005,9.6078,JOR
+Jordan,2006,9.0499,JOR
+Jordan,2007,9.2765,JOR
+Jordan,2008,8.8777,JOR
+Jordan,2009,8.0737,JOR
+Jordan,2010,8.9769,JOR
+Kazakhstan,1980,0,KAZ
+Kazakhstan,1981,0,KAZ
+Kazakhstan,1982,0,KAZ
+Kazakhstan,1983,0,KAZ
+Kazakhstan,1984,0,KAZ
+Kazakhstan,1985,0,KAZ
+Kazakhstan,1986,0,KAZ
+Kazakhstan,1987,0,KAZ
+Kazakhstan,1988,0,KAZ
+Kazakhstan,1989,0,KAZ
+Kazakhstan,1990,0,KAZ
+Kazakhstan,1991,0,KAZ
+Kazakhstan,1992,25.54,KAZ
+Kazakhstan,1993,21.8641,KAZ
+Kazakhstan,1994,18.6273,KAZ
+Kazakhstan,1995,15.2514,KAZ
+Kazakhstan,1996,14.0019,KAZ
+Kazakhstan,1997,13.9326,KAZ
+Kazakhstan,1998,12.7956,KAZ
+Kazakhstan,1999,13.8751,KAZ
+Kazakhstan,2000,16.6657,KAZ
+Kazakhstan,2001,18.6318,KAZ
+Kazakhstan,2002,19.403,KAZ
+Kazakhstan,2003,20.2765,KAZ
+Kazakhstan,2004,20.9015,KAZ
+Kazakhstan,2005,21.8953,KAZ
+Kazakhstan,2006,23.0445,KAZ
+Kazakhstan,2007,24.9584,KAZ
+Kazakhstan,2008,25.6763,KAZ
+Kazakhstan,2009,24.4552,KAZ
+Kazakhstan,2010,25.6345,KAZ
+Kenya,1980,4.4685,KEN
+Kenya,1981,4.1998,KEN
+Kenya,1982,4.2585,KEN
+Kenya,1983,4.3484,KEN
+Kenya,1984,4.2022,KEN
+Kenya,1985,4.0856,KEN
+Kenya,1986,4.1915,KEN
+Kenya,1987,4.0461,KEN
+Kenya,1988,4.0919,KEN
+Kenya,1989,4.2378,KEN
+Kenya,1990,4.2381,KEN
+Kenya,1991,3.8851,KEN
+Kenya,1992,3.8138,KEN
+Kenya,1993,3.5199,KEN
+Kenya,1994,3.5016,KEN
+Kenya,1995,3.4876,KEN
+Kenya,1996,3.2518,KEN
+Kenya,1997,3.136,KEN
+Kenya,1998,3.1742,KEN
+Kenya,1999,3.2935,KEN
+Kenya,2000,2.9454,KEN
+Kenya,2001,3.0481,KEN
+Kenya,2002,3.0726,KEN
+Kenya,2003,2.9948,KEN
+Kenya,2004,3.0755,KEN
+Kenya,2005,3.3091,KEN
+Kenya,2006,3.2044,KEN
+Kenya,2007,4.2327,KEN
+Kenya,2008,4.2744,KEN
+Kenya,2009,4.2039,KEN
+Kenya,2010,4.3591,KEN
+Kiribati,1980,4.4507,KIR
+Kiribati,1981,5.3161,KIR
+Kiribati,1982,4.9825,KIR
+Kiribati,1983,4.218,KIR
+Kiribati,1984,5.5551,KIR
+Kiribati,1985,5.5224,KIR
+Kiribati,1986,6.031,KIR
+Kiribati,1987,6.325,KIR
+Kiribati,1988,6.5571,KIR
+Kiribati,1989,4.6634,KIR
+Kiribati,1990,3.9501,KIR
+Kiribati,1991,4.5104,KIR
+Kiribati,1992,4.5885,KIR
+Kiribati,1993,4.5646,KIR
+Kiribati,1994,4.4011,KIR
+Kiribati,1995,4.3782,KIR
+Kiribati,1996,5.3355,KIR
+Kiribati,1997,5.1034,KIR
+Kiribati,1998,5.2446,KIR
+Kiribati,1999,5.5126,KIR
+Kiribati,2000,5.1364,KIR
+Kiribati,2001,5.0169,KIR
+Kiribati,2002,5.0875,KIR
+Kiribati,2003,5.0205,KIR
+Kiribati,2004,5.7866,KIR
+Kiribati,2005,5.8341,KIR
+Kiribati,2006,6.4105,KIR
+Kiribati,2007,6.5827,KIR
+Kiribati,2008,6.4485,KIR
+Kiribati,2009,17.7673,KIR
+Kiribati,2010,5.4012,KIR
+Kuwait,1980,31.8613,KWT
+Kuwait,1981,17.3849,KWT
+Kuwait,1982,34.319,KWT
+Kuwait,1983,23.3411,KWT
+Kuwait,1984,25.711,KWT
+Kuwait,1985,30.5125,KWT
+Kuwait,1986,34.4313,KWT
+Kuwait,1987,35.4331,KWT
+Kuwait,1988,39.4107,KWT
+Kuwait,1989,42.8457,KWT
+Kuwait,1990,17.0536,KWT
+Kuwait,1991,3.4215,KWT
+Kuwait,1992,16.8081,KWT
+Kuwait,1993,30.2184,KWT
+Kuwait,1994,44.3713,KWT
+Kuwait,1995,55.0488,KWT
+Kuwait,1996,55.9853,KWT
+Kuwait,1997,30.6064,KWT
+Kuwait,1998,41.8099,KWT
+Kuwait,1999,41.4037,KWT
+Kuwait,2000,36.4958,KWT
+Kuwait,2001,35.4625,KWT
+Kuwait,2002,26.3094,KWT
+Kuwait,2003,40.08,KWT
+Kuwait,2004,37.3926,KWT
+Kuwait,2005,38.8145,KWT
+Kuwait,2006,31.2316,KWT
+Kuwait,2007,30.7414,KWT
+Kuwait,2008,36.9699,KWT
+Kuwait,2009,55.7772,KWT
+Kuwait,2010,54.0947,KWT
+Kyrgyzstan,1980,0,KGZ
+Kyrgyzstan,1981,0,KGZ
+Kyrgyzstan,1982,0,KGZ
+Kyrgyzstan,1983,0,KGZ
+Kyrgyzstan,1984,0,KGZ
+Kyrgyzstan,1985,0,KGZ
+Kyrgyzstan,1986,0,KGZ
+Kyrgyzstan,1987,0,KGZ
+Kyrgyzstan,1988,0,KGZ
+Kyrgyzstan,1989,0,KGZ
+Kyrgyzstan,1990,0,KGZ
+Kyrgyzstan,1991,0,KGZ
+Kyrgyzstan,1992,6.7118,KGZ
+Kyrgyzstan,1993,5.5238,KGZ
+Kyrgyzstan,1994,4.5281,KGZ
+Kyrgyzstan,1995,3.8696,KGZ
+Kyrgyzstan,1996,4.789,KGZ
+Kyrgyzstan,1997,5.0142,KGZ
+Kyrgyzstan,1998,4.7382,KGZ
+Kyrgyzstan,1999,4.3938,KGZ
+Kyrgyzstan,2000,4.5494,KGZ
+Kyrgyzstan,2001,4.7064,KGZ
+Kyrgyzstan,2002,5.0269,KGZ
+Kyrgyzstan,2003,5.3248,KGZ
+Kyrgyzstan,2004,5.3405,KGZ
+Kyrgyzstan,2005,5.2076,KGZ
+Kyrgyzstan,2006,5.0365,KGZ
+Kyrgyzstan,2007,5.7572,KGZ
+Kyrgyzstan,2008,6.1805,KGZ
+Kyrgyzstan,2009,5.3054,KGZ
+Kyrgyzstan,2010,5.4844,KGZ
+Latvia,1980,0,LVA
+Latvia,1981,0,LVA
+Latvia,1982,0,LVA
+Latvia,1983,0,LVA
+Latvia,1984,0,LVA
+Latvia,1985,0,LVA
+Latvia,1986,0,LVA
+Latvia,1987,0,LVA
+Latvia,1988,0,LVA
+Latvia,1989,0,LVA
+Latvia,1990,0,LVA
+Latvia,1991,0,LVA
+Latvia,1992,5.6613,LVA
+Latvia,1993,5.7267,LVA
+Latvia,1994,5.7264,LVA
+Latvia,1995,9.6214,LVA
+Latvia,1996,9.4309,LVA
+Latvia,1997,9.3092,LVA
+Latvia,1998,10.0295,LVA
+Latvia,1999,7.3259,LVA
+Latvia,2000,7.1436,LVA
+Latvia,2001,7.2814,LVA
+Latvia,2002,8.4552,LVA
+Latvia,2003,8.8487,LVA
+Latvia,2004,10.4265,LVA
+Latvia,2005,11.2766,LVA
+Latvia,2006,12.4814,LVA
+Latvia,2007,14.4162,LVA
+Latvia,2008,13.0458,LVA
+Latvia,2009,8.942,LVA
+Latvia,2010,9.9318,LVA
+Lesotho,1980,6.0829,LSO
+Lesotho,1981,5.8987,LSO
+Lesotho,1982,5.4348,LSO
+Lesotho,1983,3.8831,LSO
+Lesotho,1984,3.8002,LSO
+Lesotho,1985,3.9124,LSO
+Lesotho,1986,3.9136,LSO
+Lesotho,1987,4.2393,LSO
+Lesotho,1988,4.2253,LSO
+Lesotho,1989,4.0076,LSO
+Lesotho,1990,3.5062,LSO
+Lesotho,1991,3.3123,LSO
+Lesotho,1992,3.5178,LSO
+Lesotho,1993,3.507,LSO
+Lesotho,1994,3.4876,LSO
+Lesotho,1995,3.2348,LSO
+Lesotho,1996,3.2998,LSO
+Lesotho,1997,3.1671,LSO
+Lesotho,1998,3.0017,LSO
+Lesotho,1999,4.7497,LSO
+Lesotho,2000,4.9239,LSO
+Lesotho,2001,4.3448,LSO
+Lesotho,2002,4.6829,LSO
+Lesotho,2003,4.3316,LSO
+Lesotho,2004,3.3853,LSO
+Lesotho,2005,4.9574,LSO
+Lesotho,2006,9.5135,LSO
+Lesotho,2007,15.1275,LSO
+Lesotho,2008,9.8924,LSO
+Lesotho,2009,5.794,LSO
+Lesotho,2010,6.2551,LSO
+Libya,1980,17.1334,LBY
+Libya,1981,17.1289,LBY
+Libya,1982,20.7265,LBY
+Libya,1983,20.4768,LBY
+Libya,1984,20.2909,LBY
+Libya,1985,19.585,LBY
+Libya,1986,9.395,LBY
+Libya,1987,9.4175,LBY
+Libya,1988,10.9371,LBY
+Libya,1989,10.4598,LBY
+Libya,1990,11.6388,LBY
+Libya,1991,11.6633,LBY
+Libya,1992,10.9182,LBY
+Libya,1993,10.5487,LBY
+Libya,1994,13.3167,LBY
+Libya,1995,12.4542,LBY
+Libya,1996,13.3285,LBY
+Libya,1997,11.3227,LBY
+Libya,1998,12.503,LBY
+Libya,1999,11.922,LBY
+Libya,2000,11.6166,LBY
+Libya,2001,11.534,LBY
+Libya,2002,12.4671,LBY
+Libya,2003,12.6516,LBY
+Libya,2004,13.3257,LBY
+Libya,2005,12.9396,LBY
+Libya,2006,14.3816,LBY
+Libya,2007,14.6651,LBY
+Libya,2008,15.1028,LBY
+Libya,2009,15.1001,LBY
+Libya,2010,27.5324,LBY
+Lithuania,1980,0,LTU
+Lithuania,1981,0,LTU
+Lithuania,1982,0,LTU
+Lithuania,1983,0,LTU
+Lithuania,1984,0,LTU
+Lithuania,1985,0,LTU
+Lithuania,1986,0,LTU
+Lithuania,1987,0,LTU
+Lithuania,1988,0,LTU
+Lithuania,1989,0,LTU
+Lithuania,1990,0,LTU
+Lithuania,1991,0,LTU
+Lithuania,1992,10.216,LTU
+Lithuania,1993,8.6335,LTU
+Lithuania,1994,7.4325,LTU
+Lithuania,1995,7.2505,LTU
+Lithuania,1996,7.8771,LTU
+Lithuania,1997,8.2528,LTU
+Lithuania,1998,8.6916,LTU
+Lithuania,1999,7.8044,LTU
+Lithuania,2000,7.9649,LTU
+Lithuania,2001,6.9456,LTU
+Lithuania,2002,8.4656,LTU
+Lithuania,2003,9.4204,LTU
+Lithuania,2004,10.3164,LTU
+Lithuania,2005,10.6016,LTU
+Lithuania,2006,10.7293,LTU
+Lithuania,2007,12.8586,LTU
+Lithuania,2008,13.8465,LTU
+Lithuania,2009,10.0114,LTU
+Lithuania,2010,11.0523,LTU
+Macedonia,1980,0,MKD
+Macedonia,1981,0,MKD
+Macedonia,1982,0,MKD
+Macedonia,1983,0,MKD
+Macedonia,1984,0,MKD
+Macedonia,1985,0,MKD
+Macedonia,1986,0,MKD
+Macedonia,1987,0,MKD
+Macedonia,1988,0,MKD
+Macedonia,1989,0,MKD
+Macedonia,1990,0,MKD
+Macedonia,1991,0,MKD
+Macedonia,1992,11.7455,MKD
+Macedonia,1993,12.1766,MKD
+Macedonia,1994,12.4252,MKD
+Macedonia,1995,12.8907,MKD
+Macedonia,1996,13.1742,MKD
+Macedonia,1997,12.2709,MKD
+Macedonia,1998,12.213,MKD
+Macedonia,1999,10.7315,MKD
+Macedonia,2000,10.5862,MKD
+Macedonia,2001,9.6253,MKD
+Macedonia,2002,10.0926,MKD
+Macedonia,2003,10.3089,MKD
+Macedonia,2004,9.9633,MKD
+Macedonia,2005,10.7397,MKD
+Macedonia,2006,11.4898,MKD
+Macedonia,2007,11.9574,MKD
+Macedonia,2008,14.5641,MKD
+Macedonia,2009,13.5691,MKD
+Macedonia,2010,12.8246,MKD
+Madagascar,1980,5.1045,MDG
+Madagascar,1981,5.0563,MDG
+Madagascar,1982,4.914,MDG
+Madagascar,1983,4.9638,MDG
+Madagascar,1984,4.8297,MDG
+Madagascar,1985,4.7415,MDG
+Madagascar,1986,4.6753,MDG
+Madagascar,1987,4.5296,MDG
+Madagascar,1988,4.4475,MDG
+Madagascar,1989,4.3764,MDG
+Madagascar,1990,4.3784,MDG
+Madagascar,1991,4.2458,MDG
+Madagascar,1992,4.1981,MDG
+Madagascar,1993,4.1219,MDG
+Madagascar,1994,4.0126,MDG
+Madagascar,1995,3.9261,MDG
+Madagascar,1996,3.8368,MDG
+Madagascar,1997,3.6847,MDG
+Madagascar,1998,3.5881,MDG
+Madagascar,1999,3.4873,MDG
+Madagascar,2000,3.4259,MDG
+Madagascar,2001,3.1024,MDG
+Madagascar,2002,2.8695,MDG
+Madagascar,2003,2.9438,MDG
+Madagascar,2004,2.9323,MDG
+Madagascar,2005,3.1196,MDG
+Madagascar,2006,3.1938,MDG
+Madagascar,2007,3.1712,MDG
+Madagascar,2008,3.2246,MDG
+Madagascar,2009,3.0875,MDG
+Madagascar,2010,3.0304,MDG
+Malawi,1980,2.0961,MWI
+Malawi,1981,2.1558,MWI
+Malawi,1982,2.1624,MWI
+Malawi,1983,2.0488,MWI
+Malawi,1984,1.9709,MWI
+Malawi,1985,1.9183,MWI
+Malawi,1986,1.859,MWI
+Malawi,1987,1.8021,MWI
+Malawi,1988,1.7126,MWI
+Malawi,1989,1.6717,MWI
+Malawi,1990,1.6344,MWI
+Malawi,1991,1.6425,MWI
+Malawi,1992,1.5024,MWI
+Malawi,1993,1.6508,MWI
+Malawi,1994,1.5929,MWI
+Malawi,1995,1.7775,MWI
+Malawi,1996,1.8105,MWI
+Malawi,1997,1.744,MWI
+Malawi,1998,1.875,MWI
+Malawi,1999,2.1276,MWI
+Malawi,2000,2.2984,MWI
+Malawi,2001,2.2782,MWI
+Malawi,2002,1.9274,MWI
+Malawi,2003,2.0127,MWI
+Malawi,2004,1.9592,MWI
+Malawi,2005,1.8061,MWI
+Malawi,2006,2.2686,MWI
+Malawi,2007,2.408,MWI
+Malawi,2008,2.4282,MWI
+Malawi,2009,2.6064,MWI
+Malawi,2010,2.456,MWI
+Malaysia,1980,8.8922,MYS
+Malaysia,1981,9.4594,MYS
+Malaysia,1982,9.9478,MYS
+Malaysia,1983,9.1722,MYS
+Malaysia,1984,9.5752,MYS
+Malaysia,1985,8.9793,MYS
+Malaysia,1986,8.6922,MYS
+Malaysia,1987,8.2389,MYS
+Malaysia,1988,9.3389,MYS
+Malaysia,1989,9.6921,MYS
+Malaysia,1990,10.0652,MYS
+Malaysia,1991,11.4411,MYS
+Malaysia,1992,12.5233,MYS
+Malaysia,1993,13.3008,MYS
+Malaysia,1994,13.0885,MYS
+Malaysia,1995,14.4353,MYS
+Malaysia,1996,15.751,MYS
+Malaysia,1997,16.1788,MYS
+Malaysia,1998,12.0484,MYS
+Malaysia,1999,13.6362,MYS
+Malaysia,2000,14.7479,MYS
+Malaysia,2001,13.8133,MYS
+Malaysia,2002,13.9731,MYS
+Malaysia,2003,15.2197,MYS
+Malaysia,2004,15.8813,MYS
+Malaysia,2005,16.9151,MYS
+Malaysia,2006,18.2683,MYS
+Malaysia,2007,15.8164,MYS
+Malaysia,2008,16.4639,MYS
+Malaysia,2009,15.8984,MYS
+Malaysia,2010,15.9624,MYS
+Maldives,1980,1.4671,MDV
+Maldives,1981,1.5166,MDV
+Maldives,1982,1.4326,MDV
+Maldives,1983,1.5745,MDV
+Maldives,1984,1.8356,MDV
+Maldives,1985,1.9407,MDV
+Maldives,1986,1.9824,MDV
+Maldives,1987,1.9825,MDV
+Maldives,1988,2.1058,MDV
+Maldives,1989,2.1955,MDV
+Maldives,1990,2.3283,MDV
+Maldives,1991,2.3765,MDV
+Maldives,1992,2.4504,MDV
+Maldives,1993,2.5365,MDV
+Maldives,1994,4.9105,MDV
+Maldives,1995,4.8683,MDV
+Maldives,1996,4.9685,MDV
+Maldives,1997,5.3643,MDV
+Maldives,1998,5.1911,MDV
+Maldives,1999,5.8242,MDV
+Maldives,2000,5.608,MDV
+Maldives,2001,5.9568,MDV
+Maldives,2002,6.319,MDV
+Maldives,2003,6.9352,MDV
+Maldives,2004,7.9235,MDV
+Maldives,2005,7.5928,MDV
+Maldives,2006,9.0292,MDV
+Maldives,2007,15.8295,MDV
+Maldives,2008,20.1066,MDV
+Maldives,2009,8.7347,MDV
+Maldives,2010,9.1303,MDV
+Mali,1980,4.5041,MLI
+Mali,1981,4.7655,MLI
+Mali,1982,4.7577,MLI
+Mali,1983,4.3046,MLI
+Mali,1984,3.7684,MLI
+Mali,1985,3.4787,MLI
+Mali,1986,3.5553,MLI
+Mali,1987,3.6116,MLI
+Mali,1988,3.7081,MLI
+Mali,1989,3.7933,MLI
+Mali,1990,3.9038,MLI
+Mali,1991,3.8072,MLI
+Mali,1992,3.7467,MLI
+Mali,1993,3.7657,MLI
+Mali,1994,3.7751,MLI
+Mali,1995,4.0089,MLI
+Mali,1996,3.9275,MLI
+Mali,1997,4.174,MLI
+Mali,1998,4.4187,MLI
+Mali,1999,4.528,MLI
+Mali,2000,4.6544,MLI
+Mali,2001,5.0481,MLI
+Mali,2002,5.3651,MLI
+Mali,2003,5.3078,MLI
+Mali,2004,5.1388,MLI
+Mali,2005,5.2955,MLI
+Mali,2006,5.3554,MLI
+Mali,2007,5.4906,MLI
+Mali,2008,5.5752,MLI
+Mali,2009,5.3301,MLI
+Mali,2010,5.827,MLI
+Malta,1980,7.4073,MLT
+Malta,1981,7.6655,MLT
+Malta,1982,7.6218,MLT
+Malta,1983,7.5692,MLT
+Malta,1984,9.4025,MLT
+Malta,1985,10.035,MLT
+Malta,1986,9.3652,MLT
+Malta,1987,8.7926,MLT
+Malta,1988,9.601,MLT
+Malta,1989,10.5719,MLT
+Malta,1990,9.7852,MLT
+Malta,1991,9.9437,MLT
+Malta,1992,9.9196,MLT
+Malta,1993,11.2158,MLT
+Malta,1994,10.2477,MLT
+Malta,1995,9.1528,MLT
+Malta,1996,9.2793,MLT
+Malta,1997,10.1228,MLT
+Malta,1998,11.7531,MLT
+Malta,1999,12.6453,MLT
+Malta,2000,12.1703,MLT
+Malta,2001,12.8885,MLT
+Malta,2002,12.795,MLT
+Malta,2003,12.9814,MLT
+Malta,2004,12.1309,MLT
+Malta,2005,13.2525,MLT
+Malta,2006,13.2451,MLT
+Malta,2007,13.8156,MLT
+Malta,2008,13.4001,MLT
+Malta,2009,11.1018,MLT
+Malta,2010,8.7526,MLT
+Mauritania,1980,14.0616,MRT
+Mauritania,1981,13.8763,MRT
+Mauritania,1982,13.1325,MRT
+Mauritania,1983,8.3102,MRT
+Mauritania,1984,8.2178,MRT
+Mauritania,1985,8.4684,MRT
+Mauritania,1986,6.7726,MRT
+Mauritania,1987,7.7838,MRT
+Mauritania,1988,7.8665,MRT
+Mauritania,1989,7.902,MRT
+Mauritania,1990,8.0312,MRT
+Mauritania,1991,7.3155,MRT
+Mauritania,1992,8.4067,MRT
+Mauritania,1993,8.1251,MRT
+Mauritania,1994,7.7034,MRT
+Mauritania,1995,7.0258,MRT
+Mauritania,1996,7.4959,MRT
+Mauritania,1997,8.0324,MRT
+Mauritania,1998,8.288,MRT
+Mauritania,1999,8.3585,MRT
+Mauritania,2000,8.2656,MRT
+Mauritania,2001,7.8619,MRT
+Mauritania,2002,7.8698,MRT
+Mauritania,2003,8.0515,MRT
+Mauritania,2004,8.0973,MRT
+Mauritania,2005,7.8194,MRT
+Mauritania,2006,8.4531,MRT
+Mauritania,2007,8.4938,MRT
+Mauritania,2008,8.1249,MRT
+Mauritania,2009,8.7384,MRT
+Mauritania,2010,9.5734,MRT
+Mauritius,1980,9.5437,MUS
+Mauritius,1981,10.7677,MUS
+Mauritius,1982,12.8543,MUS
+Mauritius,1983,10.5718,MUS
+Mauritius,1984,10.1779,MUS
+Mauritius,1985,11.7695,MUS
+Mauritius,1986,12.6608,MUS
+Mauritius,1987,13.0356,MUS
+Mauritius,1988,11.9536,MUS
+Mauritius,1989,12.1583,MUS
+Mauritius,1990,11.8969,MUS
+Mauritius,1991,13.0405,MUS
+Mauritius,1992,12.3504,MUS
+Mauritius,1993,12.1003,MUS
+Mauritius,1994,11.7876,MUS
+Mauritius,1995,12.3803,MUS
+Mauritius,1996,12.4285,MUS
+Mauritius,1997,13.444,MUS
+Mauritius,1998,13.7268,MUS
+Mauritius,1999,11.2128,MUS
+Mauritius,2000,13.22,MUS
+Mauritius,2001,14.0806,MUS
+Mauritius,2002,12.2491,MUS
+Mauritius,2003,13.3842,MUS
+Mauritius,2004,13.635,MUS
+Mauritius,2005,12.941,MUS
+Mauritius,2006,13.1572,MUS
+Mauritius,2007,12.5118,MUS
+Mauritius,2008,13.3541,MUS
+Mauritius,2009,13.001,MUS
+Mauritius,2010,13.0059,MUS
+Mayotte,1980,0.3135,MYT
+Mayotte,1981,0.3089,MYT
+Mayotte,1982,0.3069,MYT
+Mayotte,1983,0.3075,MYT
+Mayotte,1984,0.3081,MYT
+Mayotte,1985,0.3108,MYT
+Mayotte,1986,0.3105,MYT
+Mayotte,1987,0.315,MYT
+Mayotte,1988,0.3118,MYT
+Mayotte,1989,0.3122,MYT
+Mayotte,1990,0.6042,MYT
+Mayotte,1991,0.587,MYT
+Mayotte,1992,0.5679,MYT
+Mayotte,1993,0.5482,MYT
+Mayotte,1994,0.5385,MYT
+Mayotte,1995,0.5336,MYT
+Mayotte,1996,0.5268,MYT
+Mayotte,1997,0.5281,MYT
+Mayotte,1998,1.5653,MYT
+Mayotte,1999,1.5354,MYT
+Mayotte,2000,1.4352,MYT
+Mayotte,2001,1.3945,MYT
+Mayotte,2002,1.4112,MYT
+Mayotte,2003,1.5673,MYT
+Mayotte,2004,1.8524,MYT
+Mayotte,2005,1.9476,MYT
+Mayotte,2006,1.9894,MYT
+Mayotte,2007,2.0243,MYT
+Mayotte,2008,2.6216,MYT
+Mayotte,2009,1.8584,MYT
+Mayotte,2010,2.0503,MYT
+Mexico,1980,8.7139,MEX
+Mexico,1981,9.3291,MEX
+Mexico,1982,9.7414,MEX
+Mexico,1983,8.7105,MEX
+Mexico,1984,8.5049,MEX
+Mexico,1985,8.6045,MEX
+Mexico,1986,8.518,MEX
+Mexico,1987,8.6707,MEX
+Mexico,1988,8.6616,MEX
+Mexico,1989,8.5001,MEX
+Mexico,1990,8.5587,MEX
+Mexico,1991,8.4684,MEX
+Mexico,1992,8.6151,MEX
+Mexico,1993,8.594,MEX
+Mexico,1994,8.9842,MEX
+Mexico,1995,8.0037,MEX
+Mexico,1996,8.0162,MEX
+Mexico,1997,8.5182,MEX
+Mexico,1998,8.8024,MEX
+Mexico,1999,8.917,MEX
+Mexico,2000,9.286,MEX
+Mexico,2001,9.3588,MEX
+Mexico,2002,9.2578,MEX
+Mexico,2003,8.9498,MEX
+Mexico,2004,9.1325,MEX
+Mexico,2005,9.3166,MEX
+Mexico,2006,9.482,MEX
+Mexico,2007,9.3746,MEX
+Mexico,2008,9.1094,MEX
+Mexico,2009,9.0784,MEX
+Mexico,2010,9.0912,MEX
+Moldova,1980,0,MDA
+Moldova,1981,0,MDA
+Moldova,1982,0,MDA
+Moldova,1983,0,MDA
+Moldova,1984,0,MDA
+Moldova,1985,0,MDA
+Moldova,1986,0,MDA
+Moldova,1987,0,MDA
+Moldova,1988,0,MDA
+Moldova,1989,0,MDA
+Moldova,1990,0,MDA
+Moldova,1991,0,MDA
+Moldova,1992,5.1516,MDA
+Moldova,1993,4.7473,MDA
+Moldova,1994,3.7584,MDA
+Moldova,1995,4.094,MDA
+Moldova,1996,3.619,MDA
+Moldova,1997,4.1013,MDA
+Moldova,1998,3.4149,MDA
+Moldova,1999,2.9989,MDA
+Moldova,2000,3.011,MDA
+Moldova,2001,3.2236,MDA
+Moldova,2002,3.5983,MDA
+Moldova,2003,3.4651,MDA
+Moldova,2004,4.5221,MDA
+Moldova,2005,4.895,MDA
+Moldova,2006,4.8681,MDA
+Moldova,2007,3.8037,MDA
+Moldova,2008,5.0925,MDA
+Moldova,2009,3.8981,MDA
+Moldova,2010,4.8085,MDA
+Mongolia,1980,24.1978,MNG
+Mongolia,1981,26.4472,MNG
+Mongolia,1982,28.9419,MNG
+Mongolia,1983,28.5261,MNG
+Mongolia,1984,27.7081,MNG
+Mongolia,1985,30.4914,MNG
+Mongolia,1986,32.3945,MNG
+Mongolia,1987,31.9877,MNG
+Mongolia,1988,31.8067,MNG
+Mongolia,1989,31.3251,MNG
+Mongolia,1990,31.1548,MNG
+Mongolia,1991,27.5085,MNG
+Mongolia,1992,27.4175,MNG
+Mongolia,1993,27.6506,MNG
+Mongolia,1994,27.4657,MNG
+Mongolia,1995,28.302,MNG
+Mongolia,1996,29.5813,MNG
+Mongolia,1997,30.3873,MNG
+Mongolia,1998,30.7063,MNG
+Mongolia,1999,31.2878,MNG
+Mongolia,2000,30.9621,MNG
+Mongolia,2001,29.0821,MNG
+Mongolia,2002,26.1965,MNG
+Mongolia,2003,25.1728,MNG
+Mongolia,2004,24.1715,MNG
+Mongolia,2005,25.7602,MNG
+Mongolia,2006,27.617,MNG
+Mongolia,2007,29.4913,MNG
+Mongolia,2008,30.4035,MNG
+Mongolia,2009,32.4245,MNG
+Mongolia,2010,33.9149,MNG
+Morocco,1980,4.2856,MAR
+Morocco,1981,4.139,MAR
+Morocco,1982,4.1063,MAR
+Morocco,1983,4.1091,MAR
+Morocco,1984,3.9854,MAR
+Morocco,1985,4.1141,MAR
+Morocco,1986,4.4168,MAR
+Morocco,1987,4.2889,MAR
+Morocco,1988,4.6385,MAR
+Morocco,1989,4.412,MAR
+Morocco,1990,4.4653,MAR
+Morocco,1991,5.0599,MAR
+Morocco,1992,4.9174,MAR
+Morocco,1993,4.6147,MAR
+Morocco,1994,4.9949,MAR
+Morocco,1995,4.4729,MAR
+Morocco,1996,5.0865,MAR
+Morocco,1997,4.8753,MAR
+Morocco,1998,5.1359,MAR
+Morocco,1999,4.9723,MAR
+Morocco,2000,4.8889,MAR
+Morocco,2001,5.6336,MAR
+Morocco,2002,5.7199,MAR
+Morocco,2003,5.9511,MAR
+Morocco,2004,6.2117,MAR
+Morocco,2005,6.073,MAR
+Morocco,2006,6.2891,MAR
+Morocco,2007,6.4772,MAR
+Morocco,2008,7.0423,MAR
+Morocco,2009,7.2367,MAR
+Morocco,2010,7.2038,MAR
+Mozambique,1980,2.2506,MOZ
+Mozambique,1981,2.2247,MOZ
+Mozambique,1982,2.1895,MOZ
+Mozambique,1983,2.075,MOZ
+Mozambique,1984,2.024,MOZ
+Mozambique,1985,1.9897,MOZ
+Mozambique,1986,1.754,MOZ
+Mozambique,1987,1.7357,MOZ
+Mozambique,1988,1.7386,MOZ
+Mozambique,1989,1.7682,MOZ
+Mozambique,1990,1.8333,MOZ
+Mozambique,1991,1.7378,MOZ
+Mozambique,1992,1.6152,MOZ
+Mozambique,1993,1.6793,MOZ
+Mozambique,1994,1.7705,MOZ
+Mozambique,1995,1.9263,MOZ
+Mozambique,1996,2.0402,MOZ
+Mozambique,1997,1.9805,MOZ
+Mozambique,1998,1.9162,MOZ
+Mozambique,1999,1.8505,MOZ
+Mozambique,2000,1.913,MOZ
+Mozambique,2001,2.0307,MOZ
+Mozambique,2002,1.9408,MOZ
+Mozambique,2003,2.0534,MOZ
+Mozambique,2004,2.074,MOZ
+Mozambique,2005,2.0888,MOZ
+Mozambique,2006,2.2105,MOZ
+Mozambique,2007,2.0618,MOZ
+Mozambique,2008,2.2347,MOZ
+Mozambique,2009,2.1794,MOZ
+Mozambique,2010,2.3609,MOZ
+Myanmar,1980,2.5429,MMR
+Myanmar,1981,2.6088,MMR
+Myanmar,1982,2.6531,MMR
+Myanmar,1983,2.7106,MMR
+Myanmar,1984,2.7295,MMR
+Myanmar,1985,2.7556,MMR
+Myanmar,1986,2.6927,MMR
+Myanmar,1987,2.6177,MMR
+Myanmar,1988,2.5492,MMR
+Myanmar,1989,2.355,MMR
+Myanmar,1990,2.594,MMR
+Myanmar,1991,2.5917,MMR
+Myanmar,1992,2.6473,MMR
+Myanmar,1993,2.6695,MMR
+Myanmar,1994,2.6937,MMR
+Myanmar,1995,2.7325,MMR
+Myanmar,1996,2.7714,MMR
+Myanmar,1997,2.766,MMR
+Myanmar,1998,2.8099,MMR
+Myanmar,1999,3.0636,MMR
+Myanmar,2000,3.1614,MMR
+Myanmar,2001,3.2686,MMR
+Myanmar,2002,3.2847,MMR
+Myanmar,2003,3.4503,MMR
+Myanmar,2004,3.5597,MMR
+Myanmar,2005,3.7034,MMR
+Myanmar,2006,3.8084,MMR
+Myanmar,2007,3.9118,MMR
+Myanmar,2008,3.9557,MMR
+Myanmar,2009,4.0468,MMR
+Myanmar,2010,4.0303,MMR
+Namibia,1980,22.5557,NAM
+Namibia,1981,20.6123,NAM
+Namibia,1982,19.2067,NAM
+Namibia,1983,18.1775,NAM
+Namibia,1984,17.9328,NAM
+Namibia,1985,16.219,NAM
+Namibia,1986,16.5252,NAM
+Namibia,1987,14.9384,NAM
+Namibia,1988,15.0305,NAM
+Namibia,1989,13.9007,NAM
+Namibia,1990,13.3047,NAM
+Namibia,1991,13.3779,NAM
+Namibia,1992,13.0777,NAM
+Namibia,1993,11.9366,NAM
+Namibia,1994,11.8808,NAM
+Namibia,1995,11.1801,NAM
+Namibia,1996,10.6013,NAM
+Namibia,1997,11.2611,NAM
+Namibia,1998,10.7247,NAM
+Namibia,1999,9.6702,NAM
+Namibia,2000,10.6889,NAM
+Namibia,2001,11.7379,NAM
+Namibia,2002,11.5306,NAM
+Namibia,2003,12.2021,NAM
+Namibia,2004,12.8369,NAM
+Namibia,2005,15.2289,NAM
+Namibia,2006,14.745,NAM
+Namibia,2007,14.5858,NAM
+Namibia,2008,15.9461,NAM
+Namibia,2009,12.2347,NAM
+Namibia,2010,12.5703,NAM
+Nepal,1980,2.8057,NPL
+Nepal,1981,2.7784,NPL
+Nepal,1982,2.8263,NPL
+Nepal,1983,2.9993,NPL
+Nepal,1984,2.8955,NPL
+Nepal,1985,2.8154,NPL
+Nepal,1986,2.6782,NPL
+Nepal,1987,2.7507,NPL
+Nepal,1988,2.6843,NPL
+Nepal,1989,2.6406,NPL
+Nepal,1990,2.5837,NPL
+Nepal,1991,2.575,NPL
+Nepal,1992,2.5743,NPL
+Nepal,1993,2.5201,NPL
+Nepal,1994,2.6637,NPL
+Nepal,1995,2.6263,NPL
+Nepal,1996,2.5896,NPL
+Nepal,1997,2.5144,NPL
+Nepal,1998,2.5405,NPL
+Nepal,1999,2.6489,NPL
+Nepal,2000,2.6255,NPL
+Nepal,2001,2.525,NPL
+Nepal,2002,2.5251,NPL
+Nepal,2003,2.6706,NPL
+Nepal,2004,2.6803,NPL
+Nepal,2005,2.7235,NPL
+Nepal,2006,2.703,NPL
+Nepal,2007,2.6575,NPL
+Nepal,2008,2.6949,NPL
+Nepal,2009,2.9947,NPL
+Nepal,2010,3.5951,NPL
+Netherlands,1980,15.0198,NLD
+Netherlands,1981,13.1312,NLD
+Netherlands,1982,12.55,NLD
+Netherlands,1983,12.6069,NLD
+Netherlands,1984,13.1309,NLD
+Netherlands,1985,13.4619,NLD
+Netherlands,1986,13.8598,NLD
+Netherlands,1987,13.768,NLD
+Netherlands,1988,14.2051,NLD
+Netherlands,1989,14.4734,NLD
+Netherlands,1990,14.1686,NLD
+Netherlands,1991,13.4353,NLD
+Netherlands,1992,13.6859,NLD
+Netherlands,1993,11.873,NLD
+Netherlands,1994,13.3404,NLD
+Netherlands,1995,17.4523,NLD
+Netherlands,1996,17.1942,NLD
+Netherlands,1997,16.6788,NLD
+Netherlands,1998,16.3982,NLD
+Netherlands,1999,15.7372,NLD
+Netherlands,2000,16.4011,NLD
+Netherlands,2001,16.2477,NLD
+Netherlands,2002,14.1629,NLD
+Netherlands,2003,13.3151,NLD
+Netherlands,2004,13.3204,NLD
+Netherlands,2005,16.5284,NLD
+Netherlands,2006,17.7193,NLD
+Netherlands,2007,15.5525,NLD
+Netherlands,2008,16.0378,NLD
+Netherlands,2009,12.1231,NLD
+Netherlands,2010,14.8636,NLD
+Netherlands Antilles,1980,41.7621,ANT
+Netherlands Antilles,1981,34.3581,ANT
+Netherlands Antilles,1982,7.9302,ANT
+Netherlands Antilles,1983,21.4447,ANT
+Netherlands Antilles,1984,65.9207,ANT
+Netherlands Antilles,1985,4.3225,ANT
+Netherlands Antilles,1986,10.3123,ANT
+Netherlands Antilles,1987,19.5202,ANT
+Netherlands Antilles,1988,16.1161,ANT
+Netherlands Antilles,1989,15.2662,ANT
+Netherlands Antilles,1990,10.4415,ANT
+Netherlands Antilles,1991,16.2891,ANT
+Netherlands Antilles,1992,6.4229,ANT
+Netherlands Antilles,1993,17.9795,ANT
+Netherlands Antilles,1994,20.1362,ANT
+Netherlands Antilles,1995,11.3286,ANT
+Netherlands Antilles,1996,11.0863,ANT
+Netherlands Antilles,1997,11.5941,ANT
+Netherlands Antilles,1998,11.0333,ANT
+Netherlands Antilles,1999,12.9983,ANT
+Netherlands Antilles,2000,12.3321,ANT
+Netherlands Antilles,2001,13.6532,ANT
+Netherlands Antilles,2002,13.8111,ANT
+Netherlands Antilles,2003,14.174,ANT
+Netherlands Antilles,2004,15.4596,ANT
+Netherlands Antilles,2005,17.4958,ANT
+Netherlands Antilles,2006,17.7893,ANT
+Netherlands Antilles,2007,16.9269,ANT
+Netherlands Antilles,2008,17.0565,ANT
+Netherlands Antilles,2009,15.8413,ANT
+Netherlands Antilles,2010,14.5608,ANT
+New Caledonia,1980,27.1748,NCL
+New Caledonia,1981,26.5541,NCL
+New Caledonia,1982,20.7993,NCL
+New Caledonia,1983,20.7091,NCL
+New Caledonia,1984,20.9194,NCL
+New Caledonia,1985,23.6539,NCL
+New Caledonia,1986,23.02,NCL
+New Caledonia,1987,21.1006,NCL
+New Caledonia,1988,23.3069,NCL
+New Caledonia,1989,26.3347,NCL
+New Caledonia,1990,24.099,NCL
+New Caledonia,1991,25.5014,NCL
+New Caledonia,1992,27.9345,NCL
+New Caledonia,1993,26.7907,NCL
+New Caledonia,1994,27.7476,NCL
+New Caledonia,1995,29.477,NCL
+New Caledonia,1996,29.4642,NCL
+New Caledonia,1997,30.3718,NCL
+New Caledonia,1998,24.0557,NCL
+New Caledonia,1999,16.9216,NCL
+New Caledonia,2000,19.4776,NCL
+New Caledonia,2001,17.9043,NCL
+New Caledonia,2002,23.3283,NCL
+New Caledonia,2003,19.0213,NCL
+New Caledonia,2004,20.5026,NCL
+New Caledonia,2005,20.213,NCL
+New Caledonia,2006,18.6287,NCL
+New Caledonia,2007,20.1351,NCL
+New Caledonia,2008,22.3813,NCL
+New Caledonia,2009,14.6735,NCL
+New Caledonia,2010,21.8259,NCL
+New Zealand,1980,40.7965,NZL
+New Zealand,1981,40.6093,NZL
+New Zealand,1982,41.8879,NZL
+New Zealand,1983,41.1159,NZL
+New Zealand,1984,42.1956,NZL
+New Zealand,1985,41.2301,NZL
+New Zealand,1986,41.9698,NZL
+New Zealand,1987,40.6915,NZL
+New Zealand,1988,39.5407,NZL
+New Zealand,1989,39.0557,NZL
+New Zealand,1990,37.3238,NZL
+New Zealand,1991,35.401,NZL
+New Zealand,1992,36.1236,NZL
+New Zealand,1993,36.3116,NZL
+New Zealand,1994,35.7088,NZL
+New Zealand,1995,37.3924,NZL
+New Zealand,1996,36.902,NZL
+New Zealand,1997,36.9585,NZL
+New Zealand,1998,34.9812,NZL
+New Zealand,1999,35.2687,NZL
+New Zealand,2000,37.0982,NZL
+New Zealand,2001,36.3306,NZL
+New Zealand,2002,36.9921,NZL
+New Zealand,2003,35.837,NZL
+New Zealand,2004,36.5601,NZL
+New Zealand,2005,37.5747,NZL
+New Zealand,2006,36.5495,NZL
+New Zealand,2007,35.8303,NZL
+New Zealand,2008,34.2884,NZL
+New Zealand,2009,31.4461,NZL
+New Zealand,2010,30.9324,NZL
+Nicaragua,1980,6.9015,NIC
+Nicaragua,1981,6.9857,NIC
+Nicaragua,1982,6.8575,NIC
+Nicaragua,1983,6.2035,NIC
+Nicaragua,1984,6.2976,NIC
+Nicaragua,1985,6.2205,NIC
+Nicaragua,1986,5.6594,NIC
+Nicaragua,1987,5.2417,NIC
+Nicaragua,1988,5.2555,NIC
+Nicaragua,1989,5.9675,NIC
+Nicaragua,1990,8.2732,NIC
+Nicaragua,1991,5.6449,NIC
+Nicaragua,1992,6.0366,NIC
+Nicaragua,1993,6.1059,NIC
+Nicaragua,1994,6.1919,NIC
+Nicaragua,1995,6.0543,NIC
+Nicaragua,1996,5.9978,NIC
+Nicaragua,1997,6.2995,NIC
+Nicaragua,1998,6.1951,NIC
+Nicaragua,1999,6.6208,NIC
+Nicaragua,2000,6.7665,NIC
+Nicaragua,2001,6.7997,NIC
+Nicaragua,2002,6.6819,NIC
+Nicaragua,2003,7.5604,NIC
+Nicaragua,2004,6.999,NIC
+Nicaragua,2005,6.8943,NIC
+Nicaragua,2006,7.0732,NIC
+Nicaragua,2007,7.0796,NIC
+Nicaragua,2008,6.8883,NIC
+Nicaragua,2009,7.1724,NIC
+Nicaragua,2010,7.3158,NIC
+Niger,1980,7.0055,NER
+Niger,1981,7.0426,NER
+Niger,1982,7.078,NER
+Niger,1983,7.0637,NER
+Niger,1984,5.1614,NER
+Niger,1985,4.5781,NER
+Niger,1986,4.5917,NER
+Niger,1987,4.5009,NER
+Niger,1988,4.6953,NER
+Niger,1989,4.5927,NER
+Niger,1990,4.6023,NER
+Niger,1991,4.6671,NER
+Niger,1992,4.6444,NER
+Niger,1993,4.5451,NER
+Niger,1994,4.6461,NER
+Niger,1995,4.5481,NER
+Niger,1996,4.6013,NER
+Niger,1997,4.5175,NER
+Niger,1998,4.7735,NER
+Niger,1999,4.6205,NER
+Niger,2000,4.5574,NER
+Niger,2001,4.6928,NER
+Niger,2002,4.7306,NER
+Niger,2003,4.7604,NER
+Niger,2004,4.6684,NER
+Niger,2005,4.845,NER
+Niger,2006,4.8326,NER
+Niger,2007,4.8418,NER
+Niger,2008,4.9153,NER
+Niger,2009,4.723,NER
+Niger,2010,4.951,NER
+Nigeria,1980,2.7287,NGA
+Nigeria,1981,2.8603,NGA
+Nigeria,1982,2.903,NGA
+Nigeria,1983,3.0675,NGA
+Nigeria,1984,2.6356,NGA
+Nigeria,1985,2.4267,NGA
+Nigeria,1986,2.6123,NGA
+Nigeria,1987,2.6472,NGA
+Nigeria,1988,2.6401,NGA
+Nigeria,1989,2.6509,NGA
+Nigeria,1990,2.6858,NGA
+Nigeria,1991,2.7462,NGA
+Nigeria,1992,2.9432,NGA
+Nigeria,1993,2.9684,NGA
+Nigeria,1994,2.8013,NGA
+Nigeria,1995,2.8613,NGA
+Nigeria,1996,3.0684,NGA
+Nigeria,1997,3.1938,NGA
+Nigeria,1998,3.0872,NGA
+Nigeria,1999,2.3511,NGA
+Nigeria,2000,2.6051,NGA
+Nigeria,2001,2.837,NGA
+Nigeria,2002,2.7563,NGA
+Nigeria,2003,2.872,NGA
+Nigeria,2004,2.9238,NGA
+Nigeria,2005,3.0558,NGA
+Nigeria,2006,3.0567,NGA
+Nigeria,2007,3.2121,NGA
+Nigeria,2008,3.0508,NGA
+Nigeria,2009,2.8389,NGA
+Nigeria,2010,3.1702,NGA
+Norway,1980,19.6701,NOR
+Norway,1981,19.8376,NOR
+Norway,1982,19.2085,NOR
+Norway,1983,18.6023,NOR
+Norway,1984,17.6168,NOR
+Norway,1985,16.9515,NOR
+Norway,1986,18.9669,NOR
+Norway,1987,19.6684,NOR
+Norway,1988,17.2348,NOR
+Norway,1989,16.9224,NOR
+Norway,1990,16.227,NOR
+Norway,1991,15.3826,NOR
+Norway,1992,14.6953,NOR
+Norway,1993,17.1465,NOR
+Norway,1994,17.621,NOR
+Norway,1995,20.5354,NOR
+Norway,1996,22.6358,NOR
+Norway,1997,19.6593,NOR
+Norway,1998,21.6084,NOR
+Norway,1999,20.4727,NOR
+Norway,2000,19.1397,NOR
+Norway,2001,19.246,NOR
+Norway,2002,17.3202,NOR
+Norway,2003,17.9676,NOR
+Norway,2004,17.6312,NOR
+Norway,2005,17.8017,NOR
+Norway,2006,18.8939,NOR
+Norway,2007,21.5093,NOR
+Norway,2008,21.8824,NOR
+Norway,2009,19.7742,NOR
+Norway,2010,20.9662,NOR
+Oman,1980,8.5541,OMN
+Oman,1981,9.4263,OMN
+Oman,1982,9.4467,OMN
+Oman,1983,12.7104,OMN
+Oman,1984,12.0145,OMN
+Oman,1985,12.2694,OMN
+Oman,1986,12.2029,OMN
+Oman,1987,10.8976,OMN
+Oman,1988,10.3625,OMN
+Oman,1989,10.4335,OMN
+Oman,1990,11.6872,OMN
+Oman,1991,13.1618,OMN
+Oman,1992,11.475,OMN
+Oman,1993,11.4689,OMN
+Oman,1994,13.2162,OMN
+Oman,1995,12.3995,OMN
+Oman,1996,12.9297,OMN
+Oman,1997,12.344,OMN
+Oman,1998,12.4386,OMN
+Oman,1999,13.2875,OMN
+Oman,2000,18.218,OMN
+Oman,2001,20.3686,OMN
+Oman,2002,18.4786,OMN
+Oman,2003,18.129,OMN
+Oman,2004,17.9574,OMN
+Oman,2005,25.2746,OMN
+Oman,2006,37.0011,OMN
+Oman,2007,32.2217,OMN
+Oman,2008,33.9273,OMN
+Oman,2009,31.453,OMN
+Oman,2010,29.1294,OMN
+Pakistan,1980,2.9477,PAK
+Pakistan,1981,3.0237,PAK
+Pakistan,1982,3.1317,PAK
+Pakistan,1983,3.1265,PAK
+Pakistan,1984,3.0638,PAK
+Pakistan,1985,3.035,PAK
+Pakistan,1986,2.9959,PAK
+Pakistan,1987,3.3137,PAK
+Pakistan,1988,3.1234,PAK
+Pakistan,1989,3.1653,PAK
+Pakistan,1990,3.1102,PAK
+Pakistan,1991,3.1054,PAK
+Pakistan,1992,3.1306,PAK
+Pakistan,1993,3.1799,PAK
+Pakistan,1994,3.1773,PAK
+Pakistan,1995,3.2394,PAK
+Pakistan,1996,3.2319,PAK
+Pakistan,1997,3.1756,PAK
+Pakistan,1998,3.2785,PAK
+Pakistan,1999,3.315,PAK
+Pakistan,2000,3.2439,PAK
+Pakistan,2001,3.1376,PAK
+Pakistan,2002,3.1522,PAK
+Pakistan,2003,3.2888,PAK
+Pakistan,2004,3.4225,PAK
+Pakistan,2005,3.4227,PAK
+Pakistan,2006,3.6311,PAK
+Pakistan,2007,3.8908,PAK
+Pakistan,2008,3.7516,PAK
+Pakistan,2009,3.7496,PAK
+Pakistan,2010,3.6331,PAK
+Palestine,1980,0.8626,PSE
+Palestine,1981,0.7858,PSE
+Palestine,1982,0.8283,PSE
+Palestine,1983,0.7725,PSE
+Palestine,1984,0.7861,PSE
+Palestine,1985,0.7562,PSE
+Palestine,1986,0.8735,PSE
+Palestine,1987,0.8224,PSE
+Palestine,1988,0.7831,PSE
+Palestine,1989,0.7715,PSE
+Palestine,1990,0.8821,PSE
+Palestine,1991,0.8102,PSE
+Palestine,1992,0.9616,PSE
+Palestine,1993,1.0172,PSE
+Palestine,1994,1.6285,PSE
+Palestine,1995,1.6194,PSE
+Palestine,1996,1.8247,PSE
+Palestine,1997,1.9861,PSE
+Palestine,1998,2.0334,PSE
+Palestine,1999,2.1711,PSE
+Palestine,2000,1.9342,PSE
+Palestine,2001,1.8546,PSE
+Palestine,2002,1.7045,PSE
+Palestine,2003,2.3136,PSE
+Palestine,2004,2.4377,PSE
+Palestine,2005,3.378,PSE
+Palestine,2006,3.1656,PSE
+Palestine,2007,2.6722,PSE
+Palestine,2008,2.8026,PSE
+Palestine,2009,2.6059,PSE
+Palestine,2010,2.9551,PSE
+Panama,1980,9.9717,PAN
+Panama,1981,9.2866,PAN
+Panama,1982,8.8424,PAN
+Panama,1983,8.2645,PAN
+Panama,1984,8.0423,PAN
+Panama,1985,7.739,PAN
+Panama,1986,7.1404,PAN
+Panama,1987,7.135,PAN
+Panama,1988,6.1812,PAN
+Panama,1989,5.9165,PAN
+Panama,1990,6.3326,PAN
+Panama,1991,6.1611,PAN
+Panama,1992,6.9624,PAN
+Panama,1993,7.6784,PAN
+Panama,1994,7.9374,PAN
+Panama,1995,7.3872,PAN
+Panama,1996,7.4728,PAN
+Panama,1997,7.831,PAN
+Panama,1998,8.8701,PAN
+Panama,1999,8.2238,PAN
+Panama,2000,7.6276,PAN
+Panama,2001,7.5889,PAN
+Panama,2002,7.5032,PAN
+Panama,2003,8.3823,PAN
+Panama,2004,8.0115,PAN
+Panama,2005,8.5845,PAN
+Panama,2006,8.5599,PAN
+Panama,2007,8.99,PAN
+Panama,2008,11.4128,PAN
+Panama,2009,10.325,PAN
+Panama,2010,8.5225,PAN
+Papua New Guinea,1980,13.461,PNG
+Papua New Guinea,1981,14.3276,PNG
+Papua New Guinea,1982,14.4549,PNG
+Papua New Guinea,1983,14.8852,PNG
+Papua New Guinea,1984,14.0905,PNG
+Papua New Guinea,1985,14.3852,PNG
+Papua New Guinea,1986,14.2852,PNG
+Papua New Guinea,1987,16.3248,PNG
+Papua New Guinea,1988,15.7122,PNG
+Papua New Guinea,1989,14.4265,PNG
+Papua New Guinea,1990,14.0314,PNG
+Papua New Guinea,1991,16.0296,PNG
+Papua New Guinea,1992,15.6604,PNG
+Papua New Guinea,1993,14.3783,PNG
+Papua New Guinea,1994,14.6332,PNG
+Papua New Guinea,1995,13.836,PNG
+Papua New Guinea,1996,12.4568,PNG
+Papua New Guinea,1997,8.5004,PNG
+Papua New Guinea,1998,9.9384,PNG
+Papua New Guinea,1999,12.2639,PNG
+Papua New Guinea,2000,12.7038,PNG
+Papua New Guinea,2001,12.1596,PNG
+Papua New Guinea,2002,11.9818,PNG
+Papua New Guinea,2003,11.3332,PNG
+Papua New Guinea,2004,10.7625,PNG
+Papua New Guinea,2005,11.1632,PNG
+Papua New Guinea,2006,10.5279,PNG
+Papua New Guinea,2007,9.7432,PNG
+Papua New Guinea,2008,9.5145,PNG
+Papua New Guinea,2009,9.5726,PNG
+Papua New Guinea,2010,9.1951,PNG
+Paraguay,1980,12.4834,PRY
+Paraguay,1981,13.259,PRY
+Paraguay,1982,13.3326,PRY
+Paraguay,1983,13.0367,PRY
+Paraguay,1984,12.8152,PRY
+Paraguay,1985,12.9817,PRY
+Paraguay,1986,13.029,PRY
+Paraguay,1987,12.9659,PRY
+Paraguay,1988,13.3169,PRY
+Paraguay,1989,13.3114,PRY
+Paraguay,1990,13.043,PRY
+Paraguay,1991,12.3096,PRY
+Paraguay,1992,12.2868,PRY
+Paraguay,1993,12.9475,PRY
+Paraguay,1994,13.5569,PRY
+Paraguay,1995,14.1018,PRY
+Paraguay,1996,14.0354,PRY
+Paraguay,1997,13.4994,PRY
+Paraguay,1998,13.5508,PRY
+Paraguay,1999,13.0661,PRY
+Paraguay,2000,12.479,PRY
+Paraguay,2001,12.5049,PRY
+Paraguay,2002,12.2067,PRY
+Paraguay,2003,12.6547,PRY
+Paraguay,2004,12.1665,PRY
+Paraguay,2005,11.9223,PRY
+Paraguay,2006,12.1308,PRY
+Paraguay,2007,12.576,PRY
+Paraguay,2008,12.7449,PRY
+Paraguay,2009,12.8982,PRY
+Paraguay,2010,14.2459,PRY
+Peru,1980,15.7063,PER
+Peru,1981,16.1725,PER
+Peru,1982,17.0688,PER
+Peru,1983,16.1491,PER
+Peru,1984,16.197,PER
+Peru,1985,16.9777,PER
+Peru,1986,17.3668,PER
+Peru,1987,17.5773,PER
+Peru,1988,14.61,PER
+Peru,1989,16.0205,PER
+Peru,1990,14.6653,PER
+Peru,1991,15.2037,PER
+Peru,1992,13.9867,PER
+Peru,1993,14.5467,PER
+Peru,1994,15.8845,PER
+Peru,1995,16.8897,PER
+Peru,1996,17.4044,PER
+Peru,1997,18.4426,PER
+Peru,1998,17.8897,PER
+Peru,1999,19.2509,PER
+Peru,2000,20.0577,PER
+Peru,2001,21.1897,PER
+Peru,2002,22.4273,PER
+Peru,2003,23.3162,PER
+Peru,2004,23.541,PER
+Peru,2005,24.2911,PER
+Peru,2006,24.9274,PER
+Peru,2007,25.4657,PER
+Peru,2008,27.0824,PER
+Peru,2009,27.4579,PER
+Peru,2010,26.231,PER
+Philippines,1980,5.515,PHL
+Philippines,1981,5.3416,PHL
+Philippines,1982,5.2605,PHL
+Philippines,1983,4.8235,PHL
+Philippines,1984,4.4695,PHL
+Philippines,1985,4.041,PHL
+Philippines,1986,4.1099,PHL
+Philippines,1987,3.9354,PHL
+Philippines,1988,3.8922,PHL
+Philippines,1989,3.9047,PHL
+Philippines,1990,4.4157,PHL
+Philippines,1991,4.1134,PHL
+Philippines,1992,4.2197,PHL
+Philippines,1993,4.2676,PHL
+Philippines,1994,4.2437,PHL
+Philippines,1995,4.3741,PHL
+Philippines,1996,4.6577,PHL
+Philippines,1997,4.7575,PHL
+Philippines,1998,4.156,PHL
+Philippines,1999,3.9374,PHL
+Philippines,2000,3.9192,PHL
+Philippines,2001,3.6268,PHL
+Philippines,2002,3.9107,PHL
+Philippines,2003,3.8843,PHL
+Philippines,2004,3.9134,PHL
+Philippines,2005,3.9951,PHL
+Philippines,2006,3.6336,PHL
+Philippines,2007,3.7433,PHL
+Philippines,2008,3.8942,PHL
+Philippines,2009,4.0971,PHL
+Philippines,2010,4.0257,PHL
+Poland,1980,15.8381,POL
+Poland,1981,14.7407,POL
+Poland,1982,15.3258,POL
+Poland,1983,15.6585,POL
+Poland,1984,16.3597,POL
+Poland,1985,16.7068,POL
+Poland,1986,17.3176,POL
+Poland,1987,17.4841,POL
+Poland,1988,17.5206,POL
+Poland,1989,16.8742,POL
+Poland,1990,14.783,POL
+Poland,1991,14.2313,POL
+Poland,1992,12.8339,POL
+Poland,1993,13.8008,POL
+Poland,1994,13.0583,POL
+Poland,1995,13.7047,POL
+Poland,1996,14.5367,POL
+Poland,1997,14.6825,POL
+Poland,1998,14.7742,POL
+Poland,1999,14.4802,POL
+Poland,2000,14.3985,POL
+Poland,2001,13.8068,POL
+Poland,2002,13.6191,POL
+Poland,2003,14.0799,POL
+Poland,2004,14.9148,POL
+Poland,2005,15.0959,POL
+Poland,2006,15.3141,POL
+Poland,2007,16.8805,POL
+Poland,2008,17.1916,POL
+Poland,2009,16.5547,POL
+Poland,2010,17.2973,POL
+Portugal,1980,8.2929,PRT
+Portugal,1981,8.7085,PRT
+Portugal,1982,8.92,PRT
+Portugal,1983,8.2905,PRT
+Portugal,1984,6.9866,PRT
+Portugal,1985,7.0688,PRT
+Portugal,1986,7.843,PRT
+Portugal,1987,7.6111,PRT
+Portugal,1988,9.2949,PRT
+Portugal,1989,9.6607,PRT
+Portugal,1990,11.1482,PRT
+Portugal,1991,11.3759,PRT
+Portugal,1992,12.0065,PRT
+Portugal,1993,12.3061,PRT
+Portugal,1994,12.61,PRT
+Portugal,1995,13.0847,PRT
+Portugal,1996,13.0066,PRT
+Portugal,1997,14.9806,PRT
+Portugal,1998,15.8895,PRT
+Portugal,1999,17.5848,PRT
+Portugal,2000,17.6003,PRT
+Portugal,2001,19.1578,PRT
+Portugal,2002,18.6052,PRT
+Portugal,2003,15.823,PRT
+Portugal,2004,17.5451,PRT
+Portugal,2005,17.7125,PRT
+Portugal,2006,19.6838,PRT
+Portugal,2007,20.1551,PRT
+Portugal,2008,21.5422,PRT
+Portugal,2009,18.8068,PRT
+Portugal,2010,17.5211,PRT
+Qatar,1980,34.6892,QAT
+Qatar,1981,42.4521,QAT
+Qatar,1982,42.0826,QAT
+Qatar,1983,38.4204,QAT
+Qatar,1984,39.3414,QAT
+Qatar,1985,29.9187,QAT
+Qatar,1986,25.8162,QAT
+Qatar,1987,23.9665,QAT
+Qatar,1988,24.0321,QAT
+Qatar,1989,21.2922,QAT
+Qatar,1990,22.3809,QAT
+Qatar,1991,26.5612,QAT
+Qatar,1992,27.1385,QAT
+Qatar,1993,32.3015,QAT
+Qatar,1994,32.4525,QAT
+Qatar,1995,30.7968,QAT
+Qatar,1996,28.7499,QAT
+Qatar,1997,42.2081,QAT
+Qatar,1998,23.6679,QAT
+Qatar,1999,28.5371,QAT
+Qatar,2000,28.3163,QAT
+Qatar,2001,28.9162,QAT
+Qatar,2002,39.6096,QAT
+Qatar,2003,44.8934,QAT
+Qatar,2004,41.683,QAT
+Qatar,2005,69.086,QAT
+Qatar,2006,67.4333,QAT
+Qatar,2007,91.245,QAT
+Qatar,2008,113.0498,QAT
+Qatar,2009,59.7545,QAT
+Qatar,2010,90.2367,QAT
+Rep Congo,1980,3.2896,COG
+Rep Congo,1981,3.457,COG
+Rep Congo,1982,3.9225,COG
+Rep Congo,1983,3.9927,COG
+Rep Congo,1984,4.1269,COG
+Rep Congo,1985,4.014,COG
+Rep Congo,1986,3.7961,COG
+Rep Congo,1987,3.7821,COG
+Rep Congo,1988,3.7847,COG
+Rep Congo,1989,3.768,COG
+Rep Congo,1990,3.6673,COG
+Rep Congo,1991,3.5604,COG
+Rep Congo,1992,3.4549,COG
+Rep Congo,1993,3.353,COG
+Rep Congo,1994,3.0894,COG
+Rep Congo,1995,3.3241,COG
+Rep Congo,1996,3.178,COG
+Rep Congo,1997,3.0893,COG
+Rep Congo,1998,3.1778,COG
+Rep Congo,1999,3.012,COG
+Rep Congo,2000,3.1995,COG
+Rep Congo,2001,3.3349,COG
+Rep Congo,2002,3.3696,COG
+Rep Congo,2003,3.4543,COG
+Rep Congo,2004,3.5172,COG
+Rep Congo,2005,3.6258,COG
+Rep Congo,2006,3.9241,COG
+Rep Congo,2007,3.4854,COG
+Rep Congo,2008,3.4227,COG
+Rep Congo,2009,3.9178,COG
+Rep Congo,2010,4.0344,COG
+FALSE,1980,8.563,
+FALSE,1981,9.2751,
+FALSE,1982,9.6028,
+FALSE,1983,8.3715,
+FALSE,1984,8.5615,
+FALSE,1985,8.3238,
+FALSE,1986,8.4714,
+FALSE,1987,8.8232,
+FALSE,1988,8.595,
+FALSE,1989,7.4933,
+FALSE,1990,10.9214,
+FALSE,1991,11.5474,
+FALSE,1992,12.4593,
+FALSE,1993,10.2856,
+FALSE,1994,14.742,
+FALSE,1995,15.7733,
+FALSE,1996,11.2297,
+FALSE,1997,11.132,
+FALSE,1998,9.2939,
+FALSE,1999,9.728,
+FALSE,2000,9.5235,
+FALSE,2001,9.5071,
+FALSE,2002,9.3293,
+FALSE,2003,9.4092,
+FALSE,2004,9.4672,
+FALSE,2005,9.066,
+FALSE,2006,9.2973,
+FALSE,2007,8.6557,
+FALSE,2008,8.9987,
+FALSE,2009,9.8926,
+FALSE,2010,8.7424,
+Romania,1980,10.6587,ROU
+Romania,1981,10.6541,ROU
+Romania,1982,11.1016,ROU
+Romania,1983,11.2265,ROU
+Romania,1984,11.8751,ROU
+Romania,1985,11.8186,ROU
+Romania,1986,11.7335,ROU
+Romania,1987,12.3409,ROU
+Romania,1988,12.5634,ROU
+Romania,1989,12.9125,ROU
+Romania,1990,10.6238,ROU
+Romania,1991,9.1294,ROU
+Romania,1992,8.0398,ROU
+Romania,1993,8.1481,ROU
+Romania,1994,9.8351,ROU
+Romania,1995,10.4202,ROU
+Romania,1996,8.35,ROU
+Romania,1997,8.3267,ROU
+Romania,1998,7.4554,ROU
+Romania,1999,7.2324,ROU
+Romania,2000,6.6714,ROU
+Romania,2001,10.6352,ROU
+Romania,2002,9.4192,ROU
+Romania,2003,10.1153,ROU
+Romania,2004,9.8436,ROU
+Romania,2005,10.9462,ROU
+Romania,2006,11.409,ROU
+Romania,2007,20.9647,ROU
+Romania,2008,13.0055,ROU
+Romania,2009,10.7468,ROU
+Romania,2010,10.4674,ROU
+Russian Federation,1980,0,RUS
+Russian Federation,1981,0,RUS
+Russian Federation,1982,0,RUS
+Russian Federation,1983,0,RUS
+Russian Federation,1984,0,RUS
+Russian Federation,1985,0,RUS
+Russian Federation,1986,0,RUS
+Russian Federation,1987,0,RUS
+Russian Federation,1988,0,RUS
+Russian Federation,1989,0,RUS
+Russian Federation,1990,0,RUS
+Russian Federation,1991,0,RUS
+Russian Federation,1992,15.8217,RUS
+Russian Federation,1993,14.0723,RUS
+Russian Federation,1994,11.7733,RUS
+Russian Federation,1995,11.3832,RUS
+Russian Federation,1996,10.3052,RUS
+Russian Federation,1997,10.0157,RUS
+Russian Federation,1998,9.35,RUS
+Russian Federation,1999,9.8071,RUS
+Russian Federation,2000,10.2619,RUS
+Russian Federation,2001,10.9381,RUS
+Russian Federation,2002,11.1573,RUS
+Russian Federation,2003,11.6171,RUS
+Russian Federation,2004,12.2373,RUS
+Russian Federation,2005,11.8652,RUS
+Russian Federation,2006,12.7249,RUS
+Russian Federation,2007,13.0552,RUS
+Russian Federation,2008,13.8078,RUS
+Russian Federation,2009,12.0382,RUS
+Russian Federation,2010,12.5432,RUS
+Rwanda,1980,2.3592,RWA
+Rwanda,1981,2.4051,RWA
+Rwanda,1982,2.4278,RWA
+Rwanda,1983,2.3133,RWA
+Rwanda,1984,2.1829,RWA
+Rwanda,1985,2.3126,RWA
+Rwanda,1986,2.0634,RWA
+Rwanda,1987,1.9578,RWA
+Rwanda,1988,1.8964,RWA
+Rwanda,1989,2.0678,RWA
+Rwanda,1990,2.0487,RWA
+Rwanda,1991,2.2498,RWA
+Rwanda,1992,2.3717,RWA
+Rwanda,1993,2.1996,RWA
+Rwanda,1994,1.882,RWA
+Rwanda,1995,1.7999,RWA
+Rwanda,1996,1.9707,RWA
+Rwanda,1997,2.1262,RWA
+Rwanda,1998,2.0851,RWA
+Rwanda,1999,2.0983,RWA
+Rwanda,2000,1.9589,RWA
+Rwanda,2001,1.944,RWA
+Rwanda,2002,2.1175,RWA
+Rwanda,2003,2.0491,RWA
+Rwanda,2004,2.0478,RWA
+Rwanda,2005,2.1459,RWA
+Rwanda,2006,2.1633,RWA
+Rwanda,2007,2.1526,RWA
+Rwanda,2008,2.3666,RWA
+Rwanda,2009,2.4873,RWA
+Rwanda,2010,2.4798,RWA
+Saint Kitts and Nevis,1980,17.4339,KNA
+Saint Kitts and Nevis,1981,17.2976,KNA
+Saint Kitts and Nevis,1982,17.5532,KNA
+Saint Kitts and Nevis,1983,15.137,KNA
+Saint Kitts and Nevis,1984,16.5256,KNA
+Saint Kitts and Nevis,1985,15.4619,KNA
+Saint Kitts and Nevis,1986,15.6286,KNA
+Saint Kitts and Nevis,1987,16.6641,KNA
+Saint Kitts and Nevis,1988,17.4235,KNA
+Saint Kitts and Nevis,1989,16.8756,KNA
+Saint Kitts and Nevis,1990,13.8934,KNA
+Saint Kitts and Nevis,1991,15.1281,KNA
+Saint Kitts and Nevis,1992,18.2774,KNA
+Saint Kitts and Nevis,1993,15.8201,KNA
+Saint Kitts and Nevis,1994,14.7041,KNA
+Saint Kitts and Nevis,1995,14.2647,KNA
+Saint Kitts and Nevis,1996,16.3327,KNA
+Saint Kitts and Nevis,1997,19.3877,KNA
+Saint Kitts and Nevis,1998,17.8899,KNA
+Saint Kitts and Nevis,1999,16.8394,KNA
+Saint Kitts and Nevis,2000,17.1337,KNA
+Saint Kitts and Nevis,2001,18.1506,KNA
+Saint Kitts and Nevis,2002,17.6409,KNA
+Saint Kitts and Nevis,2003,18.3243,KNA
+Saint Kitts and Nevis,2004,20.1332,KNA
+Saint Kitts and Nevis,2005,13.6558,KNA
+Saint Kitts and Nevis,2006,11.0874,KNA
+Saint Kitts and Nevis,2007,11.1598,KNA
+Saint Kitts and Nevis,2008,11.2476,KNA
+Saint Kitts and Nevis,2010,11.1911,KNA
+Saint Lucia,1980,5.5915,LCA
+Saint Lucia,1981,5.4023,LCA
+Saint Lucia,1982,5.445,LCA
+Saint Lucia,1983,5.7156,LCA
+Saint Lucia,1984,6.0525,LCA
+Saint Lucia,1985,6.4046,LCA
+Saint Lucia,1986,7.1114,LCA
+Saint Lucia,1987,7.1224,LCA
+Saint Lucia,1988,7.73,LCA
+Saint Lucia,1989,8.5801,LCA
+Saint Lucia,1990,8.7136,LCA
+Saint Lucia,1991,8.6705,LCA
+Saint Lucia,1992,8.3325,LCA
+Saint Lucia,1993,8.1505,LCA
+Saint Lucia,1994,8.6302,LCA
+Saint Lucia,1995,8.5872,LCA
+Saint Lucia,1996,8.608,LCA
+Saint Lucia,1997,8.461,LCA
+Saint Lucia,1998,8.4396,LCA
+Saint Lucia,1999,8.8203,LCA
+Saint Lucia,2000,8.1152,LCA
+Saint Lucia,2001,7.5189,LCA
+Saint Lucia,2002,6.9315,LCA
+Saint Lucia,2003,7.6687,LCA
+Saint Lucia,2004,7.6553,LCA
+Saint Lucia,2005,7.4738,LCA
+Saint Lucia,2006,8.0567,LCA
+Saint Lucia,2007,6.7965,LCA
+Saint Lucia,2008,5.7892,LCA
+Saint Lucia,2010,6.3232,LCA
+Saint Vincent/Grenadines,1980,4.0443,VCT
+Saint Vincent/Grenadines,1981,4.4568,VCT
+Saint Vincent/Grenadines,1982,4.5271,VCT
+Saint Vincent/Grenadines,1983,4.6659,VCT
+Saint Vincent/Grenadines,1984,5.0997,VCT
+Saint Vincent/Grenadines,1985,5.3935,VCT
+Saint Vincent/Grenadines,1986,5.4733,VCT
+Saint Vincent/Grenadines,1987,5.1197,VCT
+Saint Vincent/Grenadines,1988,5.879,VCT
+Saint Vincent/Grenadines,1989,5.7703,VCT
+Saint Vincent/Grenadines,1990,5.9624,VCT
+Saint Vincent/Grenadines,1991,5.8058,VCT
+Saint Vincent/Grenadines,1992,6.1928,VCT
+Saint Vincent/Grenadines,1993,6.0631,VCT
+Saint Vincent/Grenadines,1994,5.4712,VCT
+Saint Vincent/Grenadines,1995,5.366,VCT
+Saint Vincent/Grenadines,1996,5.8851,VCT
+Saint Vincent/Grenadines,1997,6.4163,VCT
+Saint Vincent/Grenadines,1998,7.6029,VCT
+Saint Vincent/Grenadines,1999,7.0083,VCT
+Saint Vincent/Grenadines,2000,6.8341,VCT
+Saint Vincent/Grenadines,2001,7.0986,VCT
+Saint Vincent/Grenadines,2002,7.7712,VCT
+Saint Vincent/Grenadines,2003,7.9637,VCT
+Saint Vincent/Grenadines,2004,8.4442,VCT
+Saint Vincent/Grenadines,2005,7.6554,VCT
+Saint Vincent/Grenadines,2006,7.9745,VCT
+Saint Vincent/Grenadines,2007,9.2942,VCT
+Saint Vincent/Grenadines,2008,8.951,VCT
+Saint Vincent/Grenadines,2010,9.0309,VCT
+Samoa,1980,7.0142,WSM
+Samoa,1981,6.439,WSM
+Samoa,1982,7.1715,WSM
+Samoa,1983,6.5384,WSM
+Samoa,1984,6.1563,WSM
+Samoa,1985,6.5966,WSM
+Samoa,1986,6.9276,WSM
+Samoa,1987,6.7501,WSM
+Samoa,1988,6.6393,WSM
+Samoa,1989,6.6142,WSM
+Samoa,1990,6.1626,WSM
+Samoa,1991,5.5859,WSM
+Samoa,1992,5.6337,WSM
+Samoa,1993,5.9032,WSM
+Samoa,1994,5.834,WSM
+Samoa,1995,6.2433,WSM
+Samoa,1996,6.5361,WSM
+Samoa,1997,6.6726,WSM
+Samoa,1998,6.6958,WSM
+Samoa,1999,6.4664,WSM
+Samoa,2000,6.5427,WSM
+Samoa,2001,6.3021,WSM
+Samoa,2002,6.3228,WSM
+Samoa,2003,6.2805,WSM
+Samoa,2004,7.2804,WSM
+Samoa,2005,7.274,WSM
+Samoa,2006,7.2275,WSM
+Samoa,2007,7.1112,WSM
+Samoa,2008,7.267,WSM
+Samoa,2009,7.1979,WSM
+Samoa,2010,7.7603,WSM
+Sao Tome and Principe,1980,2.9575,STP
+Sao Tome and Principe,1981,2.8016,STP
+Sao Tome and Principe,1982,2.9277,STP
+Sao Tome and Principe,1983,3.0324,STP
+Sao Tome and Principe,1984,2.8033,STP
+Sao Tome and Principe,1985,2.8956,STP
+Sao Tome and Principe,1986,2.8505,STP
+Sao Tome and Principe,1987,2.6888,STP
+Sao Tome and Principe,1988,2.7362,STP
+Sao Tome and Principe,1989,2.6241,STP
+Sao Tome and Principe,1990,2.5156,STP
+Sao Tome and Principe,1991,2.4333,STP
+Sao Tome and Principe,1992,2.4903,STP
+Sao Tome and Principe,1993,2.4568,STP
+Sao Tome and Principe,1994,2.5311,STP
+Sao Tome and Principe,1995,2.4424,STP
+Sao Tome and Principe,1996,2.6232,STP
+Sao Tome and Principe,1997,3.2395,STP
+Sao Tome and Principe,1998,3.1793,STP
+Sao Tome and Principe,1999,3.2369,STP
+Sao Tome and Principe,2000,3.3134,STP
+Sao Tome and Principe,2001,3.3174,STP
+Sao Tome and Principe,2002,3.2965,STP
+Sao Tome and Principe,2003,3.3071,STP
+Sao Tome and Principe,2004,3.2576,STP
+Sao Tome and Principe,2005,3.33,STP
+Sao Tome and Principe,2006,3.4568,STP
+Sao Tome and Principe,2007,3.3226,STP
+Sao Tome and Principe,2008,3.2976,STP
+Sao Tome and Principe,2009,3.4208,STP
+Sao Tome and Principe,2010,3.4139,STP
+Saudi Arabia,1980,19.1652,SAU
+Saudi Arabia,1981,19.1294,SAU
+Saudi Arabia,1982,21.5411,SAU
+Saudi Arabia,1983,26.0941,SAU
+Saudi Arabia,1984,22.1026,SAU
+Saudi Arabia,1985,15.6049,SAU
+Saudi Arabia,1986,16.0313,SAU
+Saudi Arabia,1987,16.37,SAU
+Saudi Arabia,1988,14.4181,SAU
+Saudi Arabia,1989,13.7194,SAU
+Saudi Arabia,1990,14.0413,SAU
+Saudi Arabia,1991,13.3339,SAU
+Saudi Arabia,1992,14.1386,SAU
+Saudi Arabia,1993,15.804,SAU
+Saudi Arabia,1994,14.9909,SAU
+Saudi Arabia,1995,14.4203,SAU
+Saudi Arabia,1996,13.818,SAU
+Saudi Arabia,1997,15.2538,SAU
+Saudi Arabia,1998,13.6525,SAU
+Saudi Arabia,1999,11.644,SAU
+Saudi Arabia,2000,14.44,SAU
+Saudi Arabia,2001,13.8721,SAU
+Saudi Arabia,2002,10.4177,SAU
+Saudi Arabia,2003,14.9827,SAU
+Saudi Arabia,2004,15.0139,SAU
+Saudi Arabia,2005,16.251,SAU
+Saudi Arabia,2006,17.2706,SAU
+Saudi Arabia,2007,16.6273,SAU
+Saudi Arabia,2008,17.9142,SAU
+Saudi Arabia,2009,21.878,SAU
+Saudi Arabia,2010,21.5942,SAU
+Senegal,1980,3.4651,SEN
+Senegal,1981,3.7988,SEN
+Senegal,1982,3.4143,SEN
+Senegal,1983,3.2565,SEN
+Senegal,1984,3.3368,SEN
+Senegal,1985,3.5282,SEN
+Senegal,1986,3.4934,SEN
+Senegal,1987,3.5682,SEN
+Senegal,1988,3.5578,SEN
+Senegal,1989,3.7337,SEN
+Senegal,1990,3.5762,SEN
+Senegal,1991,3.4122,SEN
+Senegal,1992,3.5149,SEN
+Senegal,1993,3.4676,SEN
+Senegal,1994,3.757,SEN
+Senegal,1995,3.7818,SEN
+Senegal,1996,4.0927,SEN
+Senegal,1997,3.8329,SEN
+Senegal,1998,3.8528,SEN
+Senegal,1999,4.047,SEN
+Senegal,2000,3.9669,SEN
+Senegal,2001,4.3383,SEN
+Senegal,2002,4.2612,SEN
+Senegal,2003,4.4304,SEN
+Senegal,2004,4.4476,SEN
+Senegal,2005,4.5148,SEN
+Senegal,2006,4.333,SEN
+Senegal,2007,4.6522,SEN
+Senegal,2008,4.4508,SEN
+Senegal,2009,4.4772,SEN
+Senegal,2010,4.5732,SEN
+Serbia (and Montenegro),1980,0,SRB
+Serbia (and Montenegro),1981,0,SRB
+Serbia (and Montenegro),1982,0,SRB
+Serbia (and Montenegro),1983,0,SRB
+Serbia (and Montenegro),1984,0,SRB
+Serbia (and Montenegro),1985,0,SRB
+Serbia (and Montenegro),1986,0,SRB
+Serbia (and Montenegro),1987,0,SRB
+Serbia (and Montenegro),1988,0,SRB
+Serbia (and Montenegro),1989,0,SRB
+Serbia (and Montenegro),1990,0,SRB
+Serbia (and Montenegro),1991,0,SRB
+Serbia (and Montenegro),1992,12.0481,SRB
+Serbia (and Montenegro),1993,9.5619,SRB
+Serbia (and Montenegro),1994,10.1537,SRB
+Serbia (and Montenegro),1995,10.9888,SRB
+Serbia (and Montenegro),1996,11.4375,SRB
+Serbia (and Montenegro),1997,12.2566,SRB
+Serbia (and Montenegro),1998,12.1124,SRB
+Serbia (and Montenegro),1999,9.8587,SRB
+Serbia (and Montenegro),2000,9.9824,SRB
+Serbia (and Montenegro),2001,10.4381,SRB
+Serbia (and Montenegro),2002,10.4508,SRB
+Serbia (and Montenegro),2003,9.8914,SRB
+Serbia (and Montenegro),2004,11.1721,SRB
+Serbia (and Montenegro),2005,10.2121,SRB
+Serbia (and Montenegro),2006,10.5885,SRB
+Serbia (and Montenegro),2007,10.5868,SRB
+Serbia (and Montenegro),2008,11.5459,SRB
+Serbia (and Montenegro),2009,10.963,SRB
+Serbia (and Montenegro),2010,11.3471,SRB
+Seychelles,1980,7.7608,SYC
+Seychelles,1981,7.7055,SYC
+Seychelles,1982,6.9891,SYC
+Seychelles,1983,7.0029,SYC
+Seychelles,1984,6.9211,SYC
+Seychelles,1985,7.1991,SYC
+Seychelles,1986,7.2705,SYC
+Seychelles,1987,7.2498,SYC
+Seychelles,1988,8.3158,SYC
+Seychelles,1989,8.7779,SYC
+Seychelles,1990,8.5904,SYC
+Seychelles,1991,8.7038,SYC
+Seychelles,1992,8.947,SYC
+Seychelles,1993,9.56,SYC
+Seychelles,1994,9.6136,SYC
+Seychelles,1995,9.7937,SYC
+Seychelles,1996,10.0983,SYC
+Seychelles,1997,10.1749,SYC
+Seychelles,1998,11.0069,SYC
+Seychelles,1999,11.3419,SYC
+Seychelles,2000,9.7932,SYC
+Seychelles,2001,8.8617,SYC
+Seychelles,2002,10.3879,SYC
+Seychelles,2003,10.7586,SYC
+Seychelles,2004,10.2287,SYC
+Seychelles,2005,10.6185,SYC
+Seychelles,2006,10.9343,SYC
+Seychelles,2007,11.2109,SYC
+Seychelles,2008,13.4833,SYC
+Seychelles,2009,11.7275,SYC
+Seychelles,2010,12.2923,SYC
+Singapore,1980,17.9978,SGP
+Singapore,1981,20.4853,SGP
+Singapore,1982,26.0298,SGP
+Singapore,1983,31.5356,SGP
+Singapore,1984,27.7206,SGP
+Singapore,1985,21.6649,SGP
+Singapore,1986,20.2828,SGP
+Singapore,1987,20.0489,SGP
+Singapore,1988,20.2254,SGP
+Singapore,1989,15.5306,SGP
+Singapore,1990,18.4061,SGP
+Singapore,1991,21.6991,SGP
+Singapore,1992,21.8624,SGP
+Singapore,1993,25.7785,SGP
+Singapore,1994,30.2689,SGP
+Singapore,1995,32.1372,SGP
+Singapore,1996,41.6509,SGP
+Singapore,1997,50.5409,SGP
+Singapore,1998,34.2406,SGP
+Singapore,1999,50.3994,SGP
+Singapore,2000,79.7197,SGP
+Singapore,2001,55.8934,SGP
+Singapore,2002,38.5512,SGP
+Singapore,2003,21.4045,SGP
+Singapore,2004,20.9313,SGP
+Singapore,2005,20.5182,SGP
+Singapore,2006,23.9158,SGP
+Singapore,2007,25.4525,SGP
+Singapore,2008,33.3493,SGP
+Singapore,2009,47.327,SGP
+Singapore,2010,31.8443,SGP
+Slovakia,1980,0,SVK
+Slovakia,1981,0,SVK
+Slovakia,1982,0,SVK
+Slovakia,1983,0,SVK
+Slovakia,1984,0,SVK
+Slovakia,1985,0,SVK
+Slovakia,1986,0,SVK
+Slovakia,1987,0,SVK
+Slovakia,1988,0,SVK
+Slovakia,1989,0,SVK
+Slovakia,1990,0,SVK
+Slovakia,1991,0,SVK
+Slovakia,1992,0,SVK
+Slovakia,1993,9.3341,SVK
+Slovakia,1994,9.2965,SVK
+Slovakia,1995,9.3259,SVK
+Slovakia,1996,10.4306,SVK
+Slovakia,1997,10.9443,SVK
+Slovakia,1998,12.0291,SVK
+Slovakia,1999,10.6247,SVK
+Slovakia,2000,9.6479,SVK
+Slovakia,2001,10.3638,SVK
+Slovakia,2002,10.8655,SVK
+Slovakia,2003,10.7872,SVK
+Slovakia,2004,12.5513,SVK
+Slovakia,2005,13.9032,SVK
+Slovakia,2006,13.6533,SVK
+Slovakia,2007,13.8321,SVK
+Slovakia,2008,14.6885,SVK
+Slovakia,2009,13.1432,SVK
+Slovakia,2010,12.7908,SVK
+Slovenia,1980,0,SVN
+Slovenia,1981,0,SVN
+Slovenia,1982,0,SVN
+Slovenia,1983,0,SVN
+Slovenia,1984,0,SVN
+Slovenia,1985,0,SVN
+Slovenia,1986,0,SVN
+Slovenia,1987,0,SVN
+Slovenia,1988,0,SVN
+Slovenia,1989,0,SVN
+Slovenia,1990,0,SVN
+Slovenia,1991,0,SVN
+Slovenia,1992,14.1021,SVN
+Slovenia,1993,14.1493,SVN
+Slovenia,1994,14.9499,SVN
+Slovenia,1995,15.4804,SVN
+Slovenia,1996,15.8401,SVN
+Slovenia,1997,16.3686,SVN
+Slovenia,1998,16.3193,SVN
+Slovenia,1999,17.1754,SVN
+Slovenia,2000,16.9638,SVN
+Slovenia,2001,16.9125,SVN
+Slovenia,2002,17.5045,SVN
+Slovenia,2003,19.0914,SVN
+Slovenia,2004,18.9482,SVN
+Slovenia,2005,18.4378,SVN
+Slovenia,2006,21.5887,SVN
+Slovenia,2007,23.4747,SVN
+Slovenia,2008,20.7916,SVN
+Slovenia,2009,17.109,SVN
+Slovenia,2010,16.1095,SVN
+Solomon Islands,1980,5.8474,SLB
+Solomon Islands,1981,6.4635,SLB
+Solomon Islands,1982,6.2184,SLB
+Solomon Islands,1983,5.6646,SLB
+Solomon Islands,1984,6.1476,SLB
+Solomon Islands,1985,6.3482,SLB
+Solomon Islands,1986,5.7881,SLB
+Solomon Islands,1987,4.6303,SLB
+Solomon Islands,1988,4.7466,SLB
+Solomon Islands,1989,4.9735,SLB
+Solomon Islands,1990,5.1839,SLB
+Solomon Islands,1991,5.189,SLB
+Solomon Islands,1992,6.2187,SLB
+Solomon Islands,1993,6.0265,SLB
+Solomon Islands,1994,6.188,SLB
+Solomon Islands,1995,6.9102,SLB
+Solomon Islands,1996,7.1397,SLB
+Solomon Islands,1997,6.8048,SLB
+Solomon Islands,1998,7.6687,SLB
+Solomon Islands,1999,8.5619,SLB
+Solomon Islands,2000,6.9653,SLB
+Solomon Islands,2001,5.6388,SLB
+Solomon Islands,2002,5.5942,SLB
+Solomon Islands,2003,5.8762,SLB
+Solomon Islands,2004,6.8746,SLB
+Solomon Islands,2005,7.4335,SLB
+Solomon Islands,2006,7.3949,SLB
+Solomon Islands,2007,7.8446,SLB
+Solomon Islands,2008,8.0918,SLB
+Solomon Islands,2009,7.3411,SLB
+Solomon Islands,2010,7.8237,SLB
+Somalia,1980,9.5305,SOM
+Somalia,1981,9.6709,SOM
+Somalia,1982,9.9605,SOM
+Somalia,1983,9.746,SOM
+Somalia,1984,10.0551,SOM
+Somalia,1985,10.5338,SOM
+Somalia,1986,10.5526,SOM
+Somalia,1987,10.8926,SOM
+Somalia,1988,11.2141,SOM
+Somalia,1989,11.0717,SOM
+Somalia,1990,10.2036,SOM
+Somalia,1991,9.0735,SOM
+Somalia,1992,8.3514,SOM
+Somalia,1993,9.0409,SOM
+Somalia,1994,9.7245,SOM
+Somalia,1995,9.8534,SOM
+Somalia,1996,9.8692,SOM
+Somalia,1997,9.8065,SOM
+Somalia,1998,9.5089,SOM
+Somalia,1999,9.3625,SOM
+Somalia,2000,9.2124,SOM
+Somalia,2001,9.1308,SOM
+Somalia,2002,9.0089,SOM
+Somalia,2003,8.8791,SOM
+Somalia,2004,8.7583,SOM
+Somalia,2005,8.6646,SOM
+Somalia,2006,8.1397,SOM
+Somalia,2007,7.6183,SOM
+Somalia,2008,7.4992,SOM
+Somalia,2009,7.378,SOM
+Somalia,2010,7.2973,SOM
+South Africa,1980,18.3446,ZAF
+South Africa,1981,18.7194,ZAF
+South Africa,1982,18.8501,ZAF
+South Africa,1983,17.7214,ZAF
+South Africa,1984,18.5719,ZAF
+South Africa,1985,17.9562,ZAF
+South Africa,1986,17.5214,ZAF
+South Africa,1987,16.8473,ZAF
+South Africa,1988,17.1547,ZAF
+South Africa,1989,16.8065,ZAF
+South Africa,1990,16.2237,ZAF
+South Africa,1991,15.8828,ZAF
+South Africa,1992,14.8935,ZAF
+South Africa,1993,15.0319,ZAF
+South Africa,1994,14.5079,ZAF
+South Africa,1995,14.8543,ZAF
+South Africa,1996,14.8971,ZAF
+South Africa,1997,15.2158,ZAF
+South Africa,1998,14.7359,ZAF
+South Africa,1999,13.0068,ZAF
+South Africa,2000,12.9978,ZAF
+South Africa,2001,12.6867,ZAF
+South Africa,2002,12.305,ZAF
+South Africa,2003,12.6505,ZAF
+South Africa,2004,13.2184,ZAF
+South Africa,2005,12.7827,ZAF
+South Africa,2006,13.0516,ZAF
+South Africa,2007,13.0098,ZAF
+South Africa,2008,12.9128,ZAF
+South Africa,2009,11.5754,ZAF
+South Africa,2010,11.4434,ZAF
+South Korea,1980,5.6224,KOR
+South Korea,1981,5.5322,KOR
+South Korea,1982,5.886,KOR
+South Korea,1983,6.7651,KOR
+South Korea,1984,7.0274,KOR
+South Korea,1985,7.2795,KOR
+South Korea,1986,7.8012,KOR
+South Korea,1987,8.2349,KOR
+South Korea,1988,9.2488,KOR
+South Korea,1989,9.8116,KOR
+South Korea,1990,11.3924,KOR
+South Korea,1991,12.7664,KOR
+South Korea,1992,14.6406,KOR
+South Korea,1993,14.0326,KOR
+South Korea,1994,15.1766,KOR
+South Korea,1995,16.2933,KOR
+South Korea,1996,17.5897,KOR
+South Korea,1997,18.2151,KOR
+South Korea,1998,13.742,KOR
+South Korea,1999,14.5247,KOR
+South Korea,2000,15.5828,KOR
+South Korea,2001,15.9241,KOR
+South Korea,2002,16.6555,KOR
+South Korea,2003,17.9498,KOR
+South Korea,2004,17.6291,KOR
+South Korea,2005,15.8257,KOR
+South Korea,2006,16.4087,KOR
+South Korea,2007,16.1124,KOR
+South Korea,2008,15.9776,KOR
+South Korea,2009,15.413,KOR
+South Korea,2010,15.2383,KOR
+Spain,1980,11.0482,ESP
+Spain,1981,10.8971,ESP
+Spain,1982,11.3081,ESP
+Spain,1983,11.1765,ESP
+Spain,1984,11.2937,ESP
+Spain,1985,11.3175,ESP
+Spain,1986,11.3845,ESP
+Spain,1987,12.0147,ESP
+Spain,1988,12.7545,ESP
+Spain,1989,13.7928,ESP
+Spain,1990,14.192,ESP
+Spain,1991,14.6405,ESP
+Spain,1992,14.8464,ESP
+Spain,1993,13.7111,ESP
+Spain,1994,13.8104,ESP
+Spain,1995,13.6571,ESP
+Spain,1996,13.972,ESP
+Spain,1997,14.6028,ESP
+Spain,1998,15.7837,ESP
+Spain,1999,16.7785,ESP
+Spain,2000,17.7651,ESP
+Spain,2001,18.2078,ESP
+Spain,2002,19.5606,ESP
+Spain,2003,20.3358,ESP
+Spain,2004,20.4891,ESP
+Spain,2005,20.734,ESP
+Spain,2006,21.2757,ESP
+Spain,2007,21.4216,ESP
+Spain,2008,18.6663,ESP
+Spain,2009,15.2918,ESP
+Spain,2010,13.5725,ESP
+Sri Lanka,1980,2.0382,LKA
+Sri Lanka,1981,1.9362,LKA
+Sri Lanka,1982,2.0048,LKA
+Sri Lanka,1983,1.9722,LKA
+Sri Lanka,1984,1.9485,LKA
+Sri Lanka,1985,2.0869,LKA
+Sri Lanka,1986,2.1111,LKA
+Sri Lanka,1987,2.037,LKA
+Sri Lanka,1988,1.9975,LKA
+Sri Lanka,1989,1.972,LKA
+Sri Lanka,1990,1.9721,LKA
+Sri Lanka,1991,2.0261,LKA
+Sri Lanka,1992,2.2529,LKA
+Sri Lanka,1993,2.3004,LKA
+Sri Lanka,1994,2.5999,LKA
+Sri Lanka,1995,2.189,LKA
+Sri Lanka,1996,2.1596,LKA
+Sri Lanka,1997,1.998,LKA
+Sri Lanka,1998,1.9044,LKA
+Sri Lanka,1999,2.6576,LKA
+Sri Lanka,2000,2.1134,LKA
+Sri Lanka,2001,2.8494,LKA
+Sri Lanka,2002,2.7181,LKA
+Sri Lanka,2003,2.8046,LKA
+Sri Lanka,2004,2.7176,LKA
+Sri Lanka,2005,3.0162,LKA
+Sri Lanka,2006,3.3438,LKA
+Sri Lanka,2007,3.4762,LKA
+Sri Lanka,2008,3.634,LKA
+Sri Lanka,2009,3.3119,LKA
+Sri Lanka,2010,3.8141,LKA
+Sudan,1980,5.9551,SDN
+Sudan,1981,6.2499,SDN
+Sudan,1982,6.1081,SDN
+Sudan,1983,5.989,SDN
+Sudan,1984,5.8303,SDN
+Sudan,1985,5.9624,SDN
+Sudan,1986,5.6352,SDN
+Sudan,1987,5.3618,SDN
+Sudan,1988,5.5405,SDN
+Sudan,1989,5.2223,SDN
+Sudan,1990,5.2737,SDN
+Sudan,1991,5.6028,SDN
+Sudan,1992,6.026,SDN
+Sudan,1993,6.0228,SDN
+Sudan,1994,6.3819,SDN
+Sudan,1995,6.2529,SDN
+Sudan,1996,6.4602,SDN
+Sudan,1997,6.4667,SDN
+Sudan,1998,6.6165,SDN
+Sudan,1999,6.4935,SDN
+Sudan,2000,6.5674,SDN
+Sudan,2001,6.7262,SDN
+Sudan,2002,6.6447,SDN
+Sudan,2003,6.8954,SDN
+Sudan,2004,6.6872,SDN
+Sudan,2005,6.8031,SDN
+Sudan,2006,6.7079,SDN
+Sudan,2007,6.7061,SDN
+Sudan,2008,6.5187,SDN
+Sudan,2009,6.4176,SDN
+Sudan,2010,6.2715,SDN
+Suriname,1980,20.6084,SUR
+Suriname,1981,18.7282,SUR
+Suriname,1982,15.5904,SUR
+Suriname,1983,14.5647,SUR
+Suriname,1984,16.1958,SUR
+Suriname,1985,17.6881,SUR
+Suriname,1986,19.6959,SUR
+Suriname,1987,16.2062,SUR
+Suriname,1988,15.7252,SUR
+Suriname,1989,15.3321,SUR
+Suriname,1990,12.6937,SUR
+Suriname,1991,14.132,SUR
+Suriname,1992,14.2138,SUR
+Suriname,1993,12.6758,SUR
+Suriname,1994,13.765,SUR
+Suriname,1995,12.2329,SUR
+Suriname,1996,12.8705,SUR
+Suriname,1997,13.4532,SUR
+Suriname,1998,13.3448,SUR
+Suriname,1999,12.3262,SUR
+Suriname,2000,11.7587,SUR
+Suriname,2001,15.3173,SUR
+Suriname,2002,14.8135,SUR
+Suriname,2003,16.6589,SUR
+Suriname,2004,16.6529,SUR
+Suriname,2005,18.1719,SUR
+Suriname,2006,18.6538,SUR
+Suriname,2007,19.424,SUR
+Suriname,2008,19.4273,SUR
+Suriname,2009,17.3783,SUR
+Suriname,2010,16.7487,SUR
+Swaziland,1980,14.6972,SWZ
+Swaziland,1981,16.3146,SWZ
+Swaziland,1982,16.2694,SWZ
+Swaziland,1983,15.8819,SWZ
+Swaziland,1984,15.6013,SWZ
+Swaziland,1985,14.9098,SWZ
+Swaziland,1986,15.1854,SWZ
+Swaziland,1987,14.006,SWZ
+Swaziland,1988,13.8572,SWZ
+Swaziland,1989,13.5835,SWZ
+Swaziland,1990,13.5205,SWZ
+Swaziland,1991,13.3157,SWZ
+Swaziland,1992,13.0785,SWZ
+Swaziland,1993,11.8957,SWZ
+Swaziland,1994,12.1935,SWZ
+Swaziland,1995,11.5657,SWZ
+Swaziland,1996,12.0172,SWZ
+Swaziland,1997,11.8391,SWZ
+Swaziland,1998,11.458,SWZ
+Swaziland,1999,12.5712,SWZ
+Swaziland,2000,11.181,SWZ
+Swaziland,2001,11.9885,SWZ
+Swaziland,2002,11.951,SWZ
+Swaziland,2003,12.2195,SWZ
+Swaziland,2004,12.7984,SWZ
+Swaziland,2005,13.4913,SWZ
+Swaziland,2006,12.3636,SWZ
+Swaziland,2007,12.3326,SWZ
+Swaziland,2008,12.2125,SWZ
+Swaziland,2009,12.0472,SWZ
+Swaziland,2010,12.0433,SWZ
+Sweden,1980,20.2971,SWE
+Sweden,1981,20.0511,SWE
+Sweden,1982,19.7556,SWE
+Sweden,1983,19.4337,SWE
+Sweden,1984,20.1389,SWE
+Sweden,1985,20.1791,SWE
+Sweden,1986,21.9192,SWE
+Sweden,1987,22.1835,SWE
+Sweden,1988,20.6504,SWE
+Sweden,1989,21.9369,SWE
+Sweden,1990,21.7986,SWE
+Sweden,1991,20.485,SWE
+Sweden,1992,19.793,SWE
+Sweden,1993,20.0016,SWE
+Sweden,1994,19.6196,SWE
+Sweden,1995,21.3122,SWE
+Sweden,1996,18.6916,SWE
+Sweden,1997,18.8294,SWE
+Sweden,1998,20.7576,SWE
+Sweden,1999,20.3363,SWE
+Sweden,2000,20.7145,SWE
+Sweden,2001,20.2949,SWE
+Sweden,2002,20.6548,SWE
+Sweden,2003,20.8255,SWE
+Sweden,2004,21.5799,SWE
+Sweden,2005,23.9547,SWE
+Sweden,2006,22.0918,SWE
+Sweden,2007,22.9849,SWE
+Sweden,2008,22.4782,SWE
+Sweden,2009,18.9766,SWE
+Sweden,2010,21.0109,SWE
+Switzerland,1980,15.4248,CHE
+Switzerland,1981,15.3208,CHE
+Switzerland,1982,14.7923,CHE
+Switzerland,1983,14.8244,CHE
+Switzerland,1984,15.0425,CHE
+Switzerland,1985,15.2395,CHE
+Switzerland,1986,16.1268,CHE
+Switzerland,1987,16.1105,CHE
+Switzerland,1988,16.8156,CHE
+Switzerland,1989,18.1748,CHE
+Switzerland,1990,17.9088,CHE
+Switzerland,1991,16.2096,CHE
+Switzerland,1992,14.6849,CHE
+Switzerland,1993,13.557,CHE
+Switzerland,1994,14.2059,CHE
+Switzerland,1995,13.7452,CHE
+Switzerland,1996,12.8563,CHE
+Switzerland,1997,12.6976,CHE
+Switzerland,1998,12.7554,CHE
+Switzerland,1999,12.4671,CHE
+Switzerland,2000,13.136,CHE
+Switzerland,2001,13.2106,CHE
+Switzerland,2002,12.948,CHE
+Switzerland,2003,12.5697,CHE
+Switzerland,2004,12.8863,CHE
+Switzerland,2005,13.8611,CHE
+Switzerland,2006,14.4224,CHE
+Switzerland,2007,14.1317,CHE
+Switzerland,2008,13.0182,CHE
+Switzerland,2009,13.1381,CHE
+Switzerland,2010,13.7214,CHE
+Syria,1980,7.1471,SYR
+Syria,1981,7.22,SYR
+Syria,1982,6.8223,SYR
+Syria,1983,7.4209,SYR
+Syria,1984,7.6248,SYR
+Syria,1985,7.3427,SYR
+Syria,1986,6.6367,SYR
+Syria,1987,6.2469,SYR
+Syria,1988,6.1774,SYR
+Syria,1989,5.1054,SYR
+Syria,1990,5.1794,SYR
+Syria,1991,5.6778,SYR
+Syria,1992,5.6667,SYR
+Syria,1993,6.1636,SYR
+Syria,1994,6.2829,SYR
+Syria,1995,6.6574,SYR
+Syria,1996,6.7939,SYR
+Syria,1997,6.3464,SYR
+Syria,1998,6.5078,SYR
+Syria,1999,6.4018,SYR
+Syria,2000,6.1564,SYR
+Syria,2001,6.2169,SYR
+Syria,2002,6.7491,SYR
+Syria,2003,6.6351,SYR
+Syria,2004,6.5693,SYR
+Syria,2005,6.8085,SYR
+Syria,2006,7.4864,SYR
+Syria,2007,9.5278,SYR
+Syria,2008,9.0463,SYR
+Syria,2009,9.2377,SYR
+Syria,2010,9.5917,SYR
+Tanzania,1980,4.1247,TZA
+Tanzania,1981,4.075,TZA
+Tanzania,1982,4.0309,TZA
+Tanzania,1983,4.027,TZA
+Tanzania,1984,3.7659,TZA
+Tanzania,1985,3.7293,TZA
+Tanzania,1986,3.6551,TZA
+Tanzania,1987,3.5693,TZA
+Tanzania,1988,3.3999,TZA
+Tanzania,1989,3.4997,TZA
+Tanzania,1990,3.4435,TZA
+Tanzania,1991,3.3806,TZA
+Tanzania,1992,3.2829,TZA
+Tanzania,1993,3.1845,TZA
+Tanzania,1994,3.0014,TZA
+Tanzania,1995,3.1859,TZA
+Tanzania,1996,3.0553,TZA
+Tanzania,1997,2.8907,TZA
+Tanzania,1998,2.9347,TZA
+Tanzania,1999,3.2085,TZA
+Tanzania,2000,3.1711,TZA
+Tanzania,2001,3.3063,TZA
+Tanzania,2002,3.5643,TZA
+Tanzania,2003,3.4176,TZA
+Tanzania,2004,3.5201,TZA
+Tanzania,2005,3.4221,TZA
+Tanzania,2006,3.4502,TZA
+Tanzania,2007,3.4201,TZA
+Tanzania,2008,3.4146,TZA
+Tanzania,2009,3.433,TZA
+Tanzania,2010,3.5327,TZA
+Thailand,1980,4.2692,THA
+Thailand,1981,4.4926,THA
+Thailand,1982,4.6761,THA
+Thailand,1983,4.7792,THA
+Thailand,1984,4.8771,THA
+Thailand,1985,4.8696,THA
+Thailand,1986,4.6341,THA
+Thailand,1987,5.012,THA
+Thailand,1988,5.4303,THA
+Thailand,1989,6.0305,THA
+Thailand,1990,7.0072,THA
+Thailand,1991,7.8426,THA
+Thailand,1992,8.1807,THA
+Thailand,1993,8.11,THA
+Thailand,1994,8.4836,THA
+Thailand,1995,9.437,THA
+Thailand,1996,10.1493,THA
+Thailand,1997,9.4035,THA
+Thailand,1998,6.4093,THA
+Thailand,1999,6.1913,THA
+Thailand,2000,6.5049,THA
+Thailand,2001,6.7306,THA
+Thailand,2002,7.5196,THA
+Thailand,2003,8.5367,THA
+Thailand,2004,8.7566,THA
+Thailand,2005,8.5292,THA
+Thailand,2006,8.758,THA
+Thailand,2007,8.52,THA
+Thailand,2008,8.3128,THA
+Thailand,2009,8.6432,THA
+Thailand,2010,8.6654,THA
+Timor-Leste,1980,1.8341,TLS
+Timor-Leste,1981,1.7603,TLS
+Timor-Leste,1982,1.7257,TLS
+Timor-Leste,1983,1.6678,TLS
+Timor-Leste,1984,1.5638,TLS
+Timor-Leste,1985,1.5355,TLS
+Timor-Leste,1986,1.5246,TLS
+Timor-Leste,1987,1.5214,TLS
+Timor-Leste,1988,1.5047,TLS
+Timor-Leste,1989,1.5614,TLS
+Timor-Leste,1990,1.8106,TLS
+Timor-Leste,1991,1.9301,TLS
+Timor-Leste,1992,1.9583,TLS
+Timor-Leste,1993,2.2865,TLS
+Timor-Leste,1994,2.587,TLS
+Timor-Leste,1995,2.5065,TLS
+Timor-Leste,1996,2.5425,TLS
+Timor-Leste,1997,2.6411,TLS
+Timor-Leste,1998,2.6338,TLS
+Timor-Leste,1999,2.2086,TLS
+Timor-Leste,2000,2.4128,TLS
+Timor-Leste,2001,2.5872,TLS
+Timor-Leste,2002,2.535,TLS
+Timor-Leste,2003,2.4684,TLS
+Timor-Leste,2004,5.6729,TLS
+Timor-Leste,2005,8.3506,TLS
+Timor-Leste,2006,9.5452,TLS
+Timor-Leste,2007,8.1063,TLS
+Timor-Leste,2008,9.4566,TLS
+Timor-Leste,2009,9.1378,TLS
+Timor-Leste,2010,8.5445,TLS
+Togo,1980,2.9398,TGO
+Togo,1981,2.556,TGO
+Togo,1982,3.0193,TGO
+Togo,1983,2.1872,TGO
+Togo,1984,3.0181,TGO
+Togo,1985,2.9681,TGO
+Togo,1986,3.2123,TGO
+Togo,1987,3.2416,TGO
+Togo,1988,3.7966,TGO
+Togo,1989,3.5686,TGO
+Togo,1990,4.0041,TGO
+Togo,1991,3.1886,TGO
+Togo,1992,2.6764,TGO
+Togo,1993,2.7747,TGO
+Togo,1994,2.9547,TGO
+Togo,1995,3.6901,TGO
+Togo,1996,3.9317,TGO
+Togo,1997,4.0037,TGO
+Togo,1998,3.856,TGO
+Togo,1999,3.8503,TGO
+Togo,2000,3.5671,TGO
+Togo,2001,3.0211,TGO
+Togo,2002,3.1663,TGO
+Togo,2003,2.2698,TGO
+Togo,2004,2.4351,TGO
+Togo,2005,2.2758,TGO
+Togo,2006,3.286,TGO
+Togo,2007,2.472,TGO
+Togo,2008,3.3227,TGO
+Togo,2009,3.551,TGO
+Togo,2010,3.4079,TGO
+Tonga,1980,6.7071,TON
+Tonga,1981,6.8642,TON
+Tonga,1982,5.9431,TON
+Tonga,1983,5.8331,TON
+Tonga,1984,5.868,TON
+Tonga,1985,6.0236,TON
+Tonga,1986,6.4154,TON
+Tonga,1987,6.1496,TON
+Tonga,1988,5.6136,TON
+Tonga,1989,5.6195,TON
+Tonga,1990,5.1682,TON
+Tonga,1991,5.1496,TON
+Tonga,1992,5.6631,TON
+Tonga,1993,6.0356,TON
+Tonga,1994,6.0459,TON
+Tonga,1995,6.0691,TON
+Tonga,1996,6.3729,TON
+Tonga,1997,6.354,TON
+Tonga,1998,6.5804,TON
+Tonga,1999,6.7662,TON
+Tonga,2000,6.9474,TON
+Tonga,2001,6.8952,TON
+Tonga,2002,6.8549,TON
+Tonga,2003,6.7113,TON
+Tonga,2004,6.6115,TON
+Tonga,2005,6.4786,TON
+Tonga,2006,6.7077,TON
+Tonga,2007,8.2702,TON
+Tonga,2008,8.1572,TON
+Tonga,2009,11.0807,TON
+Tonga,2010,9.5157,TON
+Trinidad and Tobago,1980,10.5671,TTO
+Trinidad and Tobago,1981,12.7767,TTO
+Trinidad and Tobago,1982,13.5844,TTO
+Trinidad and Tobago,1983,10.2034,TTO
+Trinidad and Tobago,1984,8.7734,TTO
+Trinidad and Tobago,1985,8.5713,TTO
+Trinidad and Tobago,1986,7.6252,TTO
+Trinidad and Tobago,1987,7.0928,TTO
+Trinidad and Tobago,1988,7.4222,TTO
+Trinidad and Tobago,1989,6.3083,TTO
+Trinidad and Tobago,1990,7.7074,TTO
+Trinidad and Tobago,1991,5.9429,TTO
+Trinidad and Tobago,1992,5.4393,TTO
+Trinidad and Tobago,1993,6.7708,TTO
+Trinidad and Tobago,1994,5.7561,TTO
+Trinidad and Tobago,1995,6.1459,TTO
+Trinidad and Tobago,1996,8.3375,TTO
+Trinidad and Tobago,1997,8.4574,TTO
+Trinidad and Tobago,1998,9.2773,TTO
+Trinidad and Tobago,1999,8.6411,TTO
+Trinidad and Tobago,2000,9.8006,TTO
+Trinidad and Tobago,2001,8.4304,TTO
+Trinidad and Tobago,2002,14.0931,TTO
+Trinidad and Tobago,2003,17.2219,TTO
+Trinidad and Tobago,2004,12.7876,TTO
+Trinidad and Tobago,2005,14.8742,TTO
+Trinidad and Tobago,2006,16.4425,TTO
+Trinidad and Tobago,2007,19.4546,TTO
+Trinidad and Tobago,2008,16.9969,TTO
+Trinidad and Tobago,2009,20.9733,TTO
+Trinidad and Tobago,2010,20.0655,TTO
+Tunisia,1980,6.1209,TUN
+Tunisia,1981,6.0281,TUN
+Tunisia,1982,5.8445,TUN
+Tunisia,1983,6.9637,TUN
+Tunisia,1984,6.5063,TUN
+Tunisia,1985,6.6869,TUN
+Tunisia,1986,6.2517,TUN
+Tunisia,1987,6.4179,TUN
+Tunisia,1988,5.4809,TUN
+Tunisia,1989,5.0346,TUN
+Tunisia,1990,5.6838,TUN
+Tunisia,1991,6.203,TUN
+Tunisia,1992,6.4933,TUN
+Tunisia,1993,6.9394,TUN
+Tunisia,1994,6.4306,TUN
+Tunisia,1995,6.2613,TUN
+Tunisia,1996,7.1666,TUN
+Tunisia,1997,6.1874,TUN
+Tunisia,1998,7.0413,TUN
+Tunisia,1999,7.7489,TUN
+Tunisia,2000,8.237,TUN
+Tunisia,2001,8.6072,TUN
+Tunisia,2002,8.4363,TUN
+Tunisia,2003,8.6055,TUN
+Tunisia,2004,8.6056,TUN
+Tunisia,2005,8.3956,TUN
+Tunisia,2006,8.2829,TUN
+Tunisia,2007,8.2401,TUN
+Tunisia,2008,8.5674,TUN
+Tunisia,2009,8.7056,TUN
+Tunisia,2010,9.1134,TUN
+Turkey,1980,7.5739,TUR
+Turkey,1981,7.5947,TUR
+Turkey,1982,7.538,TUR
+Turkey,1983,7.1879,TUR
+Turkey,1984,7.6034,TUR
+Turkey,1985,7.7475,TUR
+Turkey,1986,8.6409,TUR
+Turkey,1987,9.4702,TUR
+Turkey,1988,9.2266,TUR
+Turkey,1989,8.8753,TUR
+Turkey,1990,9.1328,TUR
+Turkey,1991,8.9868,TUR
+Turkey,1992,9.115,TUR
+Turkey,1993,10.0209,TUR
+Turkey,1994,8.9492,TUR
+Turkey,1995,9.7074,TUR
+Turkey,1996,10.4982,TUR
+Turkey,1997,10.3261,TUR
+Turkey,1998,10.9929,TUR
+Turkey,1999,9.9378,TUR
+Turkey,2000,9.8909,TUR
+Turkey,2001,7.9952,TUR
+Turkey,2002,8.3365,TUR
+Turkey,2003,8.5221,TUR
+Turkey,2004,9.0915,TUR
+Turkey,2005,9.9421,TUR
+Turkey,2006,11.3586,TUR
+Turkey,2007,11.3786,TUR
+Turkey,2008,11.0347,TUR
+Turkey,2009,10.0405,TUR
+Turkey,2010,11.3857,TUR
+Turkmenistan,1980,0,TKM
+Turkmenistan,1981,0,TKM
+Turkmenistan,1982,0,TKM
+Turkmenistan,1983,0,TKM
+Turkmenistan,1984,0,TKM
+Turkmenistan,1985,0,TKM
+Turkmenistan,1986,0,TKM
+Turkmenistan,1987,0,TKM
+Turkmenistan,1988,0,TKM
+Turkmenistan,1989,0,TKM
+Turkmenistan,1990,0,TKM
+Turkmenistan,1991,0,TKM
+Turkmenistan,1992,7.4242,TKM
+Turkmenistan,1993,7.7509,TKM
+Turkmenistan,1994,7.5396,TKM
+Turkmenistan,1995,7.2894,TKM
+Turkmenistan,1996,6.67,TKM
+Turkmenistan,1997,7.0295,TKM
+Turkmenistan,1998,6.8369,TKM
+Turkmenistan,1999,7.4749,TKM
+Turkmenistan,2000,8.3327,TKM
+Turkmenistan,2001,8.3938,TKM
+Turkmenistan,2002,8.7603,TKM
+Turkmenistan,2003,9.6264,TKM
+Turkmenistan,2004,9.6408,TKM
+Turkmenistan,2005,10.2068,TKM
+Turkmenistan,2006,10.2288,TKM
+Turkmenistan,2007,10.9623,TKM
+Turkmenistan,2008,11.4646,TKM
+Turkmenistan,2009,8.0786,TKM
+Turkmenistan,2010,9.4151,TKM
+Tuvalu,1980,3.1331,TUV
+Tuvalu,1981,2.7566,TUV
+Tuvalu,1982,2.2879,TUV
+Tuvalu,1983,2.4385,TUV
+Tuvalu,1984,2.246,TUV
+Tuvalu,1985,2.1713,TUV
+Tuvalu,1986,2.3899,TUV
+Tuvalu,1987,2.4506,TUV
+Tuvalu,1988,2.6317,TUV
+Tuvalu,1989,2.5676,TUV
+Tuvalu,1990,2.7324,TUV
+Tuvalu,1991,3.2118,TUV
+Tuvalu,1992,3.4205,TUV
+Tuvalu,1993,3.1521,TUV
+Tuvalu,1994,3.1762,TUV
+Tuvalu,1995,3.1223,TUV
+Tuvalu,1996,3.1369,TUV
+Tuvalu,1997,3.2791,TUV
+Tuvalu,1998,3.5957,TUV
+Tuvalu,1999,3.9569,TUV
+Tuvalu,2000,4.164,TUV
+Tuvalu,2001,4.1287,TUV
+Tuvalu,2002,3.7254,TUV
+Tuvalu,2003,3.6901,TUV
+Tuvalu,2004,3.7426,TUV
+Tuvalu,2005,3.6405,TUV
+Tuvalu,2006,3.7498,TUV
+Tuvalu,2007,4.0352,TUV
+Tuvalu,2008,4.3955,TUV
+Tuvalu,2009,4.3097,TUV
+Tuvalu,2010,4.9218,TUV
+Uganda,1980,3.9773,UGA
+Uganda,1981,4.0112,UGA
+Uganda,1982,4.0136,UGA
+Uganda,1983,4.0153,UGA
+Uganda,1984,3.8356,UGA
+Uganda,1985,3.8061,UGA
+Uganda,1986,3.7659,UGA
+Uganda,1987,3.4485,UGA
+Uganda,1988,3.4642,UGA
+Uganda,1989,3.4692,UGA
+Uganda,1990,3.5143,UGA
+Uganda,1991,3.5283,UGA
+Uganda,1992,3.4929,UGA
+Uganda,1993,3.503,UGA
+Uganda,1994,3.3958,UGA
+Uganda,1995,3.516,UGA
+Uganda,1996,3.4958,UGA
+Uganda,1997,3.468,UGA
+Uganda,1998,3.5668,UGA
+Uganda,1999,3.5215,UGA
+Uganda,2000,3.528,UGA
+Uganda,2001,3.5413,UGA
+Uganda,2002,3.5298,UGA
+Uganda,2003,3.517,UGA
+Uganda,2004,3.4059,UGA
+Uganda,2005,3.4255,UGA
+Uganda,2006,3.3978,UGA
+Uganda,2007,3.3977,UGA
+Uganda,2008,3.703,UGA
+Uganda,2009,3.8744,UGA
+Uganda,2010,3.8969,UGA
+Ukraine,1980,0,UKR
+Ukraine,1981,0,UKR
+Ukraine,1982,0,UKR
+Ukraine,1983,0,UKR
+Ukraine,1984,0,UKR
+Ukraine,1985,0,UKR
+Ukraine,1986,0,UKR
+Ukraine,1987,0,UKR
+Ukraine,1988,0,UKR
+Ukraine,1989,0,UKR
+Ukraine,1990,0,UKR
+Ukraine,1991,0,UKR
+Ukraine,1992,12.9166,UKR
+Ukraine,1993,11.4383,UKR
+Ukraine,1994,9.372,UKR
+Ukraine,1995,8.5182,UKR
+Ukraine,1996,7.0853,UKR
+Ukraine,1997,7.1268,UKR
+Ukraine,1998,6.5594,UKR
+Ukraine,1999,6.4982,UKR
+Ukraine,2000,6.5905,UKR
+Ukraine,2001,7.296,UKR
+Ukraine,2002,7.1075,UKR
+Ukraine,2003,7.3804,UKR
+Ukraine,2004,8.2783,UKR
+Ukraine,2005,8.4967,UKR
+Ukraine,2006,8.783,UKR
+Ukraine,2007,8.8937,UKR
+Ukraine,2008,9.3942,UKR
+Ukraine,2009,7.8138,UKR
+Ukraine,2010,7.3734,UKR
+United Arab Emirates,1980,28.1766,ARE
+United Arab Emirates,1981,36.7823,ARE
+United Arab Emirates,1982,33.1925,ARE
+United Arab Emirates,1983,33.9547,ARE
+United Arab Emirates,1984,46.5548,ARE
+United Arab Emirates,1985,43.9829,ARE
+United Arab Emirates,1986,34.9712,ARE
+United Arab Emirates,1987,35.1057,ARE
+United Arab Emirates,1988,33.235,ARE
+United Arab Emirates,1989,33.289,ARE
+United Arab Emirates,1990,31.4494,ARE
+United Arab Emirates,1991,31.9253,ARE
+United Arab Emirates,1992,31.5931,ARE
+United Arab Emirates,1993,32.4719,ARE
+United Arab Emirates,1994,34.7952,ARE
+United Arab Emirates,1995,37.7576,ARE
+United Arab Emirates,1996,38.353,ARE
+United Arab Emirates,1997,35.2953,ARE
+United Arab Emirates,1998,39.5997,ARE
+United Arab Emirates,1999,32.6527,ARE
+United Arab Emirates,2000,31.2689,ARE
+United Arab Emirates,2001,28.9504,ARE
+United Arab Emirates,2002,28.1132,ARE
+United Arab Emirates,2003,32.4472,ARE
+United Arab Emirates,2004,43.6012,ARE
+United Arab Emirates,2005,36.0954,ARE
+United Arab Emirates,2006,27.7825,ARE
+United Arab Emirates,2007,33.6535,ARE
+United Arab Emirates,2008,38.9398,ARE
+United Arab Emirates,2009,29.643,ARE
+United Arab Emirates,2010,26.6487,ARE
+United Kingdom,1980,13.048,GBR
+United Kingdom,1981,12.2968,GBR
+United Kingdom,1982,12.8193,GBR
+United Kingdom,1983,13.2222,GBR
+United Kingdom,1984,12.618,GBR
+United Kingdom,1985,13.3392,GBR
+United Kingdom,1986,13.8359,GBR
+United Kingdom,1987,14.3091,GBR
+United Kingdom,1988,15.3704,GBR
+United Kingdom,1989,15.4411,GBR
+United Kingdom,1990,14.3914,GBR
+United Kingdom,1991,13.9947,GBR
+United Kingdom,1992,13.8759,GBR
+United Kingdom,1993,13.4556,GBR
+United Kingdom,1994,13.9514,GBR
+United Kingdom,1995,13.7972,GBR
+United Kingdom,1996,13.3718,GBR
+United Kingdom,1997,13.4214,GBR
+United Kingdom,1998,13.274,GBR
+United Kingdom,1999,13.2538,GBR
+United Kingdom,2000,13.2425,GBR
+United Kingdom,2001,13.336,GBR
+United Kingdom,2002,12.8614,GBR
+United Kingdom,2003,12.7443,GBR
+United Kingdom,2004,13.1457,GBR
+United Kingdom,2005,12.8579,GBR
+United Kingdom,2006,12.5999,GBR
+United Kingdom,2007,12.4262,GBR
+United Kingdom,2008,11.3974,GBR
+United Kingdom,2009,10.0472,GBR
+United Kingdom,2010,9.6278,GBR
+United States of America,1980,24.6465,USA
+United States of America,1981,24.403,USA
+United States of America,1982,22.3753,USA
+United States of America,1983,21.7416,USA
+United States of America,1984,23.7917,USA
+United States of America,1985,24.2946,USA
+United States of America,1986,24.5159,USA
+United States of America,1987,25.1449,USA
+United States of America,1988,25.3137,USA
+United States of America,1989,25.266,USA
+United States of America,1990,25.4053,USA
+United States of America,1991,23.7299,USA
+United States of America,1992,24.9123,USA
+United States of America,1993,24.6875,USA
+United States of America,1994,26.3763,USA
+United States of America,1995,25.5798,USA
+United States of America,1996,26.2558,USA
+United States of America,1997,26.9375,USA
+United States of America,1998,27.7658,USA
+United States of America,1999,27.4429,USA
+United States of America,2000,27.2038,USA
+United States of America,2001,27.0578,USA
+United States of America,2002,26.1309,USA
+United States of America,2003,26.1582,USA
+United States of America,2004,27.0355,USA
+United States of America,2005,27.1997,USA
+United States of America,2006,27.3221,USA
+United States of America,2007,26.0597,USA
+United States of America,2008,24.0818,USA
+United States of America,2009,22.1547,USA
+United States of America,2010,21.0328,USA
+Uruguay,1980,25.565,URY
+Uruguay,1981,26.0038,URY
+Uruguay,1982,25.1751,URY
+Uruguay,1983,22.5099,URY
+Uruguay,1984,21.5852,URY
+Uruguay,1985,21.9234,URY
+Uruguay,1986,22.5445,URY
+Uruguay,1987,23.681,URY
+Uruguay,1988,24.0572,URY
+Uruguay,1989,22.7532,URY
+Uruguay,1990,21.8078,URY
+Uruguay,1991,22.283,URY
+Uruguay,1992,23.4542,URY
+Uruguay,1993,23.4722,URY
+Uruguay,1994,23.509,URY
+Uruguay,1995,23.3577,URY
+Uruguay,1996,25.4523,URY
+Uruguay,1997,32.1784,URY
+Uruguay,1998,31.9105,URY
+Uruguay,1999,34.7633,URY
+Uruguay,2000,33.7557,URY
+Uruguay,2001,31.0097,URY
+Uruguay,2002,31.4671,URY
+Uruguay,2003,27.9732,URY
+Uruguay,2004,34.4283,URY
+Uruguay,2005,41.8709,URY
+Uruguay,2006,41.9266,URY
+Uruguay,2007,41.5284,URY
+Uruguay,2008,42.3035,URY
+Uruguay,2009,41.6886,URY
+Uruguay,2010,41.3608,URY
+USSR,1980,18.4766,SUN
+USSR,1981,17.9748,SUN
+USSR,1982,19.1775,SUN
+USSR,1983,18.9643,SUN
+USSR,1984,17.7442,SUN
+USSR,1985,17.649,SUN
+USSR,1986,17.815,SUN
+USSR,1987,17.9206,SUN
+USSR,1988,17.9163,SUN
+USSR,1989,18.0161,SUN
+USSR,1990,16.9694,SUN
+USSR,1991,15.5631,SUN
+USSR,1992,0,SUN
+USSR,1993,0,SUN
+USSR,1994,0,SUN
+USSR,1995,0,SUN
+USSR,1996,0,SUN
+USSR,1997,0,SUN
+USSR,1998,0,SUN
+USSR,1999,0,SUN
+USSR,2000,0,SUN
+USSR,2001,0,SUN
+USSR,2002,0,SUN
+USSR,2003,0,SUN
+USSR,2004,0,SUN
+USSR,2005,0,SUN
+USSR,2006,0,SUN
+USSR,2007,0,SUN
+USSR,2008,0,SUN
+USSR,2009,0,SUN
+USSR,2010,0,SUN
+Vanuatu,1980,12.5794,VUT
+Vanuatu,1981,13.5651,VUT
+Vanuatu,1982,12.6103,VUT
+Vanuatu,1983,13.3306,VUT
+Vanuatu,1984,14.2676,VUT
+Vanuatu,1985,13.4322,VUT
+Vanuatu,1986,13.6824,VUT
+Vanuatu,1987,13.5544,VUT
+Vanuatu,1988,12.8505,VUT
+Vanuatu,1989,11.7079,VUT
+Vanuatu,1990,13.75,VUT
+Vanuatu,1991,12.3947,VUT
+Vanuatu,1992,12.4021,VUT
+Vanuatu,1993,12.4222,VUT
+Vanuatu,1994,12.2786,VUT
+Vanuatu,1995,12.392,VUT
+Vanuatu,1996,12.318,VUT
+Vanuatu,1997,13.3335,VUT
+Vanuatu,1998,13.5742,VUT
+Vanuatu,1999,12.4225,VUT
+Vanuatu,2000,11.439,VUT
+Vanuatu,2001,10.8972,VUT
+Vanuatu,2002,10.1106,VUT
+Vanuatu,2003,10.4679,VUT
+Vanuatu,2004,11.0728,VUT
+Vanuatu,2005,11.049,VUT
+Vanuatu,2006,10.9548,VUT
+Vanuatu,2007,11.9303,VUT
+Vanuatu,2008,11.564,VUT
+Vanuatu,2009,10.8238,VUT
+Vanuatu,2010,12.0448,VUT
+Venezuela,1980,10.7671,VEN
+Venezuela,1981,11.3966,VEN
+Venezuela,1982,11.6955,VEN
+Venezuela,1983,10.9256,VEN
+Venezuela,1984,10.2663,VEN
+Venezuela,1985,10.5568,VEN
+Venezuela,1986,11.9129,VEN
+Venezuela,1987,11.7957,VEN
+Venezuela,1988,11.6436,VEN
+Venezuela,1989,10.2204,VEN
+Venezuela,1990,9.0153,VEN
+Venezuela,1991,13.0827,VEN
+Venezuela,1992,13.0149,VEN
+Venezuela,1993,12.3803,VEN
+Venezuela,1994,10.684,VEN
+Venezuela,1995,12.609,VEN
+Venezuela,1996,11.1611,VEN
+Venezuela,1997,12.1446,VEN
+Venezuela,1998,11.3708,VEN
+Venezuela,1999,10.5031,VEN
+Venezuela,2000,11.6307,VEN
+Venezuela,2001,11.1781,VEN
+Venezuela,2002,10.5578,VEN
+Venezuela,2003,10.187,VEN
+Venezuela,2004,10.0196,VEN
+Venezuela,2005,9.8102,VEN
+Venezuela,2006,10.9199,VEN
+Venezuela,2007,12.1124,VEN
+Venezuela,2008,11.4551,VEN
+Venezuela,2009,10.7276,VEN
+Venezuela,2010,8.893,VEN
+Viet Nam,1980,1.5706,VNM
+Viet Nam,1981,1.5751,VNM
+Viet Nam,1982,1.672,VNM
+Viet Nam,1983,1.7198,VNM
+Viet Nam,1984,1.7548,VNM
+Viet Nam,1985,1.7507,VNM
+Viet Nam,1986,2.4077,VNM
+Viet Nam,1987,2.4545,VNM
+Viet Nam,1988,1.8559,VNM
+Viet Nam,1989,1.8548,VNM
+Viet Nam,1990,1.8682,VNM
+Viet Nam,1991,1.925,VNM
+Viet Nam,1992,2.0777,VNM
+Viet Nam,1993,2.1085,VNM
+Viet Nam,1994,2.2473,VNM
+Viet Nam,1995,2.5483,VNM
+Viet Nam,1996,2.6907,VNM
+Viet Nam,1997,2.8328,VNM
+Viet Nam,1998,3.0492,VNM
+Viet Nam,1999,3.1571,VNM
+Viet Nam,2000,3.5518,VNM
+Viet Nam,2001,3.7564,VNM
+Viet Nam,2002,4.6861,VNM
+Viet Nam,2003,6.046,VNM
+Viet Nam,2004,6.1415,VNM
+Viet Nam,2005,6.9256,VNM
+Viet Nam,2006,6.7596,VNM
+Viet Nam,2007,7.0304,VNM
+Viet Nam,2008,7.9853,VNM
+Viet Nam,2009,8.4112,VNM
+Viet Nam,2010,8.5556,VNM
+Yemen,1980,1.3587,YEM
+Yemen,1981,1.3284,YEM
+Yemen,1982,1.4186,YEM
+Yemen,1983,1.6342,YEM
+Yemen,1984,2.2635,YEM
+Yemen,1985,2.2029,YEM
+Yemen,1986,2.0424,YEM
+Yemen,1987,1.7996,YEM
+Yemen,1988,1.8159,YEM
+Yemen,1989,1.7895,YEM
+Yemen,1990,1.8601,YEM
+Yemen,1991,2.0059,YEM
+Yemen,1992,1.9059,YEM
+Yemen,1993,1.8721,YEM
+Yemen,1994,1.8614,YEM
+Yemen,1995,2.0557,YEM
+Yemen,1996,2.1396,YEM
+Yemen,1997,2.0255,YEM
+Yemen,1998,2.0286,YEM
+Yemen,1999,2.1656,YEM
+Yemen,2000,2.1283,YEM
+Yemen,2001,2.749,YEM
+Yemen,2002,2.4634,YEM
+Yemen,2003,2.8982,YEM
+Yemen,2004,2.7686,YEM
+Yemen,2005,2.9616,YEM
+Yemen,2006,2.8187,YEM
+Yemen,2007,3.0655,YEM
+Yemen,2008,2.9419,YEM
+Yemen,2009,2.6725,YEM
+Yemen,2010,2.4505,YEM
+Yugoslavia SFR,1980,12.3113,YUG
+Yugoslavia SFR,1981,12.742,YUG
+Yugoslavia SFR,1982,12.8409,YUG
+Yugoslavia SFR,1983,12.7434,YUG
+Yugoslavia SFR,1984,12.9778,YUG
+Yugoslavia SFR,1985,12.5007,YUG
+Yugoslavia SFR,1986,12.9439,YUG
+Yugoslavia SFR,1987,12.5188,YUG
+Yugoslavia SFR,1988,11.7408,YUG
+Yugoslavia SFR,1989,12.4452,YUG
+Yugoslavia SFR,1990,12.1795,YUG
+Yugoslavia SFR,1991,11.6875,YUG
+Yugoslavia SFR,1992,0,YUG
+Yugoslavia SFR,1993,0,YUG
+Yugoslavia SFR,1994,0,YUG
+Yugoslavia SFR,1995,0,YUG
+Yugoslavia SFR,1996,0,YUG
+Yugoslavia SFR,1997,0,YUG
+Yugoslavia SFR,1998,0,YUG
+Yugoslavia SFR,1999,0,YUG
+Yugoslavia SFR,2000,0,YUG
+Yugoslavia SFR,2001,0,YUG
+Yugoslavia SFR,2002,0,YUG
+Yugoslavia SFR,2003,0,YUG
+Yugoslavia SFR,2004,0,YUG
+Yugoslavia SFR,2005,0,YUG
+Yugoslavia SFR,2006,0,YUG
+Yugoslavia SFR,2007,0,YUG
+Yugoslavia SFR,2008,0,YUG
+Yugoslavia SFR,2009,0,YUG
+Yugoslavia SFR,2010,0,YUG
+Zambia,1980,13.2108,ZMB
+Zambia,1981,12.6579,ZMB
+Zambia,1982,11.4309,ZMB
+Zambia,1983,12.0109,ZMB
+Zambia,1984,11.4053,ZMB
+Zambia,1985,10.347,ZMB
+Zambia,1986,10.0307,ZMB
+Zambia,1987,10.102,ZMB
+Zambia,1988,9.9394,ZMB
+Zambia,1989,9.8884,ZMB
+Zambia,1990,9.734,ZMB
+Zambia,1991,7.9395,ZMB
+Zambia,1992,7.8362,ZMB
+Zambia,1993,7.7527,ZMB
+Zambia,1994,6.7988,ZMB
+Zambia,1995,6.0727,ZMB
+Zambia,1996,5.8916,ZMB
+Zambia,1997,5.819,ZMB
+Zambia,1998,6.2603,ZMB
+Zambia,1999,4.9523,ZMB
+Zambia,2000,4.6833,ZMB
+Zambia,2001,5.0702,ZMB
+Zambia,2002,4.9462,ZMB
+Zambia,2003,5.5124,ZMB
+Zambia,2004,5.9157,ZMB
+Zambia,2005,6.2152,ZMB
+Zambia,2006,6.699,ZMB
+Zambia,2007,6.5687,ZMB
+Zambia,2008,6.6671,ZMB
+Zambia,2009,7.2989,ZMB
+Zambia,2010,8.149,ZMB
+Zimbabwe,1980,6.1345,ZWE
+Zimbabwe,1981,6.361,ZWE
+Zimbabwe,1982,6.1064,ZWE
+Zimbabwe,1983,5.459,ZWE
+Zimbabwe,1984,5.3213,ZWE
+Zimbabwe,1985,5.6501,ZWE
+Zimbabwe,1986,5.7104,ZWE
+Zimbabwe,1987,5.4583,ZWE
+Zimbabwe,1988,5.4221,ZWE
+Zimbabwe,1989,5.2426,ZWE
+Zimbabwe,1990,5.2527,ZWE
+Zimbabwe,1991,5.0758,ZWE
+Zimbabwe,1992,4.4688,ZWE
+Zimbabwe,1993,4.0118,ZWE
+Zimbabwe,1994,4.4706,ZWE
+Zimbabwe,1995,4.149,ZWE
+Zimbabwe,1996,4.7771,ZWE
+Zimbabwe,1997,4.8884,ZWE
+Zimbabwe,1998,4.7497,ZWE
+Zimbabwe,1999,4.727,ZWE
+Zimbabwe,2000,4.5754,ZWE
+Zimbabwe,2001,4.4421,ZWE
+Zimbabwe,2002,3.7508,ZWE
+Zimbabwe,2003,3.6966,ZWE
+Zimbabwe,2004,3.8391,ZWE
+Zimbabwe,2005,3.6948,ZWE
+Zimbabwe,2006,3.5791,ZWE
+Zimbabwe,2007,3.2518,ZWE
+Zimbabwe,2008,3.0016,ZWE
+Zimbabwe,2009,3.1961,ZWE
+Zimbabwe,2010,3.8851,ZWE
