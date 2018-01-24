@@ -1,13 +1,95 @@
 setwd("C:/Users/maximilien.gueze/OneDrive - United Nations Development Programme/Mapping/Ch2_Drivers/Eduardo_materials/R")
 library(downloader)
 
-#OPEN FROM URL >DOESNT WORK!!!!
+### DATA FILES (ISO3 added, saved in GitHub)
+library(RCurl)
+library(plyr)
+extr_abs <-read.csv(text=getURL("https://raw.githubusercontent.com/maxgueze/Ch2Drivers_visuals/master/tot_extr_abs.csv"), header=T)
+cons_abs <-read.csv(text=getURL("https://raw.githubusercontent.com/maxgueze/Ch2Drivers_visuals/master/tot_cons_abs.csv"), header=T)
+cons_perc <-read.csv(text=getURL("https://raw.githubusercontent.com/maxgueze/Ch2Drivers_visuals/master/tot_cons_percap.csv"), header=T)
+trad_abs <-read.csv(text=getURL("https://raw.githubusercontent.com/maxgueze/Ch2Drivers_visuals/master/tot_trade_abs.csv"), header=T)
+#extract values for 1980 and 2008
+extr_abs_1980<-subset(extr_abs, year==1980)
+cons_abs_1980<-subset(cons_abs, year==1980)
+cons_perc_1980<-subset(cons_perc, year==1980)
+trad_abs_1980<-subset(trad_abs, year==1980)
+extr_abs_2008<-subset(extr_abs, year==2008)
+cons_abs_2008<-subset(cons_abs, year==2008)
+cons_perc_2008<-subset(cons_perc, year==2008)
+trad_abs_2008<-subset(trad_abs, year==2008)
+rename(extr_abs_1980, c("year"="extr_abs_1980"))
+rename(cons_abs_1980, c("year"="cons_abs_1980"))
+rename(cons_perc_1980, c("year"="cons_perc_1980"))
+rename(trad_abs_1980, c("year"="trad_abs_1980"))
+rename(extr_abs_2008, c("year"="extr_abs_2008"))
+rename(cons_abs_2008, c("year"="cons_abs_2008"))
+rename(cons_perc_2008, c("year"="cons_perc_2008"))
+rename(trad_abs_2008, c("year"="trad_abs_2008"))
+#merge files
+x<-merge(extr_abs_1980, extr_abs_2008, by.x="iso3c", by.y="iso3c", all=T)
+x1<-merge(cons_abs_1980, cons_abs_2008, by.x="iso3c", by.y="iso3c", all=T)
+x2<-merge(cons_perc_1980, cons_perc_2008, by.x="iso3c", by.y="iso3c", all=T)
+x3<-merge(trad_abs_1980, trad_abs_2008, by.x="iso3c", by.y="iso3c", all=T)
+x4<-merge(x, x1, by.x="iso3c", by.y="iso3c", all=T)
+x5<-merge(x2, x3, by.x="iso3c", by.y="iso3c", all=T)
+materials<-merge(x4, x5, by.x="iso3c", by.y="iso3c", all=T)
+#rename columns
+colnames(materials)[4] <- "extr_abs_1980"
+colnames(materials)[7] <- "extr_abs_2008"
+colnames(materials)[10] <- "cons_abs_1980"
+colnames(materials)[13] <- "cons_abs_2008"
+colnames(materials)[16] <- "cons_perc_1980"
+colnames(materials)[19] <- "cons_perc_2008"
+colnames(materials)[22] <- "ptb_abs_1980"
+colnames(materials)[25] <- "ptb_abs_2008"
+#remove useless columns
+materials$year.x.x.x<-NULL
+materials$country.y.x.x<-NULL
+materials$year.y.x.x<-NULL
+materials$country.x.y.x<-NULL
+materials$year.x.y.x<-NULL
+materials$country.y.y.x<-NULL
+materials$year.y.y.x<-NULL
+materials$country.x.x.y<-NULL
+materials$year.x.x.y<-NULL
+materials$country.y.x.y<-NULL
+materials$year.y.x.y<-NULL
+materials$country.x.y.y<-NULL
+materials$year.x.y.y<-NULL
+materials$country.y.y.y<-NULL
+materials$year.y.y.y<-NULL
 
-url<-"http://www.materialflows.net/mmm_vis/excel_mth.php?year_from=2013|2012|2011|2010|2009|2008|2007|2006|2005|2004|2003|2002|2001|2000|1999|1998|1997|1996|1995|1994|1993|1992|1991|1990|1989|1988|1987|1986|1985|1984|1983|1982|1981|1980&year_to=2013&flowtypeid=extr&extractionid=total&referenceid=abs&reportlineid=all&reportsublineid=all&country_group=TOT&countryid=AF|AL|DZ|AS|AO|AI|AG|AR|AM|AW|AU|AT|AZ|BS|BH|BD|BB|BY|BE|BZ|BJ|BM|BT|BO|BA|BW|BR|IO|VG|BN|BG|BF|BI|KH|CM|CA|CV|KY|CF|TD|CL|CN|CX|CC|CO|KM|CK|CR|CI|HR|CU|CY|CZ|CS|DK|DJ|DM|DO|CD|EC|EG|SV|GQ|ER|EE|ET|FK|FO|FJ|FI|FR|GF|PF|GA|GM|GE|DE|GH|GI|GR|GD|GP|GU|GT|GN|GW|GY|HT|HN|HU|IS|IN|ID|IR|IQ|IE|IL|IT|JM|JP|Jo|KZ|KE|KI|KW|KG|LA|LV|LB|LS|LR|LY|LI|LT|LX|MK|MG|MW|MY|MV|ML|MT|MH|MQ|MR|MU|YT|MX|FM|MD|MN|MS|MA|MZ|MM|NA|NR|NP|NL|AN|NC|NZ|NI|NE|NG|NU|NF|KP|MP|NO|OM|PK|PW|PS|PA|PG|PY|PE|PH|PN|PL|PT|PR|QA|CG|RE|RO|RU|RW|SH|KN|LC|PM|VC|WS|SM|ST|SA|SN|RS|SC|SL|SG|SK|SI|SB|SO|ZA|KR|ES|LK|SD|SR|SZ|SE|CH|SY|TW|TJ|TZ|TH|TL|TG|TK|TO|TT|TN|TR|TM|TC|TV|UG|UA|AE|GB|US|UY|VI|SU|UZ|VU|VE|VN|WF|YE|YU|ZM|ZW&debug=false&rnd=1516194929098&titeltext=huiasdhu"
-destfile<-"extract_abs.xls"
-download(url, destfile)
 
-### OPEN FROM FILE (MODIFIED AND SAVED)
-# Assign ISO3 codes????
+### PREPARE SHAPEFILE IPBES REGIONS AND SUBREGIONS, and join with data 
+library(maptools)
+library(raster)
+library(rgdal)
+library(gridExtra)
+
+shapefile<-readShapePoly("C:/Users/maximilien.gueze/OneDrive - United Nations Development Programme/Mapping/Shapefiles IPBES regions/Shapefiles IPBES 20180110/IPBES_Regions_20170308.shp")
+colnames(shapefile@data)[3] <- "iso3c"
+shp<-merge(shapefile, materials, by='iso3c')
+#remove EEZ and save shp
+shp_land<-shp[shp$type=="Land",]
+writeOGR(obj=shp_land, dsn ="shapefile" , layer="shp_land", driver="ESRI Shapefile") #the dsn here is newly created with this command
+
+
+### MAP1: EXTRACTION ABSOLUTE  + CONSUMPTION ABSOLUTE, PER IPBES REGION, 1980
+#CONSUMPTION ON A COLOR RAMP
+#EXTRACTION HATCHED
+reg.coords <- coordinates(shp_land)
+reg.id <- cut(reg.coords[,1], quantile(reg.coords[,1]), include.lowest=TRUE)
+reg.union<-unionSpatialPolygons(shp_land, reg.id)
+
+
+### MAP2: EXTRACTION ABSOLUTE  + CONSUMPTION ABSOLUTE, PER IPBES REGION, 2008
+#CONSUMPTION ON A COLOR RAMP
+#EXTRACTION HATCHED
+
+### MAP3: CONSUMPTION PER CAPITA, 1980
+
+### MAP4: CONSUMPTION PER CAPITA, 2008
+
+### GRAPH1: TRADE BALANCE, ABSOLUTE 
 
 
