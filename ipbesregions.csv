@@ -1,0 +1,245 @@
+ipbesreg,ipbesreg_code,ipbessub,ipbessub_code,country,iso3c,overseas,CountryNo,Area_Country
+Americas,2,Caribbean,21,Aruba,ABW,1,11,189.420844
+Asia and the Pacific,3,South Asia,33,Afghanistan,AFG,0,1,642899.1342
+Africa,1,Southern Africa,14,Angola,AGO,0,6,1255217.852
+Americas,2,Caribbean,21,Anguilla,AIA,0,7,85.52441731
+Europe and Central Asia,4,Central Europe,42,Albania,ALB,0,2,28746.5563
+Europe and Central Asia,4,Western Europe,44,Andorra,AND,0,5,471.8707241
+Asia and the Pacific,3,Western Asia,35,United Arab Emirates,ARE,0,228,70921.45738
+Americas,2,South America,24,Argentina,ARG,0,9,2785327.721
+Europe and Central Asia,4,Eastern Europe,43,Armenia,ARM,0,10,29685.40559
+Asia and the Pacific,3,Oceania,32,American Samoa,ASM,1,4,210.578755
+Americas,2,Caribbean,21,Antigua and Barbuda,ATG,0,8,455.2379755
+Asia and the Pacific,3,Oceania,32,Australia,AUS,0,12,7722102.022
+Europe and Central Asia,4,Western Europe,44,Austria,AUT,0,13,83912.25912
+Europe and Central Asia,4,Eastern Europe,43,Azerbaijan,AZE,0,14,86639.62334
+Africa,1,Central Africa,11,Burundi,BDI,0,35,27210.87243
+Europe and Central Asia,4,Western Europe,44,Belgium,BEL,0,20,30683.07213
+Africa,1,West Africa,15,Benin,BEN,0,22,116095.3632
+Americas,2,Caribbean,21,"Bonaire, Sint Eustatius, and Saba",BES,1,26,322.8524959
+Africa,1,West Africa,15,Burkina Faso,BFA,0,34,276403.7182
+Asia and the Pacific,3,South Asia,33,Bangladesh,BGD,0,17,140160.1678
+Europe and Central Asia,4,Central Europe,42,Bulgaria,BGR,0,33,110862.7479
+Asia and the Pacific,3,Western Asia,35,Bahrain,BHR,0,16,686.8574029
+Americas,2,Caribbean,21,Bahamas,BHS,1,15,13458.00624
+Europe and Central Asia,4,Central Europe,42,Bosnia and Herzegovina,BIH,0,27,51225.15128
+Americas,2,Caribbean,21,Saint Barthelemy,BLM,1,180,25.10970656
+Europe and Central Asia,4,Eastern Europe,43,Belarus,BLR,0,19,207228.0654
+Americas,2,Mesoamerica,22,Belize,BLZ,0,21,22297.76618
+Americas,2,Caribbean,21,Bermuda,BMU,1,23,72.47842171
+Americas,2,South America,24,Bolivia (Plurinational State of),BOL,0,25,1089908.94
+Americas,2,South America,24,Brazil,BRA,0,29,8529399.243
+Americas,2,Caribbean,21,Barbados,BRB,0,18,444.0685193
+Asia and the Pacific,3,South-East Asia,34,Brunei Darussalam,BRN,0,32,5961.686662
+Asia and the Pacific,3,South Asia,33,Bhutan,BTN,0,24,39933.48814
+Africa,1,Southern Africa,14,Botswana,BWA,0,28,581162.9215
+Africa,1,Central Africa,11,Central African Republic,CAF,0,41,624568.0306
+Americas,2,North America,23,Canada,CAN,0,39,9955032.941
+Asia and the Pacific,3,South-East Asia,34,Cocos (Keeling) Islands,CCK,1,46,17.9483308
+Europe and Central Asia,4,Western Europe,44,Switzerland,CHE,0,211,41355.27022
+Americas,2,South America,24,Chile,CHL,0,43,759649.0511
+Asia and the Pacific,3,North-East Asia,31,China,CHN,0,44,9361608.881
+Africa,1,West Africa,15,Cote d'Ivoire,CIV,0,53,324107.7064
+Africa,1,Central Africa,11,Cameroon,CMR,0,38,469428.0915
+Africa,1,Central Africa,11,Democratic Republic of the Congo,COD,0,60,2344275.114
+Africa,1,Central Africa,11,Congo,COG,0,50,343736.7395
+Asia and the Pacific,3,Oceania,32,Cook Islands,COK,0,51,258.1419108
+Americas,2,South America,24,Colombia,COL,0,47,1145032.899
+Africa,1,East Africa and adjacent islands,12,Comoros,COM,0,49,1701.123719
+Africa,1,West Africa,15,Cabo Verde,CPV,0,36,4148.996795
+Americas,2,Mesoamerica,22,Costa Rica,CRI,0,52,51636.14199
+Americas,2,Caribbean,21,Cuba,CUB,0,55,111643.2783
+Americas,2,Caribbean,21,Curacao,CUW,1,56,450.9753848
+Asia and the Pacific,3,South-East Asia,34,Christmas Island,CXR,1,45,142.4169545
+Americas,2,Caribbean,21,Cayman Islands,CYM,1,40,289.2668657
+Europe and Central Asia,4,Central Europe,42,Cyprus,CYP,0,57,9063.433945
+Europe and Central Asia,4,Central Europe,42,Czech Republic,CZE,0,58,77916.89786
+Europe and Central Asia,4,Western Europe,44,Germany,DEU,0,83,357584.3854
+Africa,1,East Africa and adjacent islands,12,Djibouti,DJI,0,62,21843.65212
+Americas,2,Caribbean,21,Dominica,DMA,0,63,766.2278395
+Europe and Central Asia,4,Western Europe,44,Denmark,DNK,0,61,45314.39778
+Americas,2,Caribbean,21,Dominican Republic,DOM,0,64,48509.80547
+Africa,1,North Africa,13,Algeria,DZA,0,3,2324458.588
+Americas,2,South America,24,Ecuador,ECU,0,66,258138.6687
+Africa,1,North Africa,13,Egypt,EGY,0,67,984997.4881
+Africa,1,East Africa and adjacent islands,12,Eritrea,ERI,0,70,121834.4031
+Africa,1,North Africa,13,Western Sahara,ESH,1,241,268339.2162
+Europe and Central Asia,4,Western Europe,44,Spain,ESP,0,203,507013.405
+Europe and Central Asia,4,Central Europe,42,Estonia,EST,0,71,45416.48284
+Africa,1,East Africa and adjacent islands,12,Ethiopia,ETH,0,72,1135429.227
+Europe and Central Asia,4,Western Europe,44,Finland,FIN,0,76,337725.5344
+Asia and the Pacific,3,Oceania,32,Fiji,FJI,0,75,19154.95614
+Americas,2,South America,24,Falkland Islands (Malvinas),FLK,1,73,12400.947
+Europe and Central Asia,4,Western Europe,44,France,FRA,0,77,548954.0701
+Europe and Central Asia,4,Western Europe,44,Faroe Islands,FRO,1,74,1450.644909
+Asia and the Pacific,3,Oceania,32,Micronesia (Federated States of),FSM,0,140,817.1586813
+Africa,1,Central Africa,11,Gabon,GAB,0,80,266044.6066
+Europe and Central Asia,4,Western Europe,44,United Kingdom of Great Britain and Northern Ireland,GBR,0,229,245247.5873
+Europe and Central Asia,4,Eastern Europe,43,Georgia,GEO,0,82,69971.96837
+Europe and Central Asia,4,Western Europe,44,Guernsey,GGY,1,92,85.55974081
+Africa,1,West Africa,15,Ghana,GHA,0,84,240329.9832
+Europe and Central Asia,4,Western Europe,44,Gibraltar,GIB,1,85,7.483277365
+Africa,1,West Africa,15,Guinea,GIN,0,93,246426.8074
+Americas,2,Caribbean,21,Guadeloupe,GLP,1,89,1678.541217
+Africa,1,West Africa,15,Gambia,GMB,0,81,10757.9084
+Africa,1,West Africa,15,Guinea-Bissau,GNB,0,94,34015.72122
+Africa,1,Central Africa,11,Equatorial Guinea,GNQ,0,69,27136.01782
+Europe and Central Asia,4,Western Europe,44,Greece,GRC,0,86,133012.2689
+Americas,2,Caribbean,21,Grenada,GRD,0,88,373.5652436
+Americas ,2,North America,23,Greenland,GRL,1,87,2154016.464
+Americas,2,Mesoamerica,22,Guatemala,GTM,0,91,109922.2585
+Americas,2,South America,24,French Guiana,GUF,1,78,83034.50925
+Asia and the Pacific,3,Oceania,32,Guam,GUM,1,90,561.2409013
+Americas,2,South America,24,Guyana,GUY,0,95,211200.2683
+Americas,2,Mesoamerica,22,Honduras,HND,0,99,113291.4823
+Europe and Central Asia,4,Central Europe,42,Croatia,HRV,0,54,56855.88522
+Americas,2,Caribbean,21,Haiti,HTI,0,96,27390.24191
+Europe and Central Asia,4,Central Europe,42,Hungary,HUN,0,100,93142.45067
+Asia and the Pacific,3,South-East Asia,34,Indonesia,IDN,0,103,1906555.047
+Asia and the Pacific,3,South Asia,33,India,IND,0,102,3061193.496
+Europe and Central Asia,4,Western Europe,44,Isle of Man,IOM,1,107,582.2265924
+Asia and the Pacific,3,South Asia,33,British Indian Ocean Territory,IOT,1,30,68.95284598
+Europe and Central Asia,4,Western Europe,44,Ireland,IRL,0,106,70128.37704
+Asia and the Pacific,3,South Asia,33,Iran (Islamic Republic of),IRN,0,104,1627857.17
+Asia and the Pacific,3,Western Asia,35,Iraq,IRQ,0,105,437830.5052
+Europe and Central Asia,4,Western Europe,44,Iceland,ISL,0,101,102301.7663
+Europe and Central Asia,4,Western Europe,44,Israel,ISR,0,108,20958.0329
+Europe and Central Asia,4,Western Europe,44,Italy,ITA,0,109,301335.3097
+Americas,2,Caribbean,21,Jamaica,JAM,0,110,11058.94539
+Europe and Central Asia,4,Western Europe,44,Jersey,JEY,1,112,125.218467
+Asia and the Pacific,3,Western Asia,35,Jordan,JOR,0,113,89689.84024
+Asia and the Pacific,3,North-East Asia,31,Japan,JPN,0,111,374092.7945
+Europe and Central Asia,4,Central Asia,41,Kazakhstan,KAZ,0,114,2719827.869
+Africa,1,East Africa and adjacent islands,12,Kenya,KEN,0,115,586770.0015
+Europe and Central Asia,4,Central Asia,41,Kyrgyzstan,KGZ,0,118,199957.0236
+Asia and the Pacific,3,South-East Asia,34,Cambodia,KHM,0,37,182510.8526
+Asia and the Pacific,3,Oceania,32,Kiribati,KIR,0,116,1032.564654
+Americas,2,Caribbean,21,Saint Kitts and Nevis,KNA,0,182,270.8250579
+Asia and the Pacific,3,North-East Asia,31,Republic of Korea,KOR,0,174,99712.88376
+Asia and the Pacific,3,Western Asia,35,Kuwait,KWT,0,117,17417.87587
+Asia and the Pacific,3,South-East Asia,34,Lao People's Democratic Republic,LAO,0,119,231276.1399
+Asia and the Pacific,3,Western Asia,35,Lebanon,LBN,0,121,10329.04876
+Africa,1,West Africa,15,Liberia,LBR,0,123,96634.42399
+Africa,1,North Africa,13,Libya,LBY,0,124,1622615.431
+Americas,2,Caribbean,21,Saint Lucia,LCA,0,183,622.3111367
+Europe and Central Asia,4,Western Europe,44,Liechtenstein,LIE,0,125,167.0643488
+Asia and the Pacific,3,South Asia,33,Sri Lanka,LKA,0,204,66631.50337
+Africa,1,Southern Africa,14,Lesotho,LSO,0,122,30494.99377
+Europe and Central Asia,4,Central Europe,42,Lithuania,LTU,0,126,64696.51583
+Europe and Central Asia,4,Western Europe,44,Luxembourg,LUX,0,127,2603.081524
+Europe and Central Asia,4,Central Europe,42,Latvia,LVA,0,120,64501.94768
+Americas,2,Caribbean,21,Saint Martin,MAF,1,184,59.5782861
+Africa,1,North Africa,13,Morocco,MAR,0,145,407280.495
+Europe and Central Asia,4,Western Europe,44,Monaco,MCO,0,141,1.595193603
+Europe and Central Asia,4,Eastern Europe,43,Republic of Moldova,MDA,0,175,33963.76161
+Africa,1,East Africa and adjacent islands,12,Madagascar,MDG,0,128,594718.7259
+Asia and the Pacific,3,South Asia,33,Maldives,MDV,0,131,304.6660953
+Americas,2,Mesoamerica,22,Mexico,MEX,0,139,1965284.828
+Asia and the Pacific,3,Oceania,32,Marshall Islands,MHL,0,134,281.9280352
+Europe and Central Asia,4,Central Europe,42,The former Yugoslav Republic of Macedonia,MKD,0,215,25443.14057
+Africa,1,West Africa,15,Mali,MLI,0,132,1256684.114
+Europe and Central Asia,4,Western Europe,44,Malta,MLT,0,133,324.9704658
+Asia and the Pacific,3,South-East Asia,34,Myanmar,MMR,0,147,673078.5676
+Europe and Central Asia,4,Central Europe,42,Montenegro,MNE,0,143,13847.56188
+Asia and the Pacific,3,North-East Asia,31,Mongolia,MNG,0,142,1565864.159
+Asia and the Pacific,3,Oceania,32,Commonwealth of the Northern Mariana Islands,MNP,1,48,773667.8566
+Africa,1,Southern Africa,14,Mozambique,MOZ,0,146,791081.8731
+Africa,1,North Africa,13,Mauritania,MRT,0,136,1046302.522
+Americas,2,Caribbean,21,Montserrat,MSR,1,144,100.6643809
+Americas,2,Caribbean,21,Martinique,MTQ,1,135,1149.925062
+Africa,1,East Africa and adjacent islands,12,Mauritius,MUS,0,137,2062.481937
+Africa,1,Southern Africa,14,Malawi,MWI,0,129,118859.7323
+Asia and the Pacific,3,South-East Asia,34,Malaysia,MYS,0,130,331700.5726
+Africa,1,East Africa and adjacent islands,12,Mayotte,MYT,1,138,396.3774077
+Africa,1,Southern Africa,14,Namibia,NAM,0,148,827465.4339
+Asia and the Pacific,3,Oceania,32,New Caledonia,NCL,1,152,19141.03171
+Africa,1,West Africa,15,Niger,NER,0,155,1190098.655
+Asia and the Pacific,3,Oceania,32,Norfolk Island,NFK,1,158,42.77896605
+Africa,1,West Africa,15,Nigeria,NGA,0,156,914306.1122
+Americas,2,Mesoamerica,22,Nicaragua,NIC,0,154,129222.3127
+Asia and the Pacific,3,Oceania,32,Niue,NIU,0,157,267.7555268
+Europe and Central Asia,4,Western Europe,44,Netherlands,NLD,0,151,35205.61182
+Europe and Central Asia,4,Western Europe,44,Norway,NOR,0,159,325287.8156
+Asia and the Pacific,3,South Asia,33,Nepal,NPL,0,150,147709.5419
+Asia and the Pacific,3,Oceania,32,Nauru,NRU,0,149,22.78627619
+Asia and the Pacific,3,Oceania,32,New Zealand,NZL,0,153,269651.6705
+Asia and the Pacific,3,Western Asia,35,Oman,OMN,0,161,310373.1429
+Asia and the Pacific,3,South Asia,33,Pakistan,PAK,0,162,798143.6542
+Americas,2,Mesoamerica,22,Panama,PAN,0,164,75497.94621
+Asia and the Pacific,3,Oceania,32,Pitcairn Island,PCN,1,169,45.58994285
+Americas,2,South America,24,Peru,PER,0,167,1298537.038
+Asia and the Pacific,3,South-East Asia,34,Philippines,PHL,0,168,298774.9046
+Asia and the Pacific,3,Oceania,32,Palau,PLW,0,163,501.1013862
+Asia and the Pacific,3,Oceania,32,Papua New Guinea,PNG,0,165,467405.9203
+Europe and Central Asia,4,Central Europe,42,Poland,POL,0,170,311923.5191
+Americas,2,Caribbean,21,Puerto Rico,PRI,1,172,9041.14294
+Asia and the Pacific,3,North-East Asia,31,Democratic People's Republic of Korea,PRK,0,59,122186.1412
+Europe and Central Asia,4,Western Europe,44,Portugal,PRT,0,171,92141.09473
+Americas,2,South America,24,Paraguay,PRY,0,166,401498.4235
+Asia and the Pacific,3,Western Asia,35,State of Palestine,PSE,0,205,6181.987004
+Asia and the Pacific,3,Oceania,32,French Polynesia,PYF,1,79,3780.061341
+Asia and the Pacific,3,Western Asia,35,Qatar,QAT,0,173,11435.55274
+Africa,1,East Africa and adjacent islands,12,Reunion,REU,1,176,2536.304619
+Europe and Central Asia,4,Central Europe,42,Romania,ROU,0,177,237452.8706
+Europe and Central Asia,4,Eastern Europe,43,Russian Federation,RUS,0,178,16874835.52
+Africa,1,East Africa and adjacent islands,12,Rwanda,RWA,0,179,25452.13068
+Asia and the Pacific,3,Western Asia,35,Saudi Arabia,SAU,0,190,1934058.339
+Africa,1,North Africa,13,Sudan,SDN,0,206,1871251.813
+Africa,1,West Africa,15,Senegal,SEN,0,191,197923.9723
+Asia and the Pacific,3,South-East Asia,34,Singapore,SGP,0,195,604.6461284
+Africa,1,Southern Africa,14,"Saint Helena, Ascension and Tristan da Cunha",SHN,1,181,434.3432138
+Europe and Central Asia,4,Western Europe,44,Svalbard and Jan Mayen Islands,SJM,1,208,61261.11552
+Asia and the Pacific,3,Oceania,32,Solomon Islands,SLB,0,199,29191.64527
+Africa,1,West Africa,15,Sierra Leone,SLE,0,194,72709.02891
+Americas,2,Mesoamerica,22,El Salvador,SLV,0,68,20573.30437
+Europe and Central Asia,4,Western Europe,44,San Marino,SMR,0,188,61.54924276
+Africa,1,East Africa and adjacent islands,12,Somalia,SOM,0,200,637991.5854
+Americas,2,North America,23,Saint Pierre and Miquelon,SPM,1,185,237.5892672
+Europe and Central Asia,4,Central Europe,42,Serbia,SRB,0,192,88509.11514
+Africa,1,East Africa and adjacent islands,12,South Sudan,SSD,0,202,633580.4791
+Africa,1,Central Africa,11,Sao Tome and Principe,STP,0,189,989.259888
+Americas,2,South America,24,Suriname,SUR,0,207,147558.4488
+Europe and Central Asia,4,Central Europe,42,Slovakia,SVK,0,197,48941.21743
+Europe and Central Asia,4,Central Europe,42,Slovenia,SVN,0,198,20308.54692
+Europe and Central Asia,4,Western Europe,44,Sweden,SWE,0,210,449390.1761
+Africa,1,Southern Africa,14,Swaziland,SWZ,0,209,17335.867
+Americas,2,Caribbean,21,Sint Maarten,SXM,1,196,36.45542402
+Africa,1,East Africa and adjacent islands,12,Seychelles,SYC,0,193,486.8645745
+Asia and the Pacific,3,Western Asia,35,Syrian Arab Republic,SYR,0,212,188612.6151
+Americas,2,Caribbean,21,Turks and Caicos Islands,TCA,1,224,1018.174578
+Africa,1,Central Africa,11,Chad,TCD,0,42,1276585.969
+Africa,1,West Africa,15,Togo,TGO,0,217,57480.648
+Asia and the Pacific,3,South-East Asia,34,Thailand,THA,0,214,517786.6125
+Europe and Central Asia,4,Central Asia,41,Tajikistan,TJK,0,213,142244.2178
+Asia and the Pacific,3,Oceania,32,Tokelau,TKL,1,218,15.18130707
+Europe and Central Asia,4,Central Asia,41,Turkmenistan,TKM,0,223,472137.5437
+Asia and the Pacific,3,South-East Asia,34,Timor-Leste,TLS,0,216,15006.53549
+Asia and the Pacific,3,Oceania,32,Tonga,TON,0,219,766.5022653
+Americas,2,Caribbean,21,Trinidad and Tobago,TTO,0,220,5213.102096
+Africa,1,North Africa,13,Tunisia,TUN,0,221,155230.8391
+Europe and Central Asia,4,Central Europe,42,Turkey,TUR,0,222,782238.8742
+Asia and the Pacific,3,Oceania,32,Tuvalu,TUV,0,225,41.78597699
+Africa,1,East Africa and adjacent islands,12,United Republic of Tanzania,TZA,0,230,947252.6908
+Africa,1,East Africa and adjacent islands,12,Uganda,UGA,0,226,243144.8535
+Europe and Central Asia,4,Eastern Europe,43,Ukraine,UKR,0,227,598828.7966
+Americas,2,Caribbean,21,United States Minor Outlying Islands (Navassa island),UMI,1,232,4.955281917
+Asia and the Pacific,3,Oceania,32,"United States Minor Outlying Islands (Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Palmyra Atoll, and Wake Island)",UMI2,1,231,358.5426292
+Americas,2,South America,24,Uruguay,URY,0,235,178459.889
+Americas,2,North America,23,United States of America,USA,0,233,9473443.687
+Europe and Central Asia,4,Central Asia,41,Uzbekistan,UZB,0,236,450362.5106
+Europe and Central Asia,4,Western Europe,44,Holy See,VAT,1,98,0.610160561
+Americas,2,Caribbean,21,Saint Vincent and the Grenadines,VCT,0,186,409.9065688
+Americas,2,South America,24,Venezuela (Bolivarian Republic of),VEN,0,238,917367.6523
+Americas,2,Caribbean,21,British Virgin Islands,VGB,1,31,175.6050419
+Americas,2,Caribbean,21,United States Virgin Islands,VIR,1,234,375.6247703
+Asia and the Pacific,3,South-East Asia,34,Viet Nam,VNM,0,239,329880.371
+Asia and the Pacific,3,Oceania,32,Vanuatu,VUT,0,237,12575.12729
+Asia and the Pacific,3,Oceania,32,Walls and Futuna,WLF,1,240,180.6055172
+Asia and the Pacific,3,Oceania,32,Samoa,WSM,0,187,2893.945283
+Asia and the Pacific,3,Western Asia,35,Yemen,YEM,0,242,455938.919
+Africa,1,Southern Africa,14,South Africa,ZAF,0,201,1224384.577
+Africa,1,Southern Africa,14,Zambia,ZMB,0,243,755640.3907
+Africa,1,Southern Africa,14,Zimbabwe,ZWE,0,244,392573.2003
+Asia and the Pacific,3,Oceania,32,Easter Island,EAST,1,65,171.9108715
+Asia and the Pacific,3,Oceania,32,Hawaii,USHI,1,97,16947.60715
+Asia and the Pacific,3,Oceania,32,Oceanic and sub-Antarctic islands in the Pacific region,OCEA,0,160,501.2240589
